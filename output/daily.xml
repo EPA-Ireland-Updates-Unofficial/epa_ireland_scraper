@@ -3,43 +3,29 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-08-02.csv)</description>
-    <lastBuildDate>Sat, 02 Aug 2025 03:14:53 +0000</lastBuildDate>
-    <pubDate>Sat, 02 Aug 2025 03:14:53 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-08-03.csv)</description>
+    <lastBuildDate>Sun, 03 Aug 2025 03:12:05 +0000</lastBuildDate>
+    <pubDate>Sun, 03 Aug 2025 03:12:05 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: Air Monitoring 2024</title>
-        <link>https://leap.epa.ie/licence-profile/P0666/compliance/return/1b87782f-b313-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-08-01T00:00:00+00:00</description>
-        <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0666/compliance/return/1b87782f-b313-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Air Monitoring 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0666/compliance/return/3eb80002-a613-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-08-01T00:00:00+00:00</description>
-        <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0666/compliance/return/3eb80002-a613-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV28514</title>
-        <link>https://leap.epa.ie/licence-profile/P0406/compliance/return/5dccbc66-eab3-ef11-a36c-0050568a2d1a</link>
+        <title>Site Updates/Notifications: SV31723, NC032461 Condition 3.5</title>
+        <link>https://leap.epa.ie/licence-profile/P0921/compliance/return/220aeab1-2158-f011-a373-0050568a2d1a</link>
         <description>Type: Site Updates/Notifications<br>Date: 2025-08-01T00:00:00+00:00</description>
         <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0406/compliance/return/5dccbc66-eab3-ef11-a36c-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0921/compliance/return/220aeab1-2158-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Requests for Approval and Site Reports: Note 1 addition to Tables B.1-5 and B.1-7</title>
-        <link>https://leap.epa.ie/licence-profile/P0577/compliance/return/6fdad9c7-66e5-ef11-a372-0050568a2d1a</link>
+        <title>Requests for Approval and Site Reports: Relocation of temporary dust monitoring point DS5</title>
+        <link>https://leap.epa.ie/licence-profile/P1022/compliance/return/f24b6e7d-0158-f011-a373-0050568a2d1a</link>
         <description>Type: Requests for Approval and Site Reports<br>Date: 2025-08-01T00:00:00+00:00</description>
         <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0577/compliance/return/6fdad9c7-66e5-ef11-a372-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1022/compliance/return/f24b6e7d-0158-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Closure and Surrender: Licence Surrender Application</title>
-        <link>https://leap.epa.ie/licence-profile/P0887/compliance/return/fddeecfa-c44d-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Closure and Surrender<br>Date: 2025-08-01T00:00:00+00:00</description>
-        <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0887/compliance/return/fddeecfa-c44d-f011-a373-0050568a2d1a</guid>
+        <title>Requests for Approval and Site Reports: Further information in relation to LR094019</title>
+        <link>https://leap.epa.ie/licence-profile/P0517/compliance/return/04728eff-fe57-f011-a373-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-07-31T00:00:00+00:00</description>
+        <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0517/compliance/return/04728eff-fe57-f011-a373-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
