@@ -3,29 +3,29 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-08-03.csv)</description>
-    <lastBuildDate>Tue, 05 Aug 2025 03:11:57 +0000</lastBuildDate>
-    <pubDate>Tue, 05 Aug 2025 03:11:57 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-08-06.csv)</description>
+    <lastBuildDate>Wed, 06 Aug 2025 03:20:07 +0000</lastBuildDate>
+    <pubDate>Wed, 06 Aug 2025 03:20:07 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: SV31723, NC032461 Condition 3.5</title>
-        <link>https://leap.epa.ie/licence-profile/P0921/compliance/return/220aeab1-2158-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-08-01T00:00:00+00:00</description>
-        <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0921/compliance/return/220aeab1-2158-f011-a373-0050568a2d1a</guid>
+        <title>Monitoring Returns: sludge paunch and lairage data 2024</title>
+        <link>https://leap.epa.ie/licence-profile/P0177/compliance/return/2c4a5f6c-1bdf-ef11-a372-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-08-05T00:00:00+00:00</description>
+        <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0177/compliance/return/2c4a5f6c-1bdf-ef11-a372-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Requests for Approval and Site Reports: Relocation of temporary dust monitoring point DS5</title>
-        <link>https://leap.epa.ie/licence-profile/P1022/compliance/return/f24b6e7d-0158-f011-a373-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-08-01T00:00:00+00:00</description>
-        <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1022/compliance/return/f24b6e7d-0158-f011-a373-0050568a2d1a</guid>
+        <title>Requests for Approval and Site Reports: 2025 Fugitive Emissions Study</title>
+        <link>https://leap.epa.ie/licence-profile/P0650/compliance/return/87d5b091-c80f-f011-a373-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-08-05T00:00:00+00:00</description>
+        <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0650/compliance/return/87d5b091-c80f-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Requests for Approval and Site Reports: Further information in relation to LR094019</title>
-        <link>https://leap.epa.ie/licence-profile/P0517/compliance/return/04728eff-fe57-f011-a373-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-07-31T00:00:00+00:00</description>
-        <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0517/compliance/return/04728eff-fe57-f011-a373-0050568a2d1a</guid>
+        <title>Monitoring Returns: sludge and paunch data 2024</title>
+        <link>https://leap.epa.ie/licence-profile/P0184/compliance/return/f79b59c5-51de-ef11-a372-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-08-05T00:00:00+00:00</description>
+        <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0184/compliance/return/f79b59c5-51de-ef11-a372-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
