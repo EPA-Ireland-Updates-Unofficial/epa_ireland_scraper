@@ -3,15 +3,29 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-08-07.csv)</description>
-    <lastBuildDate>Thu, 07 Aug 2025 03:12:15 +0000</lastBuildDate>
-    <pubDate>Thu, 07 Aug 2025 03:12:15 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-08-08.csv)</description>
+    <lastBuildDate>Fri, 08 Aug 2025 03:11:55 +0000</lastBuildDate>
+    <pubDate>Fri, 08 Aug 2025 03:11:55 +0000</pubDate>
     <item>
-        <title>Complaint: P0168-02, 07/07/2025, Odour</title>
-        <link>https://leap.epa.ie/licence-profile/P0168/compliance/complaint/a91e4974-645b-f011-a373-0050568a2d1a</link>
-        <description>Type: Complaint<br>Date: 2025-08-06T00:00:00+00:00</description>
-        <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0168/compliance/complaint/a91e4974-645b-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Groundwater Report 38</title>
+        <link>https://leap.epa.ie/licence-profile/P0019/compliance/return/5bd04366-b8df-ef11-a372-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-08-07T00:00:00+00:00</description>
+        <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0019/compliance/return/5bd04366-b8df-ef11-a372-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: DQRA update- Tracer test and vapour monitoring interim results</title>
+        <link>https://leap.epa.ie/licence-profile/P0019/compliance/return/8eefb89b-44f0-ef11-a373-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-08-07T00:00:00+00:00</description>
+        <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0019/compliance/return/8eefb89b-44f0-ef11-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Corrective Action Plan- SV24251</title>
+        <link>https://leap.epa.ie/licence-profile/P0019/compliance/return/b3d6f9ca-4c8b-ed11-a34d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-08-07T00:00:00+00:00</description>
+        <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0019/compliance/return/b3d6f9ca-4c8b-ed11-a34d-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
