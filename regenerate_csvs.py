@@ -1,7 +1,12 @@
 #!/usr/bin/env python3
 """
-One-off script to regenerate all CSV files from April 1st, 2025 onwards.
+Script to regenerate CSV files for a specified date range.
 This will delete existing CSV files and regenerate them with the fixed deduplication logic.
+
+Usage: python regenerate_csvs.py <start_date> <end_date>
+Date format: YYYY-MM-DD
+
+If start_date and end_date are the same, only that single day will be processed.
 """
 
 import os
@@ -9,28 +14,29 @@ import subprocess
 import sys
 from datetime import datetime, timedelta
 
-def regenerate_all_csvs():
-    """Regenerate all CSV files from April 1st, 2025 to today."""
-    
-    # Define the start date
-    start_date = datetime(2025, 4, 1).date()
-    
-    # Get today's date
-    today = datetime.now().date()
+def parse_date(date_str):
+    """Parse a date string in YYYY-MM-DD format."""
+    try:
+        return datetime.strptime(date_str, "%Y-%m-%d").date()
+    except ValueError:
+        raise ValueError(f"Invalid date format: {date_str}. Expected YYYY-MM-DD")
+
+def regenerate_csvs(start_date, end_date):
+    """Regenerate CSV files for the specified date range."""
     
     # Output directory structure
     output_dir = os.path.join('output', 'csv', 'daily')
     
-    print(f"Regenerating CSV files from {start_date} to {today}")
+    print(f"Regenerating CSV files from {start_date} to {end_date}")
     print(f"Output directory: {output_dir}")
     
     # Counter for tracking progress
-    total_days = (today - start_date).days + 1
+    total_days = (end_date - start_date).days + 1
     current_day = 0
     
     # Iterate through each date
     current_date = start_date
-    while current_date <= today:
+    while current_date <= end_date:
         current_day += 1
         date_str = current_date.strftime("%Y-%m-%d")
         year = current_date.strftime("%Y")
@@ -72,18 +78,44 @@ def regenerate_all_csvs():
         # Move to next day
         current_date += timedelta(days=1)
     
-    print(f"\nCompleted processing {total_days} days from {start_date} to {today}")
+    print(f"\nCompleted processing {total_days} days from {start_date} to {end_date}")
     print("All CSV files have been regenerated with the fixed deduplication logic.")
 
 if __name__ == '__main__':
+    # Check command line arguments
+    if len(sys.argv) != 3:
+        print("Usage: python regenerate_csvs.py <start_date> <end_date>")
+        print("Date format: YYYY-MM-DD")
+        print("Example: python regenerate_csvs.py 2025-04-01 2025-04-15")
+        print("For a single day, use the same date for both arguments")
+        sys.exit(1)
+    
+    try:
+        start_date = parse_date(sys.argv[1])
+        end_date = parse_date(sys.argv[2])
+    except ValueError as e:
+        print(f"Error: {e}")
+        sys.exit(1)
+    
+    # Validate date range
+    if start_date > end_date:
+        print("Error: Start date cannot be after end date")
+        sys.exit(1)
+    
     # Confirm before running
-    print("This script will:")
-    print("1. Delete all existing CSV files from April 1st, 2025 onwards")
+    if start_date == end_date:
+        print(f"This script will regenerate CSV file for {start_date}")
+    else:
+        days_count = (end_date - start_date).days + 1
+        print(f"This script will regenerate CSV files for {days_count} days from {start_date} to {end_date}")
+    
+    print("Actions:")
+    print("1. Delete existing CSV files for the specified date range")
     print("2. Regenerate them using the fixed export_to_csv.py script")
     print("3. This may take several minutes depending on the date range")
     
     response = input("\nDo you want to proceed? (y/N): ").strip().lower()
     if response == 'y' or response == 'yes':
-        regenerate_all_csvs()
+        regenerate_csvs(start_date, end_date)
     else:
         print("Operation cancelled.") 
