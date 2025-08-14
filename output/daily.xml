@@ -3,85 +3,106 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-08-13.csv)</description>
-    <lastBuildDate>Wed, 13 Aug 2025 03:16:09 +0000</lastBuildDate>
-    <pubDate>Wed, 13 Aug 2025 03:16:09 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-08-14.csv)</description>
+    <lastBuildDate>Thu, 14 Aug 2025 03:14:17 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Aug 2025 03:14:17 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: sewer emissions 2024</title>
-        <link>https://leap.epa.ie/licence-profile/P0039/compliance/return/0c46e349-e2df-ef11-a372-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-08-12T00:00:00+00:00</description>
-        <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0039/compliance/return/0c46e349-e2df-ef11-a372-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Photo evidence of repairs to hardstanding</title>
+        <link>https://leap.epa.ie/licence-profile/W0240/compliance/return/106cd81d-582b-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-08-13T00:00:00+00:00</description>
+        <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0240/compliance/return/106cd81d-582b-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Corby Rock April SW Monitoring 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P1039/compliance/return/393b0cf9-8a2a-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-08-12T00:00:00+00:00</description>
-        <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1039/compliance/return/393b0cf9-8a2a-f011-a373-0050568a2d1a</guid>
+        <title>Monitoring Returns: 2024 Bi-Annual Noise Survey Report</title>
+        <link>https://leap.epa.ie/licence-profile/W0147/compliance/return/11f962a0-6ee4-ef11-a372-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-08-13T00:00:00+00:00</description>
+        <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0147/compliance/return/11f962a0-6ee4-ef11-a372-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Requests for Approval and Site Reports: Schedule B.1 Emissions to Air (Ammonia)</title>
-        <link>https://leap.epa.ie/licence-profile/P1197/compliance/return/696fc6b3-5d32-f011-a373-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-08-12T00:00:00+00:00</description>
-        <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1197/compliance/return/696fc6b3-5d32-f011-a373-0050568a2d1a</guid>
+        <title>Monitoring Returns: Annual Noise Monitoring Report 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0232/compliance/return/19d6ff02-4f35-f011-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-08-13T00:00:00+00:00</description>
+        <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0232/compliance/return/19d6ff02-4f35-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Corby Rock June SW Monitoring 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P1039/compliance/return/7a133121-be58-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-08-12T00:00:00+00:00</description>
-        <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1039/compliance/return/7a133121-be58-f011-a373-0050568a2d1a</guid>
+        <title>Monitoring Returns: Water results</title>
+        <link>https://leap.epa.ie/licence-profile/P0460/compliance/return/294b897b-d725-f011-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-08-13T00:00:00+00:00</description>
+        <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0460/compliance/return/294b897b-d725-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Corby Rock May SW Monitoring 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P1039/compliance/return/7b548e06-be58-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-08-12T00:00:00+00:00</description>
-        <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1039/compliance/return/7b548e06-be58-f011-a373-0050568a2d1a</guid>
+        <title>Monitoring Returns: Water test results fro wells and surface water</title>
+        <link>https://leap.epa.ie/licence-profile/P0825/compliance/return/331ff37d-b725-f011-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-08-13T00:00:00+00:00</description>
+        <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0825/compliance/return/331ff37d-b725-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: 2024 Annual Monitoring Return - Emissions to Sewer</title>
-        <link>https://leap.epa.ie/licence-profile/P0698/compliance/return/80e03a28-0c0f-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-08-12T00:00:00+00:00</description>
-        <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0698/compliance/return/80e03a28-0c0f-f011-a373-0050568a2d1a</guid>
+        <title>Monitoring Returns: Storm water report 2024</title>
+        <link>https://leap.epa.ie/licence-profile/W0147/compliance/return/358d0bfd-c8df-ef11-a372-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-08-13T00:00:00+00:00</description>
+        <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0147/compliance/return/358d0bfd-c8df-ef11-a372-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Q1 storm water results 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0229/compliance/return/9ca4fe15-e72c-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-08-12T00:00:00+00:00</description>
-        <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0229/compliance/return/9ca4fe15-e72c-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Monthly Surface Water Monitoring - June 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0076/compliance/return/55ab2478-6956-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-08-13T00:00:00+00:00</description>
+        <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0076/compliance/return/55ab2478-6956-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: sewer emissions 2024</title>
-        <link>https://leap.epa.ie/licence-profile/P0039/compliance/return/c7aa3708-d7e3-ef11-a372-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-08-12T00:00:00+00:00</description>
-        <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0039/compliance/return/c7aa3708-d7e3-ef11-a372-0050568a2d1a</guid>
+        <title>Monitoring Returns: Foul Water Report 2024</title>
+        <link>https://leap.epa.ie/licence-profile/W0147/compliance/return/5eda8ba7-c8df-ef11-a372-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-08-13T00:00:00+00:00</description>
+        <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0147/compliance/return/5eda8ba7-c8df-ef11-a372-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Surface water report - B1-2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0674/compliance/return/c87b62c3-0158-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-08-12T00:00:00+00:00</description>
-        <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0674/compliance/return/c87b62c3-0158-f011-a373-0050568a2d1a</guid>
+        <title>Monitoring Returns: Monitoring of New Compactor Installed in our facility.</title>
+        <link>https://leap.epa.ie/licence-profile/W0147/compliance/return/82a44f21-70e4-ef11-a372-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-08-13T00:00:00+00:00</description>
+        <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0147/compliance/return/82a44f21-70e4-ef11-a372-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: effluent and storm 2024</title>
-        <link>https://leap.epa.ie/licence-profile/P0177/compliance/return/d510f7fc-dfdf-ef11-a372-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-08-12T00:00:00+00:00</description>
-        <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0177/compliance/return/d510f7fc-dfdf-ef11-a372-0050568a2d1a</guid>
+        <title>Monitoring Returns: Dust Monitoring Report 2024</title>
+        <link>https://leap.epa.ie/licence-profile/W0147/compliance/return/a1daea60-c8df-ef11-a372-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-08-13T00:00:00+00:00</description>
+        <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0147/compliance/return/a1daea60-c8df-ef11-a372-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: sewer emissions 2024</title>
-        <link>https://leap.epa.ie/licence-profile/P0040/compliance/return/e6262108-eadf-ef11-a372-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-08-12T00:00:00+00:00</description>
+        <title>Site Updates/Notifications: New Dust Monitoring location South west of Stockpile</title>
+        <link>https://leap.epa.ie/licence-profile/W0078/compliance/return/f628fd4a-7f3c-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-08-13T00:00:00+00:00</description>
+        <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0078/compliance/return/f628fd4a-7f3c-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Pre site visit documentation</title>
+        <link>https://leap.epa.ie/licence-profile/D0071/compliance/return/f356ebf2-ca60-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-08-12T00:00:00+00:00</description>
         <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0040/compliance/return/e6262108-eadf-ef11-a372-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0071/compliance/return/f356ebf2-ca60-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Pre site visit documentation</title>
+        <link>https://leap.epa.ie/licence-profile/D0218/compliance/return/f5ecac35-ca60-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-08-12T00:00:00+00:00</description>
+        <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0218/compliance/return/f5ecac35-ca60-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Incident: LV (COD &amp; BOD) Breach Limited impact. Discharge to Rocklands WWTP. COD load Kg/d - Result - 8</title>
+        <link>https://leap.epa.ie/licence-profile/P0794/compliance/incident/4c9854c5-c660-f011-a373-0050568a2d1a</link>
+        <description>Type: Incident<br>Date: 2025-08-11T00:00:00+00:00</description>
+        <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0794/compliance/incident/4c9854c5-c660-f011-a373-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
