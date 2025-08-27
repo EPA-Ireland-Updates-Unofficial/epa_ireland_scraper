@@ -3,43 +3,29 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-08-26.csv)</description>
-    <lastBuildDate>Tue, 26 Aug 2025 03:13:35 +0000</lastBuildDate>
-    <pubDate>Tue, 26 Aug 2025 03:13:35 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-08-27.csv)</description>
+    <lastBuildDate>Wed, 27 Aug 2025 03:31:00 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Aug 2025 03:31:00 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: bund integrity tests 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0140/compliance/return/204fd076-d563-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-08-25T00:00:00+00:00</description>
-        <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0140/compliance/return/204fd076-d563-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Pre site visit documentation</title>
+        <link>https://leap.epa.ie/licence-profile/D0217/compliance/return/47eaf99a-c960-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-08-26T00:00:00+00:00</description>
+        <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0217/compliance/return/47eaf99a-c960-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Compost monitoring Q2</title>
-        <link>https://leap.epa.ie/licence-profile/W0034/compliance/return/3aff4e4f-1763-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-08-25T00:00:00+00:00</description>
-        <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0034/compliance/return/3aff4e4f-1763-f011-a373-0050568a2d1a</guid>
+        <title>Requests for Approval and Site Reports: Waste Outlet</title>
+        <link>https://leap.epa.ie/licence-profile/W0107/compliance/return/f5caabc3-8a52-f011-a373-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-08-26T00:00:00+00:00</description>
+        <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0107/compliance/return/f5caabc3-8a52-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV32643</title>
-        <link>https://leap.epa.ie/licence-profile/W0044/compliance/return/41da58c6-5374-f011-a373-0050568a2d1a</link>
+        <title>Site Updates/Notifications: Licensee Public Response - SV32725</title>
+        <link>https://leap.epa.ie/licence-profile/P0831/compliance/return/ef6f5c37-9c81-f011-a373-0050568a2d1a</link>
         <description>Type: Site Updates/Notifications<br>Date: 2025-08-25T00:00:00+00:00</description>
         <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0044/compliance/return/41da58c6-5374-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: ODS and F-Gas Maintenance and Leak Check Records</title>
-        <link>https://leap.epa.ie/licence-profile/P0818/compliance/return/78a709a2-f116-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-08-25T00:00:00+00:00</description>
-        <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0818/compliance/return/78a709a2-f116-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Annual Ground Water Monitoring Report 2024</title>
-        <link>https://leap.epa.ie/licence-profile/W0001/compliance/return/a7c46a69-a9fa-ef11-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-08-25T00:00:00+00:00</description>
-        <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0001/compliance/return/a7c46a69-a9fa-ef11-a373-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0831/compliance/return/ef6f5c37-9c81-f011-a373-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
