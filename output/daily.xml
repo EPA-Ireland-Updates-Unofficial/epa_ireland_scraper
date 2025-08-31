@@ -3,127 +3,29 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-08-30.csv)</description>
-    <lastBuildDate>Sat, 30 Aug 2025 03:12:45 +0000</lastBuildDate>
-    <pubDate>Sat, 30 Aug 2025 03:12:45 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-08-31.csv)</description>
+    <lastBuildDate>Sun, 31 Aug 2025 03:47:31 +0000</lastBuildDate>
+    <pubDate>Sun, 31 Aug 2025 03:47:31 +0000</pubDate>
     <item>
-        <title>Requests for Approval and Site Reports: P1189-01 Revised AAQMP</title>
-        <link>https://leap.epa.ie/licence-profile/P1189/compliance/return/0ca1e43c-f74c-f011-a373-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-08-29T00:00:00+00:00</description>
-        <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1189/compliance/return/0ca1e43c-f74c-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: June 2025 Monitoring Results</title>
-        <link>https://leap.epa.ie/licence-profile/P0650/compliance/return/2302f4d8-8f6b-f011-a373-0050568a2d1a</link>
+        <title>Monitoring Returns: Q2 2025 Ground Water Testing</title>
+        <link>https://leap.epa.ie/licence-profile/P0795/compliance/return/2bfa7e98-016e-f011-a373-0050568a2d1a</link>
         <description>Type: Monitoring Returns<br>Date: 2025-08-29T00:00:00+00:00</description>
         <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0650/compliance/return/2302f4d8-8f6b-f011-a373-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0795/compliance/return/2bfa7e98-016e-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: SV response</title>
-        <link>https://leap.epa.ie/licence-profile/P0047/compliance/return/4c28a183-084d-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-08-29T00:00:00+00:00</description>
-        <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0047/compliance/return/4c28a183-084d-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: ICL Limerick 2025 - Blast 9 7th August</title>
+        <link>https://leap.epa.ie/licence-profile/P0029/compliance/return/59c25a80-df6d-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-08-28T00:00:00+00:00</description>
+        <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0029/compliance/return/59c25a80-df6d-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Response to Licensee report SV31455, 1.7 Boiler combustion efficiency report</title>
-        <link>https://leap.epa.ie/licence-profile/P0181/compliance/return/51c982df-2b04-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-08-29T00:00:00+00:00</description>
-        <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0181/compliance/return/51c982df-2b04-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Response to Licence Condition 3.18.2</title>
-        <link>https://leap.epa.ie/licence-profile/P0089/compliance/return/663cbef4-17ea-ef11-a372-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-08-29T00:00:00+00:00</description>
-        <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0089/compliance/return/663cbef4-17ea-ef11-a372-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: 2024 monitoring reports for SE6 &amp; SW1</title>
-        <link>https://leap.epa.ie/licence-profile/P0297/compliance/return/7c0d4a59-a1cd-ef11-a36e-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-08-29T00:00:00+00:00</description>
-        <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0297/compliance/return/7c0d4a59-a1cd-ef11-a36e-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Response to Licensee report SV31455</title>
-        <link>https://leap.epa.ie/licence-profile/P0181/compliance/return/8e567b9b-2204-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-08-29T00:00:00+00:00</description>
-        <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0181/compliance/return/8e567b9b-2204-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Response to Licensee report SV31455, 1.2 Site drainage map</title>
-        <link>https://leap.epa.ie/licence-profile/P0181/compliance/return/98af7f43-2304-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-08-29T00:00:00+00:00</description>
-        <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0181/compliance/return/98af7f43-2304-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Requests for Approval and Site Reports: Updated AAQMP 6-6-25</title>
-        <link>https://leap.epa.ie/licence-profile/P1187/compliance/return/9f3a0b58-e442-f011-a373-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-08-29T00:00:00+00:00</description>
-        <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1187/compliance/return/9f3a0b58-e442-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: response SV31770</title>
-        <link>https://leap.epa.ie/licence-profile/P0047/compliance/return/b5a3af8b-1358-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-08-29T00:00:00+00:00</description>
-        <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0047/compliance/return/b5a3af8b-1358-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Requests for Approval and Site Reports: Updated AAQMP 6-6-25</title>
-        <link>https://leap.epa.ie/licence-profile/P1191/compliance/return/bdf453d4-e442-f011-a373-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-08-29T00:00:00+00:00</description>
-        <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1191/compliance/return/bdf453d4-e442-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Response to Licensee report SV31455, 1.4 Composite sampler</title>
-        <link>https://leap.epa.ie/licence-profile/P0181/compliance/return/cc0787e9-2804-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-08-29T00:00:00+00:00</description>
-        <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0181/compliance/return/cc0787e9-2804-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV32748</title>
-        <link>https://leap.epa.ie/licence-profile/P0812/compliance/return/cf1a7759-0167-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-08-29T00:00:00+00:00</description>
-        <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0812/compliance/return/cf1a7759-0167-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Response to Licensee report SV31455, 1.8 Training</title>
-        <link>https://leap.epa.ie/licence-profile/P0181/compliance/return/eeeb4823-2c04-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-08-29T00:00:00+00:00</description>
-        <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0181/compliance/return/eeeb4823-2c04-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Environmental Air monitoring reports for 2024</title>
-        <link>https://leap.epa.ie/licence-profile/P0297/compliance/return/fc893a89-a2cd-ef11-a36e-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-08-29T00:00:00+00:00</description>
-        <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0297/compliance/return/fc893a89-a2cd-ef11-a36e-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Complaint: P0205-02, 30/07/25, Odour</title>
-        <link>https://leap.epa.ie/licence-profile/P0205/compliance/complaint/cf276bec-f06d-f011-a373-0050568a2d1a</link>
-        <description>Type: Complaint<br>Date: 2025-08-27T00:00:00+00:00</description>
-        <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0205/compliance/complaint/cf276bec-f06d-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Incident: motor failed on belt press</title>
-        <link>https://leap.epa.ie/licence-profile/D0031/compliance/incident/b5024bcb-5b6d-f011-a373-0050568a2d1a</link>
-        <description>Type: Incident<br>Date: 2025-08-27T00:00:00+00:00</description>
-        <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0031/compliance/incident/b5024bcb-5b6d-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: ICL Limerick 2025 - Blast 10 14th August</title>
+        <link>https://leap.epa.ie/licence-profile/P0029/compliance/return/aa1cc39e-df6d-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-08-28T00:00:00+00:00</description>
+        <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0029/compliance/return/aa1cc39e-df6d-f011-a373-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
