@@ -3,57 +3,22 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-09-03.csv)</description>
-    <lastBuildDate>Wed, 03 Sep 2025 04:12:41 +0000</lastBuildDate>
-    <pubDate>Wed, 03 Sep 2025 04:12:41 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-09-04.csv)</description>
+    <lastBuildDate>Thu, 04 Sep 2025 04:38:32 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Sep 2025 04:38:32 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: Biannual Ground Water Monitor first half 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0407/compliance/return/5ac265c7-7d6c-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-09-02T00:00:00+00:00</description>
-        <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0407/compliance/return/5ac265c7-7d6c-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Summer 2025 Hoilday Shutdown Schedule</title>
+        <link>https://leap.epa.ie/licence-profile/P0835/compliance/return/1ad2ea56-6261-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-03T00:00:00+00:00</description>
+        <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0835/compliance/return/1ad2ea56-6261-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: additional information for LR092172</title>
-        <link>https://leap.epa.ie/licence-profile/W0050/compliance/return/5d085a6e-1e66-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-09-02T00:00:00+00:00</description>
-        <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0050/compliance/return/5d085a6e-1e66-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: SW02 outfall headwall relocation</title>
-        <link>https://leap.epa.ie/licence-profile/P1022/compliance/return/847d0d6c-6868-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-09-02T00:00:00+00:00</description>
-        <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1022/compliance/return/847d0d6c-6868-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Requests for Approval and Site Reports: Addition of 2 Non Haz EWC's</title>
-        <link>https://leap.epa.ie/licence-profile/W0050/compliance/return/8e1ab7a5-4006-f011-a373-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-09-02T00:00:00+00:00</description>
-        <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0050/compliance/return/8e1ab7a5-4006-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: 2025 Q2 Heraeus Precious Metal Ireland report</title>
-        <link>https://leap.epa.ie/licence-profile/P0145/compliance/return/aa0e794f-216e-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-09-02T00:00:00+00:00</description>
-        <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0145/compliance/return/aa0e794f-216e-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Reponse to SV32801</title>
-        <link>https://leap.epa.ie/licence-profile/W0136/compliance/return/c624a99b-da6e-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-09-02T00:00:00+00:00</description>
-        <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0136/compliance/return/c624a99b-da6e-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV31707</title>
-        <link>https://leap.epa.ie/licence-profile/W0211/compliance/return/ddb70770-b56b-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-09-02T00:00:00+00:00</description>
-        <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0211/compliance/return/ddb70770-b56b-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: W0263- SV31726 return for NC032256</title>
+        <link>https://leap.epa.ie/licence-profile/W0263/compliance/return/42587d58-845d-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-03T00:00:00+00:00</description>
+        <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0263/compliance/return/42587d58-845d-f011-a373-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
