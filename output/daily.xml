@@ -3,22 +3,15 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-09-06.csv)</description>
-    <lastBuildDate>Sat, 06 Sep 2025 03:51:15 +0000</lastBuildDate>
-    <pubDate>Sat, 06 Sep 2025 03:51:15 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-09-07.csv)</description>
+    <lastBuildDate>Sun, 07 Sep 2025 03:12:27 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Sep 2025 03:12:27 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: Groudwater Monitoring B1 2025 P0814-01</title>
-        <link>https://leap.epa.ie/licence-profile/P0814/compliance/return/36ea7e47-3945-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-09-05T00:00:00+00:00</description>
-        <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0814/compliance/return/36ea7e47-3945-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV31794</title>
-        <link>https://leap.epa.ie/licence-profile/P0814/compliance/return/afc6d48f-270e-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-09-05T00:00:00+00:00</description>
-        <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0814/compliance/return/afc6d48f-270e-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Planned Maintenance_Sludge Return Pump</title>
+        <link>https://leap.epa.ie/licence-profile/D0487/compliance/return/a000289c-9473-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-04T00:00:00+00:00</description>
+        <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0487/compliance/return/a000289c-9473-f011-a373-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
