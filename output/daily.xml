@@ -3,15 +3,15 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-09-07.csv)</description>
-    <lastBuildDate>Mon, 08 Sep 2025 03:12:55 +0000</lastBuildDate>
-    <pubDate>Mon, 08 Sep 2025 03:12:55 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-09-09.csv)</description>
+    <lastBuildDate>Tue, 09 Sep 2025 03:10:50 +0000</lastBuildDate>
+    <pubDate>Tue, 09 Sep 2025 03:10:50 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Planned Maintenance_Sludge Return Pump</title>
-        <link>https://leap.epa.ie/licence-profile/D0487/compliance/return/a000289c-9473-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-09-04T00:00:00+00:00</description>
-        <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0487/compliance/return/a000289c-9473-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Licensee Public Response - SV32377</title>
+        <link>https://leap.epa.ie/licence-profile/W0240/compliance/return/edfa0260-491c-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-08T00:00:00+00:00</description>
+        <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0240/compliance/return/edfa0260-491c-f011-a373-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
