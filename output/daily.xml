@@ -3,15 +3,64 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-09-09.csv)</description>
-    <lastBuildDate>Tue, 09 Sep 2025 03:10:50 +0000</lastBuildDate>
-    <pubDate>Tue, 09 Sep 2025 03:10:50 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-09-10.csv)</description>
+    <lastBuildDate>Wed, 10 Sep 2025 03:10:35 +0000</lastBuildDate>
+    <pubDate>Wed, 10 Sep 2025 03:10:35 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV32377</title>
-        <link>https://leap.epa.ie/licence-profile/W0240/compliance/return/edfa0260-491c-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-09-08T00:00:00+00:00</description>
+        <title>Site Updates/Notifications: Response to Site Visit Report Ref: SV29484</title>
+        <link>https://leap.epa.ie/licence-profile/P1138/compliance/return/1bbb447e-ddbe-ef11-a36d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-09T00:00:00+00:00</description>
+        <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1138/compliance/return/1bbb447e-ddbe-ef11-a36d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: W0263-01 SV31726 response</title>
+        <link>https://leap.epa.ie/licence-profile/W0263/compliance/return/1d377da2-c160-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-09T00:00:00+00:00</description>
+        <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0263/compliance/return/1d377da2-c160-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Ringsend Flexgen (IS3) SW1 Waste Water Analysis</title>
+        <link>https://leap.epa.ie/licence-profile/P1151/compliance/return/1fda7e95-0d30-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-09T00:00:00+00:00</description>
+        <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1151/compliance/return/1fda7e95-0d30-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Waste water integrity testing as requested by Uisce Eireann (UE)</title>
+        <link>https://leap.epa.ie/licence-profile/P1192/compliance/return/66c20865-b463-ef11-a36a-b687df52d074</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-09T00:00:00+00:00</description>
+        <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1192/compliance/return/66c20865-b463-ef11-a36a-b687df52d074</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Response to NC030684 following Site Visit report 28486</title>
+        <link>https://leap.epa.ie/licence-profile/P0050/compliance/return/c577d7dd-5fe8-ef11-a372-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-09T00:00:00+00:00</description>
+        <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0050/compliance/return/c577d7dd-5fe8-ef11-a372-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: W0263- SV31726 Drain Survey 2022 &amp; 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0263/compliance/return/e62e24ca-bf60-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-09T00:00:00+00:00</description>
+        <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0263/compliance/return/e62e24ca-bf60-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Ref. Nr. SV29268 - Site Visit Report</title>
+        <link>https://leap.epa.ie/licence-profile/P1192/compliance/return/ec7d6e77-0fbe-ef11-a36d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-09T00:00:00+00:00</description>
+        <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1192/compliance/return/ec7d6e77-0fbe-ef11-a36d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Visit: </title>
+        <link>https://leap.epa.ie/licence-profile/D0264/compliance/sitevisit/4411a286-bd7d-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Visit<br>Date: 2025-09-08T00:00:00+00:00</description>
         <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0240/compliance/return/edfa0260-491c-f011-a373-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0264/compliance/sitevisit/4411a286-bd7d-f011-a373-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
