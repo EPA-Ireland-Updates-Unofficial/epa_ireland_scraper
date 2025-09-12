@@ -3,99 +3,85 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-09-11.csv)</description>
-    <lastBuildDate>Thu, 11 Sep 2025 03:09:12 +0000</lastBuildDate>
-    <pubDate>Thu, 11 Sep 2025 03:09:12 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-09-12.csv)</description>
+    <lastBuildDate>Fri, 12 Sep 2025 03:47:47 +0000</lastBuildDate>
+    <pubDate>Fri, 12 Sep 2025 03:47:47 +0000</pubDate>
     <item>
-        <title>Complaint: P0325-02, 11/08/25, Odour</title>
-        <link>https://leap.epa.ie/licence-profile/P0325/compliance/complaint/88bd564c-8b76-f011-a373-0050568a2d1a</link>
-        <description>Type: Complaint<br>Date: 2025-09-10T00:00:00+00:00</description>
-        <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0325/compliance/complaint/88bd564c-8b76-f011-a373-0050568a2d1a</guid>
+        <title>Complaint: P0325-02, 12/08/25, odour</title>
+        <link>https://leap.epa.ie/licence-profile/P0325/compliance/complaint/048e4eaf-b977-f011-a373-0050568a2d1a</link>
+        <description>Type: Complaint<br>Date: 2025-09-11T00:00:00+00:00</description>
+        <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0325/compliance/complaint/048e4eaf-b977-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Complaint: P0325-02, 12/08/25, Odour</title>
+        <link>https://leap.epa.ie/licence-profile/P0325/compliance/complaint/7097d3fd-b577-f011-a373-0050568a2d1a</link>
+        <description>Type: Complaint<br>Date: 2025-09-11T00:00:00+00:00</description>
+        <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0325/compliance/complaint/7097d3fd-b577-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Complaint: P0325-02, 12/08/25, Odour</title>
+        <link>https://leap.epa.ie/licence-profile/P0325/compliance/complaint/737eb511-6277-f011-a373-0050568a2d1a</link>
+        <description>Type: Complaint<br>Date: 2025-09-11T00:00:00+00:00</description>
+        <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0325/compliance/complaint/737eb511-6277-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
         <title>Complaint: P0325-02, 11/08/25, Odour</title>
-        <link>https://leap.epa.ie/licence-profile/P0325/compliance/complaint/e3085841-8d76-f011-a373-0050568a2d1a</link>
-        <description>Type: Complaint<br>Date: 2025-09-10T00:00:00+00:00</description>
-        <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0325/compliance/complaint/e3085841-8d76-f011-a373-0050568a2d1a</guid>
+        <link>https://leap.epa.ie/licence-profile/P0325/compliance/complaint/741892d1-6177-f011-a373-0050568a2d1a</link>
+        <description>Type: Complaint<br>Date: 2025-09-11T00:00:00+00:00</description>
+        <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0325/compliance/complaint/741892d1-6177-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Incident: Monitoring Equipment Issues</title>
-        <link>https://leap.epa.ie/licence-profile/P0738/compliance/incident/05160ea9-c076-f011-a373-0050568a2d1a</link>
+        <title>Requests for Approval and Site Reports: RFA new MFG Process - SKIE-0022, step 2</title>
+        <link>https://leap.epa.ie/licence-profile/P0014/compliance/return/56e465b6-49cc-ef11-a36e-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-09-11T00:00:00+00:00</description>
+        <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0014/compliance/return/56e465b6-49cc-ef11-a36e-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: SW1 Discharge Monitoring Results for 2024</title>
+        <link>https://leap.epa.ie/licence-profile/P0832/compliance/return/5e519be4-4b46-f011-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-09-11T00:00:00+00:00</description>
+        <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0832/compliance/return/5e519be4-4b46-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Response to item 1.2 from site visit SV32583</title>
+        <link>https://leap.epa.ie/licence-profile/W0255/compliance/return/bbbf3d8a-a946-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-11T00:00:00+00:00</description>
+        <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0255/compliance/return/bbbf3d8a-a946-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Complaint: P0325-02, 11/08/25, Odour</title>
+        <link>https://leap.epa.ie/licence-profile/P0325/compliance/complaint/0f62e3c1-3c77-f011-a373-0050568a2d1a</link>
+        <description>Type: Complaint<br>Date: 2025-09-10T00:00:00+00:00</description>
+        <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0325/compliance/complaint/0f62e3c1-3c77-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Complaint: P0325-02, 12/08/25, Odour</title>
+        <link>https://leap.epa.ie/licence-profile/P0325/compliance/complaint/1c887e93-3d77-f011-a373-0050568a2d1a</link>
+        <description>Type: Complaint<br>Date: 2025-09-10T00:00:00+00:00</description>
+        <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0325/compliance/complaint/1c887e93-3d77-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Complaint: P0325-02, 12/08/25, Odour</title>
+        <link>https://leap.epa.ie/licence-profile/P0325/compliance/complaint/e586b74b-3f77-f011-a373-0050568a2d1a</link>
+        <description>Type: Complaint<br>Date: 2025-09-10T00:00:00+00:00</description>
+        <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0325/compliance/complaint/e586b74b-3f77-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Incident: Disturbance of settled material in the interceptors during cleaning/emptying</title>
+        <link>https://leap.epa.ie/licence-profile/P0464/compliance/incident/7070f39d-9977-f011-a373-0050568a2d1a</link>
         <description>Type: Incident<br>Date: 2025-09-10T00:00:00+00:00</description>
         <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0738/compliance/incident/05160ea9-c076-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Q1 2025 Emissions to Sewer Report</title>
-        <link>https://leap.epa.ie/licence-profile/P0508/compliance/return/03b1379e-b31a-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-09-10T00:00:00+00:00</description>
-        <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0508/compliance/return/03b1379e-b31a-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Q4 2024 Surface Water Monitoring Return</title>
-        <link>https://leap.epa.ie/licence-profile/P0508/compliance/return/27cfa9f1-bcd1-ef11-a36e-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-09-10T00:00:00+00:00</description>
-        <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0508/compliance/return/27cfa9f1-bcd1-ef11-a36e-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: P0508-02 Surface Water Q2 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0508/compliance/return/41a82fb7-455e-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-09-10T00:00:00+00:00</description>
-        <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0508/compliance/return/41a82fb7-455e-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Balleally Annual Surface Water Monitoring Report 2024</title>
-        <link>https://leap.epa.ie/licence-profile/W0009/compliance/return/4e52dd4d-fcdf-ef11-a372-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-09-10T00:00:00+00:00</description>
-        <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0009/compliance/return/4e52dd4d-fcdf-ef11-a372-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Q2 2025 Emissions to Swer</title>
-        <link>https://leap.epa.ie/licence-profile/P0508/compliance/return/713a7979-7c61-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-09-10T00:00:00+00:00</description>
-        <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0508/compliance/return/713a7979-7c61-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Q4 2024 Emissions to Sewer Report</title>
-        <link>https://leap.epa.ie/licence-profile/P0508/compliance/return/84b64f55-bdd1-ef11-a36e-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-09-10T00:00:00+00:00</description>
-        <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0508/compliance/return/84b64f55-bdd1-ef11-a36e-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Q1 2025 Surface Water Monitoring Return</title>
-        <link>https://leap.epa.ie/licence-profile/P0508/compliance/return/91a2495d-b31a-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-09-10T00:00:00+00:00</description>
-        <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0508/compliance/return/91a2495d-b31a-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: SV31086 - COD Exceedance</title>
-        <link>https://leap.epa.ie/licence-profile/P0508/compliance/return/97e8567c-6c09-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-09-10T00:00:00+00:00</description>
-        <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0508/compliance/return/97e8567c-6c09-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Q1 2025 Surface Water Monitoring Return</title>
-        <link>https://leap.epa.ie/licence-profile/P0508/compliance/return/a1a5a0ab-b21a-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-09-10T00:00:00+00:00</description>
-        <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0508/compliance/return/a1a5a0ab-b21a-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Complaint: Pollution Little Brosna River Birr Co.Offaly</title>
-        <link>https://leap.epa.ie/licence-profile/D0109/compliance/complaint/0a391efd-7a77-f011-a373-0050568a2d1a</link>
-        <description>Type: Complaint<br>Date: 2025-09-08T00:00:00+00:00</description>
-        <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0109/compliance/complaint/0a391efd-7a77-f011-a373-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0464/compliance/incident/7070f39d-9977-f011-a373-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
