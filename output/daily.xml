@@ -3,71 +3,29 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-09-13.csv)</description>
-    <lastBuildDate>Mon, 15 Sep 2025 03:11:27 +0000</lastBuildDate>
-    <pubDate>Mon, 15 Sep 2025 03:11:27 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-09-16.csv)</description>
+    <lastBuildDate>Tue, 16 Sep 2025 03:06:58 +0000</lastBuildDate>
+    <pubDate>Tue, 16 Sep 2025 03:06:58 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV31543</title>
-        <link>https://leap.epa.ie/licence-profile/W0070/compliance/return/221e90ce-1c16-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-09-12T00:00:00+00:00</description>
-        <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0070/compliance/return/221e90ce-1c16-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Distributed Generation Procedure for Maintaining IE Licence Compliance (Gaseous Emissions)</title>
+        <link>https://leap.epa.ie/licence-profile/P1138/compliance/return/1d248e00-80b9-ef11-a36c-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-15T00:00:00+00:00</description>
+        <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1138/compliance/return/1d248e00-80b9-ef11-a36c-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: 2025 Ballaghveny Landfill Surface Emissions Report</title>
-        <link>https://leap.epa.ie/licence-profile/W0078/compliance/return/622f0d78-dc37-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-09-12T00:00:00+00:00</description>
-        <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0078/compliance/return/622f0d78-dc37-f011-a373-0050568a2d1a</guid>
+        <title>Monitoring Returns: W0003-03 2025 Q2 Tonnage Reports</title>
+        <link>https://leap.epa.ie/licence-profile/W0003/compliance/return/a90fafdb-9f5d-f011-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-09-15T00:00:00+00:00</description>
+        <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0003/compliance/return/a90fafdb-9f5d-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Response to SV32176</title>
-        <link>https://leap.epa.ie/licence-profile/W0145/compliance/return/6fbb6863-d316-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-09-12T00:00:00+00:00</description>
-        <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0145/compliance/return/6fbb6863-d316-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Q4 Groundwater Monitoring Report</title>
-        <link>https://leap.epa.ie/licence-profile/W0113/compliance/return/79d60fe2-9cbb-ef11-a36d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-09-12T00:00:00+00:00</description>
-        <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0113/compliance/return/79d60fe2-9cbb-ef11-a36d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: 2024 Kilcullen Landfill Leachate Monitoring report</title>
-        <link>https://leap.epa.ie/licence-profile/W0081/compliance/return/7d0817ff-fbdf-ef11-a372-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-09-12T00:00:00+00:00</description>
-        <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0081/compliance/return/7d0817ff-fbdf-ef11-a372-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Reply to SV30717 - Update Report</title>
-        <link>https://leap.epa.ie/licence-profile/W0001/compliance/return/91a052cc-f40a-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-09-12T00:00:00+00:00</description>
-        <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0001/compliance/return/91a052cc-f40a-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Surface Emissions Monitoring Round 2 2024</title>
-        <link>https://leap.epa.ie/licence-profile/W0011/compliance/return/c6e9177b-5cb1-ef11-a36c-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-09-12T00:00:00+00:00</description>
-        <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0011/compliance/return/c6e9177b-5cb1-ef11-a36c-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: 2024 Ballaghveny Landfill Dust report Round 3.</title>
-        <link>https://leap.epa.ie/licence-profile/W0078/compliance/return/d6f1b11a-eff8-ef11-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-09-12T00:00:00+00:00</description>
-        <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0078/compliance/return/d6f1b11a-eff8-ef11-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: 2024 Ballaghveny Landfill Dust report Round 2</title>
-        <link>https://leap.epa.ie/licence-profile/W0078/compliance/return/ecb00ffb-eef8-ef11-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-09-12T00:00:00+00:00</description>
-        <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0078/compliance/return/ecb00ffb-eef8-ef11-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Licensee Public Response - SV32846</title>
+        <link>https://leap.epa.ie/licence-profile/W0082/compliance/return/945ab669-3388-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-14T00:00:00+00:00</description>
+        <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0082/compliance/return/945ab669-3388-f011-a373-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
