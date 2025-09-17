@@ -3,29 +3,106 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-09-16.csv)</description>
-    <lastBuildDate>Tue, 16 Sep 2025 03:06:58 +0000</lastBuildDate>
-    <pubDate>Tue, 16 Sep 2025 03:06:58 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-09-17.csv)</description>
+    <lastBuildDate>Wed, 17 Sep 2025 03:06:55 +0000</lastBuildDate>
+    <pubDate>Wed, 17 Sep 2025 03:06:55 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Distributed Generation Procedure for Maintaining IE Licence Compliance (Gaseous Emissions)</title>
-        <link>https://leap.epa.ie/licence-profile/P1138/compliance/return/1d248e00-80b9-ef11-a36c-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-09-15T00:00:00+00:00</description>
-        <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1138/compliance/return/1d248e00-80b9-ef11-a36c-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Licensee Public Response - SV29257</title>
+        <link>https://leap.epa.ie/licence-profile/P1173/compliance/return/0457c317-76c1-ef11-a36d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-16T00:00:00+00:00</description>
+        <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1173/compliance/return/0457c317-76c1-ef11-a36d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: W0003-03 2025 Q2 Tonnage Reports</title>
-        <link>https://leap.epa.ie/licence-profile/W0003/compliance/return/a90fafdb-9f5d-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-09-15T00:00:00+00:00</description>
-        <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0003/compliance/return/a90fafdb-9f5d-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Annual Settlement and Stability Survey</title>
+        <link>https://leap.epa.ie/licence-profile/W0002/compliance/return/0cd139db-c74a-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-16T00:00:00+00:00</description>
+        <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0002/compliance/return/0cd139db-c74a-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV32846</title>
-        <link>https://leap.epa.ie/licence-profile/W0082/compliance/return/945ab669-3388-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-09-14T00:00:00+00:00</description>
-        <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0082/compliance/return/945ab669-3388-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Schedule C 2.3 Monitoring of Storm Water Emissions</title>
+        <link>https://leap.epa.ie/licence-profile/P1170/compliance/return/15acdf6a-4242-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-16T00:00:00+00:00</description>
+        <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1170/compliance/return/15acdf6a-4242-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Response to Site Visit Report - SV32607</title>
+        <link>https://leap.epa.ie/licence-profile/W0076/compliance/return/25f0294b-a24a-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-16T00:00:00+00:00</description>
+        <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0076/compliance/return/25f0294b-a24a-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Completion Notice - Plough Dredging Foynes 29/08/2025</title>
+        <link>https://leap.epa.ie/licence-profile/S0009/compliance/return/27fa925a-d692-f011-a377-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-16T00:00:00+00:00</description>
+        <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0009/compliance/return/27fa925a-d692-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Completion Notice - Plough Dredging Foynes 12/09/2025</title>
+        <link>https://leap.epa.ie/licence-profile/S0009/compliance/return/2c0e7584-d692-f011-a377-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-16T00:00:00+00:00</description>
+        <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0009/compliance/return/2c0e7584-d692-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Completion Notice - Plough Dredging Foynes 15/08/2025</title>
+        <link>https://leap.epa.ie/licence-profile/S0009/compliance/return/4bd41222-d692-f011-a377-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-16T00:00:00+00:00</description>
+        <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0009/compliance/return/4bd41222-d692-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Stormwater daily visual notification</title>
+        <link>https://leap.epa.ie/licence-profile/P1191/compliance/return/5128b35b-4f62-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-16T00:00:00+00:00</description>
+        <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1191/compliance/return/5128b35b-4f62-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Completion Notice - Plough Dredging Foynes 31/07/2025</title>
+        <link>https://leap.epa.ie/licence-profile/S0009/compliance/return/636cebed-d592-f011-a377-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-16T00:00:00+00:00</description>
+        <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0009/compliance/return/636cebed-d592-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Commencement Notice - Plough Dredging Schedule Q4 2025</title>
+        <link>https://leap.epa.ie/licence-profile/S0009/compliance/return/9c28b3dc-e492-f011-a377-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-16T00:00:00+00:00</description>
+        <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0009/compliance/return/9c28b3dc-e492-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Completion Notice - Plough Dredging Foynes 18/07/2025</title>
+        <link>https://leap.epa.ie/licence-profile/S0009/compliance/return/be9c02ac-d592-f011-a377-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-16T00:00:00+00:00</description>
+        <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0009/compliance/return/be9c02ac-d592-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Scheduele C 2.3. Monitoring of Storm Water Discharge</title>
+        <link>https://leap.epa.ie/licence-profile/P1171/compliance/return/ca72a859-a93c-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-16T00:00:00+00:00</description>
+        <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1171/compliance/return/ca72a859-a93c-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Water Kiosk construction works 1181-01</title>
+        <link>https://leap.epa.ie/licence-profile/P1186/compliance/return/cc9e37bf-464c-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-16T00:00:00+00:00</description>
+        <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1186/compliance/return/cc9e37bf-464c-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Scheduele C 2.3. Monitoring of Storm Water Discharge</title>
+        <link>https://leap.epa.ie/licence-profile/P1186/compliance/return/d626e8f5-a93c-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-16T00:00:00+00:00</description>
+        <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1186/compliance/return/d626e8f5-a93c-f011-a373-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
