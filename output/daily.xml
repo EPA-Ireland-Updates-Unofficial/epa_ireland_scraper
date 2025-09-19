@@ -3,43 +3,71 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-09-18.csv)</description>
-    <lastBuildDate>Thu, 18 Sep 2025 03:08:10 +0000</lastBuildDate>
-    <pubDate>Thu, 18 Sep 2025 03:08:10 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-09-19.csv)</description>
+    <lastBuildDate>Fri, 19 Sep 2025 03:46:11 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Sep 2025 03:46:11 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: 2025 Q4 Ploughing campaigns</title>
-        <link>https://leap.epa.ie/licence-profile/S0012/compliance/return/bca512eb-b593-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-09-17T00:00:00+00:00</description>
-        <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0012/compliance/return/bca512eb-b593-f011-a377-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: NC032763 RCA ELV Exceedance</title>
+        <link>https://leap.epa.ie/licence-profile/P1140/compliance/return/2a3d7875-407c-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-18T00:00:00+00:00</description>
+        <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1140/compliance/return/2a3d7875-407c-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Commencement Notice October dredging</title>
-        <link>https://leap.epa.ie/licence-profile/S0012/compliance/return/da3c2a44-9e93-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-09-17T00:00:00+00:00</description>
-        <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0012/compliance/return/da3c2a44-9e93-f011-a377-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Point 3 of the Site Visit Report</title>
+        <link>https://leap.epa.ie/licence-profile/P1069/compliance/return/32541a5e-f47c-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-18T00:00:00+00:00</description>
+        <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1069/compliance/return/32541a5e-f47c-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Complaint: COM021645 - Web Submission</title>
-        <link>https://leap.epa.ie/licence-profile/D0188/compliance/complaint/3f4956c2-187c-f011-a373-0050568a2d1a</link>
+        <title>Site Updates/Notifications: Response to PFOA Email.</title>
+        <link>https://leap.epa.ie/licence-profile/P0801/compliance/return/4348ada0-7e77-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-18T00:00:00+00:00</description>
+        <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0801/compliance/return/4348ada0-7e77-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Commencement of new pipeline to the Nenagh river</title>
+        <link>https://leap.epa.ie/licence-profile/P0791/compliance/return/bafeabb9-5278-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-18T00:00:00+00:00</description>
+        <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0791/compliance/return/bafeabb9-5278-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: Amendment to Monitoring and Silt Pond Maintenance</title>
+        <link>https://leap.epa.ie/licence-profile/P0502/compliance/return/bb52065f-e77c-f011-a373-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-09-18T00:00:00+00:00</description>
+        <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0502/compliance/return/bb52065f-e77c-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Trigger limit reached</title>
+        <link>https://leap.epa.ie/licence-profile/P0502/compliance/return/f91c1706-ed7c-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-18T00:00:00+00:00</description>
+        <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0502/compliance/return/f91c1706-ed7c-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Complaint: COM021682 - Web Submission</title>
+        <link>https://leap.epa.ie/licence-profile/D0188/compliance/complaint/114a93f1-337d-f011-a373-0050568a2d1a</link>
         <description>Type: Complaint<br>Date: 2025-09-16T00:00:00+00:00</description>
         <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0188/compliance/complaint/3f4956c2-187c-f011-a373-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0188/compliance/complaint/114a93f1-337d-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Complaint: COM021655 - Web Submission</title>
-        <link>https://leap.epa.ie/licence-profile/D0188/compliance/complaint/aa6107f8-2e7c-f011-a373-0050568a2d1a</link>
-        <description>Type: Complaint<br>Date: 2025-09-16T00:00:00+00:00</description>
+        <title>Incident: Breach of ELV</title>
+        <link>https://leap.epa.ie/licence-profile/P1022/compliance/incident/f71141f2-ea7c-f011-a373-0050568a2d1a</link>
+        <description>Type: Incident<br>Date: 2025-09-16T00:00:00+00:00</description>
         <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0188/compliance/complaint/aa6107f8-2e7c-f011-a373-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1022/compliance/incident/f71141f2-ea7c-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: 2024 Environmental Noise Report</title>
-        <link>https://leap.epa.ie/licence-profile/P0816/compliance/return/098583d4-4c7c-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-09-15T00:00:00+00:00</description>
-        <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0816/compliance/return/098583d4-4c7c-f011-a373-0050568a2d1a</guid>
+        <title>Monitoring Returns: Groundwater monitoring results Q1 2025 and Q2 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P0480/compliance/return/efb735d1-f67c-f011-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-09-16T00:00:00+00:00</description>
+        <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0480/compliance/return/efb735d1-f67c-f011-a373-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
