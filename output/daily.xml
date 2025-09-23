@@ -3,15 +3,50 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-09-22.csv)</description>
-    <lastBuildDate>Mon, 22 Sep 2025 03:05:30 +0000</lastBuildDate>
-    <pubDate>Mon, 22 Sep 2025 03:05:30 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-09-23.csv)</description>
+    <lastBuildDate>Tue, 23 Sep 2025 03:10:10 +0000</lastBuildDate>
+    <pubDate>Tue, 23 Sep 2025 03:10:10 +0000</pubDate>
     <item>
-        <title>Incident: Fire</title>
-        <link>https://leap.epa.ie/licence-profile/W0183/compliance/incident/e0d131e2-3e7f-f011-a373-0050568a2d1a</link>
-        <description>Type: Incident<br>Date: 2025-09-19T00:00:00+00:00</description>
-        <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0183/compliance/incident/e0d131e2-3e7f-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Notification- Q2 2025 CLN Quarterly Discharge Report</title>
+        <link>https://leap.epa.ie/licence-profile/P1192/compliance/return/05be7738-a160-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-22T00:00:00+00:00</description>
+        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1192/compliance/return/05be7738-a160-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Revised Waste Storage Plan</title>
+        <link>https://leap.epa.ie/licence-profile/W0003/compliance/return/122bb716-447f-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-22T00:00:00+00:00</description>
+        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0003/compliance/return/122bb716-447f-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Response to SV29751</title>
+        <link>https://leap.epa.ie/licence-profile/P1187/compliance/return/2165bb82-60de-ef11-a372-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-22T00:00:00+00:00</description>
+        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1187/compliance/return/2165bb82-60de-ef11-a372-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: SW1 Proposed Trigger Levels</title>
+        <link>https://leap.epa.ie/licence-profile/P0079/compliance/return/2eed8d3c-5677-f011-a373-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-09-22T00:00:00+00:00</description>
+        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0079/compliance/return/2eed8d3c-5677-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Cessation of Organic Fines Production</title>
+        <link>https://leap.epa.ie/licence-profile/W0003/compliance/return/a7d6c7a7-c951-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-22T00:00:00+00:00</description>
+        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0003/compliance/return/a7d6c7a7-c951-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Abatement System Off-line</title>
+        <link>https://leap.epa.ie/licence-profile/W0003/compliance/return/d692d477-a07e-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-22T00:00:00+00:00</description>
+        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0003/compliance/return/d692d477-a07e-f011-a373-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
