@@ -3,50 +3,99 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-09-23.csv)</description>
-    <lastBuildDate>Wed, 24 Sep 2025 02:59:33 +0000</lastBuildDate>
-    <pubDate>Wed, 24 Sep 2025 02:59:33 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-09-25.csv)</description>
+    <lastBuildDate>Thu, 25 Sep 2025 03:04:14 +0000</lastBuildDate>
+    <pubDate>Thu, 25 Sep 2025 03:04:14 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Notification- Q2 2025 CLN Quarterly Discharge Report</title>
-        <link>https://leap.epa.ie/licence-profile/P1192/compliance/return/05be7738-a160-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-09-22T00:00:00+00:00</description>
-        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1192/compliance/return/05be7738-a160-f011-a373-0050568a2d1a</guid>
+        <title>Annual Environmental Report: Amended AER Report - 2023 - MSD Dunboyne</title>
+        <link>https://leap.epa.ie/licence-profile/P1073/compliance/return/33a465d9-a281-f011-a373-0050568a2d1a</link>
+        <description>Type: Annual Environmental Report<br>Date: 2025-09-24T00:00:00+00:00</description>
+        <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1073/compliance/return/33a465d9-a281-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Revised Waste Storage Plan</title>
-        <link>https://leap.epa.ie/licence-profile/W0003/compliance/return/122bb716-447f-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-09-22T00:00:00+00:00</description>
-        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0003/compliance/return/122bb716-447f-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: SV32099 Response</title>
+        <link>https://leap.epa.ie/licence-profile/P0079/compliance/return/3da96844-c076-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-24T00:00:00+00:00</description>
+        <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0079/compliance/return/3da96844-c076-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Response to SV29751</title>
-        <link>https://leap.epa.ie/licence-profile/P1187/compliance/return/2165bb82-60de-ef11-a372-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-09-22T00:00:00+00:00</description>
-        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1187/compliance/return/2165bb82-60de-ef11-a372-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Further Information on Drum Screen (Ref. SV32190, Section 1.2)</title>
+        <link>https://leap.epa.ie/licence-profile/P0236/compliance/return/4f8f5c17-cb0b-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-24T00:00:00+00:00</description>
+        <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0236/compliance/return/4f8f5c17-cb0b-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Requests for Approval and Site Reports: SW1 Proposed Trigger Levels</title>
-        <link>https://leap.epa.ie/licence-profile/P0079/compliance/return/2eed8d3c-5677-f011-a373-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-09-22T00:00:00+00:00</description>
-        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0079/compliance/return/2eed8d3c-5677-f011-a373-0050568a2d1a</guid>
+        <title>Monitoring Returns: Boundary noise survey 2024</title>
+        <link>https://leap.epa.ie/licence-profile/P0294/compliance/return/6dbf4875-c695-ef11-a36b-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-09-24T00:00:00+00:00</description>
+        <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0294/compliance/return/6dbf4875-c695-ef11-a36b-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Cessation of Organic Fines Production</title>
-        <link>https://leap.epa.ie/licence-profile/W0003/compliance/return/a7d6c7a7-c951-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-09-22T00:00:00+00:00</description>
-        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0003/compliance/return/a7d6c7a7-c951-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Interpretation &amp; Discussion of Stormwater Monitoring Data and SW1 Treated Effluent</title>
+        <link>https://leap.epa.ie/licence-profile/P0236/compliance/return/97e16d12-db5b-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-24T00:00:00+00:00</description>
+        <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0236/compliance/return/97e16d12-db5b-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Abatement System Off-line</title>
-        <link>https://leap.epa.ie/licence-profile/W0003/compliance/return/d692d477-a07e-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-09-22T00:00:00+00:00</description>
-        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0003/compliance/return/d692d477-a07e-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: SV 2685, final confirmation ref. LR095355</title>
+        <link>https://leap.epa.ie/licence-profile/P1186/compliance/return/a44e4db7-446d-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-24T00:00:00+00:00</description>
+        <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1186/compliance/return/a44e4db7-446d-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Site Visit SV31946 Issue 1.4 Bunds</title>
+        <link>https://leap.epa.ie/licence-profile/P0809/compliance/return/c9226d0b-8a73-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-24T00:00:00+00:00</description>
+        <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0809/compliance/return/c9226d0b-8a73-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Annual Environmental Report: Amended AER Report - 2024 - MSD Dunboyne</title>
+        <link>https://leap.epa.ie/licence-profile/P1073/compliance/return/f56bbf9c-a081-f011-a373-0050568a2d1a</link>
+        <description>Type: Annual Environmental Report<br>Date: 2025-09-24T00:00:00+00:00</description>
+        <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1073/compliance/return/f56bbf9c-a081-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Response to Actions - Compliance Meeting 16/05/2025</title>
+        <link>https://leap.epa.ie/licence-profile/P0784/compliance/return/fc83fc47-da72-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-24T00:00:00+00:00</description>
+        <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0784/compliance/return/fc83fc47-da72-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Drain Survey 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P0058/compliance/return/10d97a41-28ea-ef11-a372-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-23T00:00:00+00:00</description>
+        <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0058/compliance/return/10d97a41-28ea-ef11-a372-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Groundwater monitoring data 2023 &amp; 2024</title>
+        <link>https://leap.epa.ie/licence-profile/P0236/compliance/return/64024005-3ffb-ef11-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-23T00:00:00+00:00</description>
+        <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0236/compliance/return/64024005-3ffb-ef11-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Effluent Monitoring</title>
+        <link>https://leap.epa.ie/licence-profile/P0835/compliance/return/b5837333-9f81-f011-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-09-23T00:00:00+00:00</description>
+        <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0835/compliance/return/b5837333-9f81-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Complete Tabulated Groundwater Monitoring Data</title>
+        <link>https://leap.epa.ie/licence-profile/P0236/compliance/return/e17b41bc-3c06-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-23T00:00:00+00:00</description>
+        <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0236/compliance/return/e17b41bc-3c06-f011-a373-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
