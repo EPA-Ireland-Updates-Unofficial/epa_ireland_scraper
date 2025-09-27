@@ -3,113 +3,29 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-09-26.csv)</description>
-    <lastBuildDate>Fri, 26 Sep 2025 03:50:16 +0000</lastBuildDate>
-    <pubDate>Fri, 26 Sep 2025 03:50:16 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-09-27.csv)</description>
+    <lastBuildDate>Sat, 27 Sep 2025 03:54:41 +0000</lastBuildDate>
+    <pubDate>Sat, 27 Sep 2025 03:54:41 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Capital Upgrade Works (PSTs)</title>
-        <link>https://leap.epa.ie/licence-profile/D0041/compliance/return/14a47de7-6726-f011-a373-0050568a2d1a</link>
+        <title>Monitoring Returns: 2025 First Biannual Biofilter Monitoring Report</title>
+        <link>https://leap.epa.ie/licence-profile/W0201/compliance/return/2311454c-fd6d-f011-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-09-26T00:00:00+00:00</description>
+        <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0201/compliance/return/2311454c-fd6d-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Requestion for Information - Fugitvie Emission</title>
+        <link>https://leap.epa.ie/licence-profile/P1084/compliance/return/708c0c8f-4383-f011-a373-0050568a2d1a</link>
         <description>Type: Site Updates/Notifications<br>Date: 2025-09-25T00:00:00+00:00</description>
         <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0041/compliance/return/14a47de7-6726-f011-a373-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1084/compliance/return/708c0c8f-4383-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Update to LR094167:</title>
-        <link>https://leap.epa.ie/licence-profile/D0041/compliance/return/1f7c320d-e72c-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-09-25T00:00:00+00:00</description>
+        <title>Requests for Approval and Site Reports: Notification of a New Outlet</title>
+        <link>https://leap.epa.ie/licence-profile/W0044/compliance/return/a7364d74-2a83-f011-a373-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-09-25T00:00:00+00:00</description>
         <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0041/compliance/return/1f7c320d-e72c-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Odour neutralising agent dosing commencement 2025</title>
-        <link>https://leap.epa.ie/licence-profile/D0041/compliance/return/2b779f3e-7310-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-09-25T00:00:00+00:00</description>
-        <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0041/compliance/return/2b779f3e-7310-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Inlet Works - Storm Damage</title>
-        <link>https://leap.epa.ie/licence-profile/D0041/compliance/return/3f5dbd41-6306-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-09-25T00:00:00+00:00</description>
-        <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0041/compliance/return/3f5dbd41-6306-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV32862</title>
-        <link>https://leap.epa.ie/licence-profile/W0099/compliance/return/421ac5f2-548a-f011-a376-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-09-25T00:00:00+00:00</description>
-        <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0099/compliance/return/421ac5f2-548a-f011-a376-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Quarter 2 of 2025 GW Monitoring</title>
-        <link>https://leap.epa.ie/licence-profile/W0156/compliance/return/61b92ef8-1a57-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-09-25T00:00:00+00:00</description>
-        <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0156/compliance/return/61b92ef8-1a57-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Quarter 1 2025 Groundwater Monitoring Report</title>
-        <link>https://leap.epa.ie/licence-profile/W0201/compliance/return/687da02e-d519-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-09-25T00:00:00+00:00</description>
-        <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0201/compliance/return/687da02e-d519-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Solvent Management Plan</title>
-        <link>https://leap.epa.ie/licence-profile/P0833/compliance/return/85a2adf8-3ef0-ef11-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-09-25T00:00:00+00:00</description>
-        <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0833/compliance/return/85a2adf8-3ef0-ef11-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Q2 2025 Leachate Monitoring</title>
-        <link>https://leap.epa.ie/licence-profile/W0018/compliance/return/9c06f68d-fc57-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-09-25T00:00:00+00:00</description>
-        <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0018/compliance/return/9c06f68d-fc57-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Q2 2025 Ground Water Monitoring</title>
-        <link>https://leap.epa.ie/licence-profile/W0018/compliance/return/b024acc9-fb57-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-09-25T00:00:00+00:00</description>
-        <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0018/compliance/return/b024acc9-fb57-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: SV32095 / NC031517 (6.9)</title>
-        <link>https://leap.epa.ie/licence-profile/P1129/compliance/return/b35d3964-b300-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-09-25T00:00:00+00:00</description>
-        <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1129/compliance/return/b35d3964-b300-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: F-Gas Survey Response</title>
-        <link>https://leap.epa.ie/licence-profile/P0005/compliance/return/bfb9f516-106e-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-09-25T00:00:00+00:00</description>
-        <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0005/compliance/return/bfb9f516-106e-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Update to LR092211 - Storm damage</title>
-        <link>https://leap.epa.ie/licence-profile/D0041/compliance/return/cac5e88a-5f40-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-09-25T00:00:00+00:00</description>
-        <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0041/compliance/return/cac5e88a-5f40-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Q2 2025 Surface Water Monitoring</title>
-        <link>https://leap.epa.ie/licence-profile/W0018/compliance/return/d64c091f-fc57-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-09-25T00:00:00+00:00</description>
-        <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0018/compliance/return/d64c091f-fc57-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Balleally Annual Groundwater Monitoring Report 2024</title>
-        <link>https://leap.epa.ie/licence-profile/W0009/compliance/return/f73aadf2-1bdf-ef11-a372-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-09-25T00:00:00+00:00</description>
-        <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0009/compliance/return/f73aadf2-1bdf-ef11-a372-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0044/compliance/return/a7364d74-2a83-f011-a373-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
