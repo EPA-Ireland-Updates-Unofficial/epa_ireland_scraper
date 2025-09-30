@@ -3,29 +3,29 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-09-27.csv)</description>
-    <lastBuildDate>Mon, 29 Sep 2025 03:44:21 +0000</lastBuildDate>
-    <pubDate>Mon, 29 Sep 2025 03:44:21 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-09-30.csv)</description>
+    <lastBuildDate>Tue, 30 Sep 2025 03:47:16 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Sep 2025 03:47:16 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: 2025 First Biannual Biofilter Monitoring Report</title>
-        <link>https://leap.epa.ie/licence-profile/W0201/compliance/return/2311454c-fd6d-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-09-26T00:00:00+00:00</description>
-        <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0201/compliance/return/2311454c-fd6d-f011-a373-0050568a2d1a</guid>
+        <title>Complaint: COM021786 - Web Submission</title>
+        <link>https://leap.epa.ie/licence-profile/D0188/compliance/complaint/a44c1546-9c85-f011-a373-0050568a2d1a</link>
+        <description>Type: Complaint<br>Date: 2025-09-29T00:00:00+00:00</description>
+        <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0188/compliance/complaint/a44c1546-9c85-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Requestion for Information - Fugitvie Emission</title>
-        <link>https://leap.epa.ie/licence-profile/P1084/compliance/return/708c0c8f-4383-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-09-25T00:00:00+00:00</description>
-        <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1084/compliance/return/708c0c8f-4383-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: update on bund reports</title>
+        <link>https://leap.epa.ie/licence-profile/W0267/compliance/return/2444c0ff-e683-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-29T00:00:00+00:00</description>
+        <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0267/compliance/return/2444c0ff-e683-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Requests for Approval and Site Reports: Notification of a New Outlet</title>
-        <link>https://leap.epa.ie/licence-profile/W0044/compliance/return/a7364d74-2a83-f011-a373-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-09-25T00:00:00+00:00</description>
-        <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0044/compliance/return/a7364d74-2a83-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Health and Safety Issue</title>
+        <link>https://leap.epa.ie/licence-profile/W0267/compliance/return/43644b2c-5e82-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-09-29T00:00:00+00:00</description>
+        <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0267/compliance/return/43644b2c-5e82-f011-a373-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
