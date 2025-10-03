@@ -3,155 +3,29 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-10-02.csv)</description>
-    <lastBuildDate>Thu, 02 Oct 2025 03:01:49 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Oct 2025 03:01:49 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-10-03.csv)</description>
+    <lastBuildDate>Fri, 03 Oct 2025 03:01:31 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Oct 2025 03:01:31 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Response to E.P.A. Site Report SV32867</title>
-        <link>https://leap.epa.ie/licence-profile/P0642/compliance/return/12f535cf-2e87-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-01T00:00:00+00:00</description>
-        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0642/compliance/return/12f535cf-2e87-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Response to Site Visit - SV31887</title>
+        <link>https://leap.epa.ie/licence-profile/P0017/compliance/return/4a6eae98-d663-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-02T00:00:00+00:00</description>
+        <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0017/compliance/return/4a6eae98-d663-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV32686</title>
-        <link>https://leap.epa.ie/licence-profile/P1171/compliance/return/218151ea-216e-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-01T00:00:00+00:00</description>
-        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1171/compliance/return/218151ea-216e-f011-a373-0050568a2d1a</guid>
+        <title>Monitoring Returns: 2025 Environmental Noise Report</title>
+        <link>https://leap.epa.ie/licence-profile/P0674/compliance/return/8ea15a9c-2641-f011-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-10-02T00:00:00+00:00</description>
+        <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0674/compliance/return/8ea15a9c-2641-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV32750</title>
-        <link>https://leap.epa.ie/licence-profile/P1173/compliance/return/265a0328-176e-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-01T00:00:00+00:00</description>
-        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1173/compliance/return/265a0328-176e-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Superseding - LR097176 EPA Site Visit Report SV32750</title>
-        <link>https://leap.epa.ie/licence-profile/P1173/compliance/return/29eaf260-ef84-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-01T00:00:00+00:00</description>
-        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1173/compliance/return/29eaf260-ef84-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Q1/Q2 2025 MTBE MNA Report</title>
-        <link>https://leap.epa.ie/licence-profile/P0014/compliance/return/339d1531-8f5d-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-10-01T00:00:00+00:00</description>
-        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0014/compliance/return/339d1531-8f5d-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Monitored Natural Attenuation for MTBE and TBA in PSA 4 – Q4 2024 Report 2024</title>
-        <link>https://leap.epa.ie/licence-profile/P0014/compliance/return/42b2837f-bef2-ef11-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-10-01T00:00:00+00:00</description>
-        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0014/compliance/return/42b2837f-bef2-ef11-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: EPA Site Visit Report SV32747</title>
-        <link>https://leap.epa.ie/licence-profile/P1173/compliance/return/6d00dde1-ee84-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-01T00:00:00+00:00</description>
-        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1173/compliance/return/6d00dde1-ee84-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Response to Site Visit - SV31711</title>
-        <link>https://leap.epa.ie/licence-profile/P0017/compliance/return/71e57de1-d663-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-01T00:00:00+00:00</description>
-        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0017/compliance/return/71e57de1-d663-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: 15 01 02 2022 waste quantity query</title>
-        <link>https://leap.epa.ie/licence-profile/P0988/compliance/return/75d104f9-bb9d-ee11-a354-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-01T00:00:00+00:00</description>
-        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0988/compliance/return/75d104f9-bb9d-ee11-a354-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV32747</title>
-        <link>https://leap.epa.ie/licence-profile/P1177/compliance/return/7ab6e8ec-166e-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-01T00:00:00+00:00</description>
-        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1177/compliance/return/7ab6e8ec-166e-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: A121983 risk assessment</title>
-        <link>https://leap.epa.ie/licence-profile/P0986/compliance/return/901ac726-fa63-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-01T00:00:00+00:00</description>
-        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0986/compliance/return/901ac726-fa63-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: EPA Site Visit Report SV32747</title>
-        <link>https://leap.epa.ie/licence-profile/P1177/compliance/return/9069ba8e-ef84-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-01T00:00:00+00:00</description>
-        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1177/compliance/return/9069ba8e-ef84-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: SV32685</title>
-        <link>https://leap.epa.ie/licence-profile/P1186/compliance/return/9a72404b-ee84-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-01T00:00:00+00:00</description>
-        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1186/compliance/return/9a72404b-ee84-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: OCGT Project Soil Management Site Condition Report Final</title>
-        <link>https://leap.epa.ie/licence-profile/P0577/compliance/return/9c842eb6-e7be-ef11-a36d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-01T00:00:00+00:00</description>
-        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0577/compliance/return/9c842eb6-e7be-ef11-a36d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: SV31568</title>
-        <link>https://leap.epa.ie/licence-profile/P1181/compliance/return/ae5c922a-ef84-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-01T00:00:00+00:00</description>
-        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1181/compliance/return/ae5c922a-ef84-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: IE Licence Groundwater Monitoring Report, Q4 2024</title>
-        <link>https://leap.epa.ie/licence-profile/P0014/compliance/return/b0ce200b-09f5-ef11-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-10-01T00:00:00+00:00</description>
-        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0014/compliance/return/b0ce200b-09f5-ef11-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Requests for Approval and Site Reports: Request for Approval for the proposed commencement of construction of a new Biomass Boiler facility</title>
-        <link>https://leap.epa.ie/licence-profile/P0009/compliance/return/dbfb91c9-b17e-f011-a373-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-10-01T00:00:00+00:00</description>
-        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0009/compliance/return/dbfb91c9-b17e-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: SV32686</title>
-        <link>https://leap.epa.ie/licence-profile/P1171/compliance/return/dc54bb4b-ef84-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-01T00:00:00+00:00</description>
-        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1171/compliance/return/dc54bb4b-ef84-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: SV32726 - Extension to Action Item</title>
-        <link>https://leap.epa.ie/licence-profile/P1172/compliance/return/e1d0729a-6b87-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-01T00:00:00+00:00</description>
-        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1172/compliance/return/e1d0729a-6b87-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Response attachments</title>
-        <link>https://leap.epa.ie/licence-profile/P0642/compliance/return/f2dc2b06-2f87-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-01T00:00:00+00:00</description>
-        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0642/compliance/return/f2dc2b06-2f87-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Change of Site Director</title>
-        <link>https://leap.epa.ie/licence-profile/P0089/compliance/return/8b64e3ba-4087-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-09-30T00:00:00+00:00</description>
-        <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0089/compliance/return/8b64e3ba-4087-f011-a373-0050568a2d1a</guid>
+        <title>Monitoring Returns: CWMF Flare Monitoring 2024 Reports</title>
+        <link>https://leap.epa.ie/licence-profile/W0109/compliance/return/f58140c5-9fac-ef11-a36c-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-10-02T00:00:00+00:00</description>
+        <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0109/compliance/return/f58140c5-9fac-ef11-a36c-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
