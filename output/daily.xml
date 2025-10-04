@@ -3,29 +3,85 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-10-03.csv)</description>
-    <lastBuildDate>Fri, 03 Oct 2025 03:01:31 +0000</lastBuildDate>
-    <pubDate>Fri, 03 Oct 2025 03:01:31 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-10-04.csv)</description>
+    <lastBuildDate>Sat, 04 Oct 2025 03:46:11 +0000</lastBuildDate>
+    <pubDate>Sat, 04 Oct 2025 03:46:11 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Response to Site Visit - SV31887</title>
-        <link>https://leap.epa.ie/licence-profile/P0017/compliance/return/4a6eae98-d663-f011-a373-0050568a2d1a</link>
+        <title>Complaint: Odour Carrigtwohill</title>
+        <link>https://leap.epa.ie/licence-profile/D0044/compliance/complaint/3f27993e-c488-f011-a373-0050568a2d1a</link>
+        <description>Type: Complaint<br>Date: 2025-10-03T00:00:00+00:00</description>
+        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0044/compliance/complaint/3f27993e-c488-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Incident: Breach of ELV</title>
+        <link>https://leap.epa.ie/licence-profile/D0323/compliance/incident/621085bf-df88-f011-a373-0050568a2d1a</link>
+        <description>Type: Incident<br>Date: 2025-10-03T00:00:00+00:00</description>
+        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0323/compliance/incident/621085bf-df88-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Stormwater Monitoring July 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P0319/compliance/return/3e49afa8-de7c-f011-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-10-03T00:00:00+00:00</description>
+        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0319/compliance/return/3e49afa8-de7c-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: Balleally Landfill Leachate Tank Inspection Report 2021</title>
+        <link>https://leap.epa.ie/licence-profile/W0009/compliance/return/4e46616a-e188-f011-a373-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-10-03T00:00:00+00:00</description>
+        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0009/compliance/return/4e46616a-e188-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Complaint: P0168-2, 03/09/2025, Odour</title>
+        <link>https://leap.epa.ie/licence-profile/P0168/compliance/complaint/e78f57f1-dd88-f011-a373-0050568a2d1a</link>
+        <description>Type: Complaint<br>Date: 2025-10-02T00:00:00+00:00</description>
+        <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0168/compliance/complaint/e78f57f1-dd88-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Licensee Public Response - SV31768</title>
+        <link>https://leap.epa.ie/licence-profile/P0007/compliance/return/432e0878-4a98-f011-a377-0050568a2d1a</link>
         <description>Type: Site Updates/Notifications<br>Date: 2025-10-02T00:00:00+00:00</description>
         <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0017/compliance/return/4a6eae98-d663-f011-a373-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0007/compliance/return/432e0878-4a98-f011-a377-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: 2025 Environmental Noise Report</title>
-        <link>https://leap.epa.ie/licence-profile/P0674/compliance/return/8ea15a9c-2641-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-10-02T00:00:00+00:00</description>
-        <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0674/compliance/return/8ea15a9c-2641-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: LS Rejection – Notice - LR095873, “Condition 3.18- Ambient Air Monitoring Programme</title>
+        <link>https://leap.epa.ie/licence-profile/P1182/compliance/return/0e6ce966-de88-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-01T00:00:00+00:00</description>
+        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1182/compliance/return/0e6ce966-de88-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: CWMF Flare Monitoring 2024 Reports</title>
-        <link>https://leap.epa.ie/licence-profile/W0109/compliance/return/f58140c5-9fac-ef11-a36c-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-10-02T00:00:00+00:00</description>
-        <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0109/compliance/return/f58140c5-9fac-ef11-a36c-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: LS Rejection – Notice - LR095654, “Condition 3.18- Ambient Air Monitoring Programme</title>
+        <link>https://leap.epa.ie/licence-profile/P1170/compliance/return/37d7a0df-dd88-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-01T00:00:00+00:00</description>
+        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1170/compliance/return/37d7a0df-dd88-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: LS Rejection – Notice - LR095872, “Condition 3.18- Ambient Air Monitoring Programme</title>
+        <link>https://leap.epa.ie/licence-profile/P1172/compliance/return/6a757d34-de88-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-01T00:00:00+00:00</description>
+        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1172/compliance/return/6a757d34-de88-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: LS Rejection - Notice - LR095655, “Condition 3.18- Ambient Air Monitoring Programme</title>
+        <link>https://leap.epa.ie/licence-profile/P1184/compliance/return/a805919e-dd88-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-01T00:00:00+00:00</description>
+        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1184/compliance/return/a805919e-dd88-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Update SV31715</title>
+        <link>https://leap.epa.ie/licence-profile/P0205/compliance/return/d61915fd-bc88-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-01T00:00:00+00:00</description>
+        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0205/compliance/return/d61915fd-bc88-f011-a373-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
