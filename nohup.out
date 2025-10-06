@@ -1,0 +1,11 @@
+2025/10/05 07:44:11 INFO litestream version=v0.3.13
+2025/10/05 07:44:11 INFO initialized db path=/home/conor/gitwork/epa_ireland_scraper/epa_ireland.db
+2025/10/05 07:44:11 INFO replicating to name=s3 type=s3 sync-interval=1s bucket=epa-rss path=litestream region="" endpoint=""
+2025/10/05 14:44:13 INFO write snapshot db=/home/conor/gitwork/epa_ireland_scraper/epa_ireland.db replica=s3 position=cacb48f08b140a58/00000003:4152
+2025/10/05 14:44:20 INFO snapshot written db=/home/conor/gitwork/epa_ireland_scraper/epa_ireland.db replica=s3 position=cacb48f08b140a58/00000003:4152 elapsed=7.068218115s sz=161585776
+2025/10/05 14:44:20 INFO snapshot deleted db=/home/conor/gitwork/epa_ireland_scraper/epa_ireland.db replica=s3 generation=cacb48f08b140a58 index=3
+2025/10/05 14:44:20 INFO wal segmented deleted before db=/home/conor/gitwork/epa_ireland_scraper/epa_ireland.db replica=s3 generation=cacb48f08b140a58 index=3 n=4
+2025/10/06 03:00:02 INFO write wal segment db=/home/conor/gitwork/epa_ireland_scraper/epa_ireland.db replica=s3 position=cacb48f08b140a58/00000003:4152
+2025/10/06 03:00:03 INFO wal segment written db=/home/conor/gitwork/epa_ireland_scraper/epa_ireland.db replica=s3 position=cacb48f08b140a58/00000003:4152 elapsed=275.396518ms sz=2319560
+2025/10/06 03:00:03 INFO write wal segment db=/home/conor/gitwork/epa_ireland_scraper/epa_ireland.db replica=s3 position=cacb48f08b140a58/00000004:0
+2025/10/06 03:00:03 INFO wal segment written db=/home/conor/gitwork/epa_ireland_scraper/epa_ireland.db replica=s3 position=cacb48f08b140a58/00000004:0 elapsed=43.050575ms sz=4152
