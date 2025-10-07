@@ -3,29 +3,57 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-10-06.csv)</description>
-    <lastBuildDate>Mon, 06 Oct 2025 03:02:07 +0000</lastBuildDate>
-    <pubDate>Mon, 06 Oct 2025 03:02:07 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-10-07.csv)</description>
+    <lastBuildDate>Tue, 07 Oct 2025 03:02:17 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Oct 2025 03:02:17 +0000</pubDate>
     <item>
-        <title>Complaint: Odour Carrigtwohill</title>
-        <link>https://leap.epa.ie/licence-profile/D0044/compliance/complaint/19fddae3-948c-f011-a376-0050568a2d1a</link>
-        <description>Type: Complaint<br>Date: 2025-10-03T00:00:00+00:00</description>
-        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0044/compliance/complaint/19fddae3-948c-f011-a376-0050568a2d1a</guid>
+        <title>Requests for Approval and Site Reports: ESB Marina Waste Contractor approval sought</title>
+        <link>https://leap.epa.ie/licence-profile/P0578/compliance/return/044c6baf-9182-f011-a373-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-10-06T00:00:00+00:00</description>
+        <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0578/compliance/return/044c6baf-9182-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Complaint: Odour Carrigtwohill</title>
-        <link>https://leap.epa.ie/licence-profile/D0044/compliance/complaint/e5919902-928c-f011-a376-0050568a2d1a</link>
-        <description>Type: Complaint<br>Date: 2025-10-03T00:00:00+00:00</description>
-        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0044/compliance/complaint/e5919902-928c-f011-a376-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: SV31688 Observation Response</title>
+        <link>https://leap.epa.ie/licence-profile/P0403/compliance/return/47b2f98b-796c-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-06T00:00:00+00:00</description>
+        <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0403/compliance/return/47b2f98b-796c-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV30861</title>
-        <link>https://leap.epa.ie/licence-profile/P0522/compliance/return/1868f8a3-879f-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-03T00:00:00+00:00</description>
-        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0522/compliance/return/1868f8a3-879f-f011-a377-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Return for site visit SV32669</title>
+        <link>https://leap.epa.ie/licence-profile/P0595/compliance/return/5c4a72d2-5683-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-06T00:00:00+00:00</description>
+        <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0595/compliance/return/5c4a72d2-5683-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Summer Shut-Down 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P0096/compliance/return/9d767908-4969-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-06T00:00:00+00:00</description>
+        <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0096/compliance/return/9d767908-4969-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Refusal of Technical Amendment</title>
+        <link>https://leap.epa.ie/licence-profile/P0283/compliance/return/e04b923c-8581-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-06T00:00:00+00:00</description>
+        <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0283/compliance/return/e04b923c-8581-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: requested documents from Site visit on 31/07/2025</title>
+        <link>https://leap.epa.ie/licence-profile/P0811/compliance/return/e1463c61-5774-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-06T00:00:00+00:00</description>
+        <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0811/compliance/return/e1463c61-5774-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Return for site visit SV32669</title>
+        <link>https://leap.epa.ie/licence-profile/P0595/compliance/return/ee1e14e0-7a82-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-06T00:00:00+00:00</description>
+        <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0595/compliance/return/ee1e14e0-7a82-f011-a373-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
