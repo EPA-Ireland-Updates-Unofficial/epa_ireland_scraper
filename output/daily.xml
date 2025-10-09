@@ -3,71 +3,78 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-10-08.csv)</description>
-    <lastBuildDate>Wed, 08 Oct 2025 03:47:37 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Oct 2025 03:47:37 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-10-09.csv)</description>
+    <lastBuildDate>Thu, 09 Oct 2025 03:46:14 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Oct 2025 03:46:14 +0000</pubDate>
     <item>
-        <title>Requests for Approval and Site Reports: Corrective Action, Section 1.1 Report on Groundwater Sampling</title>
-        <link>https://leap.epa.ie/licence-profile/W0270/compliance/return/24a300aa-147d-f011-a373-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-10-07T00:00:00+00:00</description>
-        <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0270/compliance/return/24a300aa-147d-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Notice for Site Works – Works to clarifier and aeration tank 2</title>
+        <link>https://leap.epa.ie/licence-profile/D0253/compliance/return/0d6361cd-596d-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-08T00:00:00+00:00</description>
+        <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0253/compliance/return/0d6361cd-596d-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV30885</title>
-        <link>https://leap.epa.ie/licence-profile/P0814/compliance/return/315b118d-457f-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-07T00:00:00+00:00</description>
-        <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0814/compliance/return/315b118d-457f-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Response to site visit report SV31653</title>
+        <link>https://leap.epa.ie/licence-profile/P0004/compliance/return/13f42bd1-c26b-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-08T00:00:00+00:00</description>
+        <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0004/compliance/return/13f42bd1-c26b-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Action 1.1 of SV31852 Compactor Bund</title>
-        <link>https://leap.epa.ie/licence-profile/P1108/compliance/return/443703e4-4c77-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-07T00:00:00+00:00</description>
-        <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1108/compliance/return/443703e4-4c77-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Update on LR089370 Notification request to discharge foul waste through licenced site</title>
+        <link>https://leap.epa.ie/licence-profile/P0442/compliance/return/4d96fb0c-b163-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-08T00:00:00+00:00</description>
+        <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0442/compliance/return/4d96fb0c-b163-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Requests for Approval and Site Reports: ESB Poolbeg Flexgen QAL 2 March 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0577/compliance/return/493b0775-b912-f011-a373-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-10-07T00:00:00+00:00</description>
-        <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0577/compliance/return/493b0775-b912-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: SV32095 / NC031513</title>
+        <link>https://leap.epa.ie/licence-profile/P1129/compliance/return/51f46c1e-1304-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-08T00:00:00+00:00</description>
+        <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1129/compliance/return/51f46c1e-1304-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Courtesy Notification of change in destination for IBA</title>
-        <link>https://leap.epa.ie/licence-profile/W0232/compliance/return/642b2b5d-8d82-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-07T00:00:00+00:00</description>
-        <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0232/compliance/return/642b2b5d-8d82-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Extension of prescribed period</title>
+        <link>https://leap.epa.ie/licence-profile/P1104/compliance/return/9b11d70b-8405-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-08T00:00:00+00:00</description>
+        <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1104/compliance/return/9b11d70b-8405-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Waste Quarantine area not bunded</title>
-        <link>https://leap.epa.ie/licence-profile/W0267/compliance/return/d2cade1e-6282-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-07T00:00:00+00:00</description>
-        <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0267/compliance/return/d2cade1e-6282-f011-a373-0050568a2d1a</guid>
+        <title>Monitoring Returns: Q1 and Q2 Leachate Monitoring</title>
+        <link>https://leap.epa.ie/licence-profile/W0014/compliance/return/a45bccbc-c060-f011-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-10-08T00:00:00+00:00</description>
+        <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0014/compliance/return/a45bccbc-c060-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Response to Ballymackey Environmental Group Queries</title>
-        <link>https://leap.epa.ie/licence-profile/W0078/compliance/return/dd27012c-a176-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-07T00:00:00+00:00</description>
-        <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0078/compliance/return/dd27012c-a176-f011-a373-0050568a2d1a</guid>
+        <title>Annual Environmental Report: Reporting 2021 to 2023 parameters</title>
+        <link>https://leap.epa.ie/licence-profile/P0088/compliance/return/b1f76c1a-390e-f011-a373-0050568a2d1a</link>
+        <description>Type: Annual Environmental Report<br>Date: 2025-10-08T00:00:00+00:00</description>
+        <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0088/compliance/return/b1f76c1a-390e-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Plant Project Upgrade Works Overview</title>
-        <link>https://leap.epa.ie/licence-profile/P0229/compliance/return/df3d7925-1251-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-07T00:00:00+00:00</description>
-        <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0229/compliance/return/df3d7925-1251-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Licensee Public Response - SV32591</title>
+        <link>https://leap.epa.ie/licence-profile/W0116/compliance/return/b735708e-62a0-f011-a377-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-08T00:00:00+00:00</description>
+        <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0116/compliance/return/b735708e-62a0-f011-a377-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: SV31922</title>
-        <link>https://leap.epa.ie/licence-profile/P0229/compliance/return/ffceba2f-9751-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-07T00:00:00+00:00</description>
-        <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0229/compliance/return/ffceba2f-9751-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Standby Generator Operating Hours</title>
+        <link>https://leap.epa.ie/licence-profile/P0835/compliance/return/c85cba19-2b8a-f011-a376-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-08T00:00:00+00:00</description>
+        <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0835/compliance/return/c85cba19-2b8a-f011-a376-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: 2025 Q1 &amp; Q2 Reports</title>
+        <link>https://leap.epa.ie/licence-profile/P0012/compliance/return/eadc2eaf-237c-f011-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-10-08T00:00:00+00:00</description>
+        <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0012/compliance/return/eadc2eaf-237c-f011-a373-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
