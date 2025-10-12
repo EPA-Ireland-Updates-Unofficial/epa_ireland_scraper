@@ -23,7 +23,7 @@ jobs:
           AWS_REGION: eu-west-1
         run: |
           mkdir -p /tmp/db
-          litestream restore -o /tmp/db/epa_ireland.db s3://epa-rss/litestream/epa_ireland.db
+          litestream restore -o /tmp/db/epa_ireland.db s3://epa-rss/litestream
 
       - name: Verify restored database
         run: |
