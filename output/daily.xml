@@ -3,15 +3,15 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-10-11.csv)</description>
-    <lastBuildDate>Sat, 11 Oct 2025 03:47:41 +0000</lastBuildDate>
-    <pubDate>Sat, 11 Oct 2025 03:47:41 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-10-12.csv)</description>
+    <lastBuildDate>Sun, 12 Oct 2025 03:46:00 +0000</lastBuildDate>
+    <pubDate>Sun, 12 Oct 2025 03:46:00 +0000</pubDate>
     <item>
-        <title>Incident: Breach of ELV</title>
-        <link>https://leap.epa.ie/licence-profile/P0023/compliance/incident/059368d1-328e-f011-a376-0050568a2d1a</link>
-        <description>Type: Incident<br>Date: 2025-10-10T00:00:00+00:00</description>
+        <title>Site Updates/Notifications: WMA Section 18 Q3 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0177/compliance/return/cadf7e72-058f-f011-a377-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-10T00:00:00+00:00</description>
         <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0023/compliance/incident/059368d1-328e-f011-a376-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0177/compliance/return/cadf7e72-058f-f011-a377-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
