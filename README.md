@@ -3,7 +3,7 @@
 An automated system that monitors and archives regulatory compliance data from the Irish Environmental Protection Agency (EPA). This tool provides daily updates on environmental licence compliance, monitoring reports, incidents, and regulatory activities across Ireland.
 
 - You can [browse the SQLite Database using Datasette here](https://lite.datasette.io/?url=https://epa-rss.s3.eu-west-1.amazonaws.com/epa_ireland.db).
-- Or [download the Database from here](https://epa-rss.s3.amazonaws.com/epa_ireland.db).
+- Or [download the Database from here](https://epa-rss.s3.amazonaws.com/epa_ireland.db). (Note that it is over 800MB)
 
 ## 🎯 What This Does
 
