@@ -9808,3 +9808,15 @@
 2025/10/12 04:45:57 ERROR sync error db=/home/conor/gitwork/epa_ireland_scraper/epa_ireland.db error="checkpoint: mode=PASSIVE err=database is locked"
 2025/10/12 04:45:58 ERROR sync error db=/home/conor/gitwork/epa_ireland_scraper/epa_ireland.db error="checkpoint: mode=PASSIVE err=database is locked"
 2025/10/12 04:45:59 ERROR sync error db=/home/conor/gitwork/epa_ireland_scraper/epa_ireland.db error="checkpoint: mode=PASSIVE err=database is locked"
+2025/10/12 04:46:01 INFO write wal segment db=/home/conor/gitwork/epa_ireland_scraper/epa_ireland.db replica=s3 position=cacb48f08b140a58/0000000d:2319592
+2025/10/12 04:46:02 INFO wal segment written db=/home/conor/gitwork/epa_ireland_scraper/epa_ireland.db replica=s3 position=cacb48f08b140a58/0000000d:2319592 elapsed=1.37806154s sz=93849480
+2025/10/12 04:46:02 INFO write wal segment db=/home/conor/gitwork/epa_ireland_scraper/epa_ireland.db replica=s3 position=cacb48f08b140a58/0000000e:0
+2025/10/12 04:46:02 INFO wal segment written db=/home/conor/gitwork/epa_ireland_scraper/epa_ireland.db replica=s3 position=cacb48f08b140a58/0000000e:0 elapsed=74.910461ms sz=4152
+2025/10/12 21:44:13 INFO write snapshot db=/home/conor/gitwork/epa_ireland_scraper/epa_ireland.db replica=s3 position=cacb48f08b140a58/0000000e:4152
+2025/10/12 21:44:20 INFO snapshot written db=/home/conor/gitwork/epa_ireland_scraper/epa_ireland.db replica=s3 position=cacb48f08b140a58/0000000e:4152 elapsed=7.159839031s sz=168144908
+2025/10/12 21:44:20 INFO snapshot deleted db=/home/conor/gitwork/epa_ireland_scraper/epa_ireland.db replica=s3 generation=cacb48f08b140a58 index=14
+2025/10/12 21:44:20 INFO wal segmented deleted before db=/home/conor/gitwork/epa_ireland_scraper/epa_ireland.db replica=s3 generation=cacb48f08b140a58 index=14 n=4
+2025/10/13 03:00:06 INFO write wal segment db=/home/conor/gitwork/epa_ireland_scraper/epa_ireland.db replica=s3 position=cacb48f08b140a58/0000000e:4152
+2025/10/13 03:00:07 INFO wal segment written db=/home/conor/gitwork/epa_ireland_scraper/epa_ireland.db replica=s3 position=cacb48f08b140a58/0000000e:4152 elapsed=266.281476ms sz=2311320
+2025/10/13 03:00:07 INFO write wal segment db=/home/conor/gitwork/epa_ireland_scraper/epa_ireland.db replica=s3 position=cacb48f08b140a58/0000000f:0
+2025/10/13 03:00:07 INFO wal segment written db=/home/conor/gitwork/epa_ireland_scraper/epa_ireland.db replica=s3 position=cacb48f08b140a58/0000000f:0 elapsed=40.281055ms sz=4152
