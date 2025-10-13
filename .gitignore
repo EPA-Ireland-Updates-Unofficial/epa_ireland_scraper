@@ -1,3 +1,4 @@
+nohup,out
 .epa_ireland.db-litestream/*
 *litestream*
 serverless.yml
