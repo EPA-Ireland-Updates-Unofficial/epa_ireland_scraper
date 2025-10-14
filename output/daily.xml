@@ -3,15 +3,22 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-10-13.csv)</description>
-    <lastBuildDate>Mon, 13 Oct 2025 03:46:08 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Oct 2025 03:46:08 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-10-14.csv)</description>
+    <lastBuildDate>Tue, 14 Oct 2025 03:02:16 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Oct 2025 03:02:16 +0000</pubDate>
     <item>
-        <title>Requests for Approval and Site Reports: Templetuohy Bog Rehabilitation Plan</title>
-        <link>https://leap.epa.ie/licence-profile/P0499/compliance/return/ccecf197-b88f-f011-a377-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-10-10T00:00:00+00:00</description>
-        <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0499/compliance/return/ccecf197-b88f-f011-a377-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Compactor Relocation Project</title>
+        <link>https://leap.epa.ie/licence-profile/P0805/compliance/return/4f9e9d1b-6982-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-13T00:00:00+00:00</description>
+        <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0805/compliance/return/4f9e9d1b-6982-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: Construction of ICW at LRP ADF</title>
+        <link>https://leap.epa.ie/licence-profile/P0610/compliance/return/5facd624-133b-f011-a373-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-10-13T00:00:00+00:00</description>
+        <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0610/compliance/return/5facd624-133b-f011-a373-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
