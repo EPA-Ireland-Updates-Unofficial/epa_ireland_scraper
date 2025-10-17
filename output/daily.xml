@@ -3,57 +3,15 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-10-16.csv)</description>
-    <lastBuildDate>Thu, 16 Oct 2025 03:15:43 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Oct 2025 03:15:43 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-10-17.csv)</description>
+    <lastBuildDate>Fri, 17 Oct 2025 04:02:33 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Oct 2025 04:02:33 +0000</pubDate>
     <item>
-        <title>Incident: Breach of ELV</title>
-        <link>https://leap.epa.ie/licence-profile/D0036/compliance/incident/dcee4ba6-4892-f011-a377-0050568a2d1a</link>
-        <description>Type: Incident<br>Date: 2025-10-15T00:00:00+00:00</description>
-        <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0036/compliance/incident/dcee4ba6-4892-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Shutdown 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0805/compliance/return/32036605-308e-f011-a376-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-15T00:00:00+00:00</description>
-        <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0805/compliance/return/32036605-308e-f011-a376-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Site Visit Report SV31701</title>
-        <link>https://leap.epa.ie/licence-profile/W0074/compliance/return/53fb375b-e267-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-15T00:00:00+00:00</description>
-        <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0074/compliance/return/53fb375b-e267-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Requests for Approval and Site Reports: CCTV Survey</title>
-        <link>https://leap.epa.ie/licence-profile/W0267/compliance/return/5ee4a9ce-6b82-f011-a373-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-10-15T00:00:00+00:00</description>
-        <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0267/compliance/return/5ee4a9ce-6b82-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Q2 2025 Groundwater Monitoring Report</title>
-        <link>https://leap.epa.ie/licence-profile/W0032/compliance/return/6f69712f-c258-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-10-15T00:00:00+00:00</description>
-        <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0032/compliance/return/6f69712f-c258-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Q2 2025 Groundwater Monitoring Report</title>
-        <link>https://leap.epa.ie/licence-profile/W0075/compliance/return/71bb43a5-c458-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-10-15T00:00:00+00:00</description>
-        <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0075/compliance/return/71bb43a5-c458-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Relocation of GW1 and GW2 Borehole Wells</title>
-        <link>https://leap.epa.ie/licence-profile/W0013/compliance/return/330bd8e2-2192-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-14T00:00:00+00:00</description>
+        <title>Incident: Abatement equipment off-line</title>
+        <link>https://leap.epa.ie/licence-profile/D0204/compliance/incident/12d7149e-0093-f011-a377-0050568a2d1a</link>
+        <description>Type: Incident<br>Date: 2025-10-14T00:00:00+00:00</description>
         <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0013/compliance/return/330bd8e2-2192-f011-a377-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0204/compliance/incident/12d7149e-0093-f011-a377-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
