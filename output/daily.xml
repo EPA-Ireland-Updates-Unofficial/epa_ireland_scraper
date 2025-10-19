@@ -3,36 +3,15 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-10-18.csv)</description>
-    <lastBuildDate>Sat, 18 Oct 2025 03:02:32 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Oct 2025 03:02:32 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-10-19.csv)</description>
+    <lastBuildDate>Sun, 19 Oct 2025 03:47:07 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Oct 2025 03:47:07 +0000</pubDate>
     <item>
-        <title>Incident: Abatement equipment off-line</title>
-        <link>https://leap.epa.ie/licence-profile/D0093/compliance/incident/9da1bded-ce93-f011-a377-0050568a2d1a</link>
-        <description>Type: Incident<br>Date: 2025-10-17T00:00:00+00:00</description>
-        <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0093/compliance/incident/9da1bded-ce93-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Requests for Approval and Site Reports: P0452 Solvents Management Plan 2024</title>
-        <link>https://leap.epa.ie/licence-profile/P0452/compliance/return/3bd21555-240c-f011-a373-0050568a2d1a</link>
+        <title>Requests for Approval and Site Reports: Request for Approval to Extend MBM Test Programme</title>
+        <link>https://leap.epa.ie/licence-profile/P0029/compliance/return/811233cd-6394-f011-a377-0050568a2d1a</link>
         <description>Type: Requests for Approval and Site Reports<br>Date: 2025-10-17T00:00:00+00:00</description>
         <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0452/compliance/return/3bd21555-240c-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Reply to SV30717 - Update Report - May 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0001/compliance/return/f284fd5c-903c-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-17T00:00:00+00:00</description>
-        <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0001/compliance/return/f284fd5c-903c-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>EPA Initiated Correspondence: </title>
-        <link>https://leap.epa.ie/licence-profile/W0232/compliance/epa-correspondence/1089a537-d493-f011-a377-0050568a2d1a</link>
-        <description>Type: EPA Initiated Correspondence<br>Date: 2025-10-17T00:00:00+00:00</description>
-        <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0232/compliance/epa-correspondence/1089a537-d493-f011-a377-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0029/compliance/return/811233cd-6394-f011-a377-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
