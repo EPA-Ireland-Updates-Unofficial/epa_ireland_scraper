@@ -3,43 +3,36 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-10-22.csv)</description>
-    <lastBuildDate>Wed, 22 Oct 2025 03:02:42 +0000</lastBuildDate>
-    <pubDate>Wed, 22 Oct 2025 03:02:42 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-10-23.csv)</description>
+    <lastBuildDate>Thu, 23 Oct 2025 03:02:27 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Oct 2025 03:02:27 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: 2025 Annual Noise Report</title>
-        <link>https://leap.epa.ie/licence-profile/W0048/compliance/return/0599896b-c784-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-10-21T00:00:00+00:00</description>
-        <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0048/compliance/return/0599896b-c784-f011-a373-0050568a2d1a</guid>
+        <title>Incident: Abatement equipment off-line</title>
+        <link>https://leap.epa.ie/licence-profile/D0034/compliance/incident/142d8997-9597-f011-a377-0050568a2d1a</link>
+        <description>Type: Incident<br>Date: 2025-10-22T00:00:00+00:00</description>
+        <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0034/compliance/incident/142d8997-9597-f011-a377-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Update on ESB response to EPA report sv29485</title>
-        <link>https://leap.epa.ie/licence-profile/P0610/compliance/return/05ac5952-56a7-ef11-a36b-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-21T00:00:00+00:00</description>
-        <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0610/compliance/return/05ac5952-56a7-ef11-a36b-0050568a2d1a</guid>
+        <title>Monitoring Returns: Q3 2025 storm water SW2</title>
+        <link>https://leap.epa.ie/licence-profile/P0229/compliance/return/1755c4d9-9997-f011-a377-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-10-20T00:00:00+00:00</description>
+        <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0229/compliance/return/1755c4d9-9997-f011-a377-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Response to SVR - SV32874</title>
-        <link>https://leap.epa.ie/licence-profile/P1082/compliance/return/363501ef-4b92-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-21T00:00:00+00:00</description>
-        <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1082/compliance/return/363501ef-4b92-f011-a377-0050568a2d1a</guid>
+        <title>Monitoring Returns: Q3 Storm water return SW1</title>
+        <link>https://leap.epa.ie/licence-profile/P0229/compliance/return/33ce4b7a-9997-f011-a377-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-10-20T00:00:00+00:00</description>
+        <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0229/compliance/return/33ce4b7a-9997-f011-a377-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: WEIGHBRIDGE REPORT 01AUG-19SEPT 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0144/compliance/return/d8bdfda9-5c95-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-21T00:00:00+00:00</description>
-        <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0144/compliance/return/d8bdfda9-5c95-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Quarter 2 2025 Groundwater Monitoring Report</title>
-        <link>https://leap.epa.ie/licence-profile/W0201/compliance/return/f056c1fd-ad60-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-10-21T00:00:00+00:00</description>
-        <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0201/compliance/return/f056c1fd-ad60-f011-a373-0050568a2d1a</guid>
+        <title>Monitoring Returns: Q3 2025 Storm water SW3</title>
+        <link>https://leap.epa.ie/licence-profile/P0229/compliance/return/70b9173d-9a97-f011-a377-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-10-20T00:00:00+00:00</description>
+        <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0229/compliance/return/70b9173d-9a97-f011-a377-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
