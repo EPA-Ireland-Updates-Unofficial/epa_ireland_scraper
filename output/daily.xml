@@ -3,36 +3,43 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-10-23.csv)</description>
-    <lastBuildDate>Thu, 23 Oct 2025 03:02:27 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Oct 2025 03:02:27 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-10-24.csv)</description>
+    <lastBuildDate>Fri, 24 Oct 2025 03:07:18 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Oct 2025 03:07:18 +0000</pubDate>
     <item>
-        <title>Incident: Abatement equipment off-line</title>
-        <link>https://leap.epa.ie/licence-profile/D0034/compliance/incident/142d8997-9597-f011-a377-0050568a2d1a</link>
-        <description>Type: Incident<br>Date: 2025-10-22T00:00:00+00:00</description>
-        <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0034/compliance/incident/142d8997-9597-f011-a377-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Licensee Public Response - SV32434</title>
+        <link>https://leap.epa.ie/licence-profile/W0217/compliance/return/945f95ae-2a3b-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-23T00:00:00+00:00</description>
+        <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0217/compliance/return/945f95ae-2a3b-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Q3 2025 storm water SW2</title>
-        <link>https://leap.epa.ie/licence-profile/P0229/compliance/return/1755c4d9-9997-f011-a377-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-10-20T00:00:00+00:00</description>
-        <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0229/compliance/return/1755c4d9-9997-f011-a377-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Licensee Public Response - SV30683</title>
+        <link>https://leap.epa.ie/licence-profile/W0217/compliance/return/e40f3908-2142-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-23T00:00:00+00:00</description>
+        <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0217/compliance/return/e40f3908-2142-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Q3 Storm water return SW1</title>
-        <link>https://leap.epa.ie/licence-profile/P0229/compliance/return/33ce4b7a-9997-f011-a377-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-10-20T00:00:00+00:00</description>
-        <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0229/compliance/return/33ce4b7a-9997-f011-a377-0050568a2d1a</guid>
+        <title>Monitoring Returns: 2025 Ballaghveny Landfill flare emissions Survey Report</title>
+        <link>https://leap.epa.ie/licence-profile/W0078/compliance/return/e41172fa-dc37-f011-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-10-23T00:00:00+00:00</description>
+        <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0078/compliance/return/e41172fa-dc37-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Q3 2025 Storm water SW3</title>
-        <link>https://leap.epa.ie/licence-profile/P0229/compliance/return/70b9173d-9a97-f011-a377-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-10-20T00:00:00+00:00</description>
-        <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0229/compliance/return/70b9173d-9a97-f011-a377-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: No.05 Section 2.5 Trade Effluent records June24 to June 25</title>
+        <link>https://leap.epa.ie/licence-profile/P1002/compliance/return/5bc99d3e-7c98-f011-a377-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-21T00:00:00+00:00</description>
+        <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1002/compliance/return/5bc99d3e-7c98-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: No.05 Section 2.5 Trade Effluent Records 2024</title>
+        <link>https://leap.epa.ie/licence-profile/P1002/compliance/return/602cd90c-7e98-f011-a377-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-21T00:00:00+00:00</description>
+        <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1002/compliance/return/602cd90c-7e98-f011-a377-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
