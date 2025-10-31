@@ -3,57 +3,36 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-10-30.csv)</description>
-    <lastBuildDate>Thu, 30 Oct 2025 05:43:43 +0000</lastBuildDate>
-    <pubDate>Thu, 30 Oct 2025 05:43:43 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-10-31.csv)</description>
+    <lastBuildDate>Fri, 31 Oct 2025 05:44:26 +0000</lastBuildDate>
+    <pubDate>Fri, 31 Oct 2025 05:44:26 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Castletroy WWTP Upgrade 2025</title>
-        <link>https://leap.epa.ie/licence-profile/D0019/compliance/return/28d76d7f-c397-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-29T00:00:00+00:00</description>
-        <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0019/compliance/return/28d76d7f-c397-f011-a377-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Licensee Public Response - SV32227</title>
+        <link>https://leap.epa.ie/licence-profile/D0285/compliance/return/2920617e-bc6e-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-30T00:00:00+00:00</description>
+        <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0285/compliance/return/2920617e-bc6e-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: SV32738 NC032574</title>
-        <link>https://leap.epa.ie/licence-profile/P0986/compliance/return/60adbaf4-a577-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-29T00:00:00+00:00</description>
-        <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0986/compliance/return/60adbaf4-a577-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Upgrade Works to Rising Main from Cromwell’s Bridge Pumping Station</title>
+        <link>https://leap.epa.ie/licence-profile/D0184/compliance/return/6f362d85-3166-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-30T00:00:00+00:00</description>
+        <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0184/compliance/return/6f362d85-3166-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Requests for Approval and Site Reports: Blackwater East Rehabilitation Plan</title>
-        <link>https://leap.epa.ie/licence-profile/P0502/compliance/return/8556db3c-d09a-f011-a377-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-10-29T00:00:00+00:00</description>
-        <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0502/compliance/return/8556db3c-d09a-f011-a377-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: NC032518 Response</title>
+        <link>https://leap.epa.ie/licence-profile/P0986/compliance/return/dfde0b4f-f858-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-30T00:00:00+00:00</description>
+        <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0986/compliance/return/dfde0b4f-f858-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Q1 2025 Emissions to Air Stack Testing Reports</title>
-        <link>https://leap.epa.ie/licence-profile/W0232/compliance/return/a0a09bd0-1e0a-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-10-29T00:00:00+00:00</description>
-        <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0232/compliance/return/a0a09bd0-1e0a-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: New De watering system</title>
-        <link>https://leap.epa.ie/licence-profile/D0025/compliance/return/a1d3aff0-e18f-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-29T00:00:00+00:00</description>
-        <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0025/compliance/return/a1d3aff0-e18f-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Q2 2025 Stack Testing Emissions to Air</title>
-        <link>https://leap.epa.ie/licence-profile/W0232/compliance/return/acd8f611-0851-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-10-29T00:00:00+00:00</description>
-        <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0232/compliance/return/acd8f611-0851-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Limerick SV32313 Response 24/09/2025</title>
-        <link>https://leap.epa.ie/licence-profile/D0013/compliance/return/c9d22dfb-5499-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-29T00:00:00+00:00</description>
-        <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0013/compliance/return/c9d22dfb-5499-f011-a377-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Licensee Public Response - SV30883</title>
+        <link>https://leap.epa.ie/licence-profile/P0812/compliance/return/cea74ca8-26ab-f011-a377-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-28T00:00:00+00:00</description>
+        <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0812/compliance/return/cea74ca8-26ab-f011-a377-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
