@@ -3,36 +3,71 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-10-31.csv)</description>
-    <lastBuildDate>Fri, 31 Oct 2025 05:44:26 +0000</lastBuildDate>
-    <pubDate>Fri, 31 Oct 2025 05:44:26 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-11-01.csv)</description>
+    <lastBuildDate>Sat, 01 Nov 2025 04:43:56 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Nov 2025 04:43:56 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV32227</title>
-        <link>https://leap.epa.ie/licence-profile/D0285/compliance/return/2920617e-bc6e-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-30T00:00:00+00:00</description>
-        <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0285/compliance/return/2920617e-bc6e-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Licensee Public Response - SV31100</title>
+        <link>https://leap.epa.ie/licence-profile/P0571/compliance/return/1cf52643-c836-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-31T00:00:00+00:00</description>
+        <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0571/compliance/return/1cf52643-c836-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Upgrade Works to Rising Main from Cromwell’s Bridge Pumping Station</title>
-        <link>https://leap.epa.ie/licence-profile/D0184/compliance/return/6f362d85-3166-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-30T00:00:00+00:00</description>
-        <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0184/compliance/return/6f362d85-3166-f011-a373-0050568a2d1a</guid>
+        <title>Requests for Approval and Site Reports: IC4 Commissioning - Boilers</title>
+        <link>https://leap.epa.ie/licence-profile/P0571/compliance/return/dbb98273-578e-f011-a376-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-10-31T00:00:00+00:00</description>
+        <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0571/compliance/return/dbb98273-578e-f011-a376-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: NC032518 Response</title>
-        <link>https://leap.epa.ie/licence-profile/P0986/compliance/return/dfde0b4f-f858-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-30T00:00:00+00:00</description>
-        <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0986/compliance/return/dfde0b4f-f858-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Site Maintenance Shutdown - July/August 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P0571/compliance/return/f6bb1d40-6269-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-10-31T00:00:00+00:00</description>
+        <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0571/compliance/return/f6bb1d40-6269-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV30883</title>
-        <link>https://leap.epa.ie/licence-profile/P0812/compliance/return/cea74ca8-26ab-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-10-28T00:00:00+00:00</description>
-        <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0812/compliance/return/cea74ca8-26ab-f011-a377-0050568a2d1a</guid>
+        <title>Monitoring Returns: Q3, 2025 Gas Monitoring Report</title>
+        <link>https://leap.epa.ie/licence-profile/W0013/compliance/return/161a9f7e-b49e-f011-a377-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-10-29T00:00:00+00:00</description>
+        <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0013/compliance/return/161a9f7e-b49e-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: S.I Report</title>
+        <link>https://leap.epa.ie/licence-profile/W0296/compliance/return/2f5dbc92-e39e-f011-a377-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-10-29T00:00:00+00:00</description>
+        <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0296/compliance/return/2f5dbc92-e39e-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: 2025 Noise Monitoring</title>
+        <link>https://leap.epa.ie/licence-profile/W0296/compliance/return/900a980c-df9e-f011-a377-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-10-29T00:00:00+00:00</description>
+        <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0296/compliance/return/900a980c-df9e-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: 2025 GW Monitoring</title>
+        <link>https://leap.epa.ie/licence-profile/W0296/compliance/return/b876b162-df9e-f011-a377-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-10-29T00:00:00+00:00</description>
+        <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0296/compliance/return/b876b162-df9e-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: 2025 Dust Monitoring Report</title>
+        <link>https://leap.epa.ie/licence-profile/W0296/compliance/return/c27e15d6-dd9e-f011-a377-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-10-29T00:00:00+00:00</description>
+        <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0296/compliance/return/c27e15d6-dd9e-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: 2025 SW Monitoring</title>
+        <link>https://leap.epa.ie/licence-profile/W0296/compliance/return/ef9acd48-e09e-f011-a377-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-10-29T00:00:00+00:00</description>
+        <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0296/compliance/return/ef9acd48-e09e-f011-a377-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
