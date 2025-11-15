@@ -1,13 +1,13 @@
 #!/bin/bash
 
 # Change to the project directory (CRITICAL for relative paths)
-cd /home/conor/gitwork/epa_ireland_scraper
+cd /home/parents/gitwork/epa_ireland_scraper
 
 # Absolute path to the virtual environment
-VENV_PATH="/home/conor/gitwork/epa_ireland_scraper/venv"
+VENV_PATH="/home/parents/gitwork/epa_ireland_scraper/.venv"
 
 # Absolute path to the Python script
-SCRIPT_PATH="/home/conor/gitwork/epa_ireland_scraper/scraper.py"
+SCRIPT_PATH="/home/parents/gitwork/epa_ireland_scraper/scraper.py"
 
 # Activate the virtual environment
 source "$VENV_PATH/bin/activate"

@@ -4,175 +4,105 @@
     <title>EPA Ireland - Recent CSV Files</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
     <description>CSV files from the last 30 calendar days</description>
-    <lastBuildDate>Mon, 03 Nov 2025 05:00:36 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Nov 2025 05:00:36 +0000</pubDate>
+    <lastBuildDate>Sat, 15 Nov 2025 07:55:48 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Nov 2025 07:55:48 +0000</pubDate>
+    <item>
+        <title>CSV: 2025-11-15.csv</title>
+        <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025/11/2025-11-15.csv</link>
+        <description>CSV file for 2025-11-15</description>
+        <pubDate>Sat, 15 Nov 2025 07:55:48 +0000</pubDate>
+        <guid isPermaLink="false">output/csv/daily/2025/11/2025-11-15.csv</guid>
+    </item>
     <item>
         <title>CSV: 2025-11-01.csv</title>
         <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025/11/2025-11-01.csv</link>
         <description>CSV file for 2025-11-01</description>
-        <pubDate>Sat, 01 Nov 2025 04:43:56 +0000</pubDate>
+        <pubDate>Mon, 03 Nov 2025 15:26:34 +0000</pubDate>
         <guid isPermaLink="false">output/csv/daily/2025/11/2025-11-01.csv</guid>
     </item>
     <item>
         <title>CSV: 2025-10-31.csv</title>
         <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025/10/2025-10-31.csv</link>
         <description>CSV file for 2025-10-31</description>
-        <pubDate>Fri, 31 Oct 2025 05:44:26 +0000</pubDate>
+        <pubDate>Mon, 03 Nov 2025 15:26:34 +0000</pubDate>
         <guid isPermaLink="false">output/csv/daily/2025/10/2025-10-31.csv</guid>
     </item>
     <item>
         <title>CSV: 2025-10-30.csv</title>
         <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025/10/2025-10-30.csv</link>
         <description>CSV file for 2025-10-30</description>
-        <pubDate>Thu, 30 Oct 2025 05:43:43 +0000</pubDate>
+        <pubDate>Mon, 03 Nov 2025 15:26:34 +0000</pubDate>
         <guid isPermaLink="false">output/csv/daily/2025/10/2025-10-30.csv</guid>
     </item>
     <item>
         <title>CSV: 2025-10-29.csv</title>
         <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025/10/2025-10-29.csv</link>
         <description>CSV file for 2025-10-29</description>
-        <pubDate>Wed, 29 Oct 2025 04:01:46 +0000</pubDate>
+        <pubDate>Mon, 03 Nov 2025 15:26:34 +0000</pubDate>
         <guid isPermaLink="false">output/csv/daily/2025/10/2025-10-29.csv</guid>
     </item>
     <item>
         <title>CSV: 2025-10-26.csv</title>
         <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025/10/2025-10-26.csv</link>
         <description>CSV file for 2025-10-26</description>
-        <pubDate>Sun, 26 Oct 2025 04:47:50 +0000</pubDate>
+        <pubDate>Mon, 03 Nov 2025 15:26:34 +0000</pubDate>
         <guid isPermaLink="false">output/csv/daily/2025/10/2025-10-26.csv</guid>
     </item>
     <item>
         <title>CSV: 2025-10-25.csv</title>
         <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025/10/2025-10-25.csv</link>
         <description>CSV file for 2025-10-25</description>
-        <pubDate>Sat, 25 Oct 2025 03:47:29 +0000</pubDate>
+        <pubDate>Mon, 03 Nov 2025 15:26:34 +0000</pubDate>
         <guid isPermaLink="false">output/csv/daily/2025/10/2025-10-25.csv</guid>
     </item>
     <item>
         <title>CSV: 2025-10-24.csv</title>
         <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025/10/2025-10-24.csv</link>
         <description>CSV file for 2025-10-24</description>
-        <pubDate>Fri, 24 Oct 2025 03:07:18 +0000</pubDate>
+        <pubDate>Mon, 03 Nov 2025 15:26:34 +0000</pubDate>
         <guid isPermaLink="false">output/csv/daily/2025/10/2025-10-24.csv</guid>
     </item>
     <item>
         <title>CSV: 2025-10-23.csv</title>
         <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025/10/2025-10-23.csv</link>
         <description>CSV file for 2025-10-23</description>
-        <pubDate>Thu, 23 Oct 2025 03:02:27 +0000</pubDate>
+        <pubDate>Mon, 03 Nov 2025 15:26:34 +0000</pubDate>
         <guid isPermaLink="false">output/csv/daily/2025/10/2025-10-23.csv</guid>
     </item>
     <item>
         <title>CSV: 2025-10-22.csv</title>
         <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025/10/2025-10-22.csv</link>
         <description>CSV file for 2025-10-22</description>
-        <pubDate>Wed, 22 Oct 2025 03:02:42 +0000</pubDate>
+        <pubDate>Mon, 03 Nov 2025 15:26:34 +0000</pubDate>
         <guid isPermaLink="false">output/csv/daily/2025/10/2025-10-22.csv</guid>
     </item>
     <item>
         <title>CSV: 2025-10-21.csv</title>
         <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025/10/2025-10-21.csv</link>
         <description>CSV file for 2025-10-21</description>
-        <pubDate>Tue, 21 Oct 2025 03:02:06 +0000</pubDate>
+        <pubDate>Mon, 03 Nov 2025 15:26:34 +0000</pubDate>
         <guid isPermaLink="false">output/csv/daily/2025/10/2025-10-21.csv</guid>
     </item>
     <item>
         <title>CSV: 2025-10-19.csv</title>
         <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025/10/2025-10-19.csv</link>
         <description>CSV file for 2025-10-19</description>
-        <pubDate>Sun, 19 Oct 2025 03:47:07 +0000</pubDate>
+        <pubDate>Mon, 03 Nov 2025 15:26:34 +0000</pubDate>
         <guid isPermaLink="false">output/csv/daily/2025/10/2025-10-19.csv</guid>
     </item>
     <item>
         <title>CSV: 2025-10-18.csv</title>
         <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025/10/2025-10-18.csv</link>
         <description>CSV file for 2025-10-18</description>
-        <pubDate>Sat, 18 Oct 2025 03:02:32 +0000</pubDate>
+        <pubDate>Mon, 03 Nov 2025 15:26:34 +0000</pubDate>
         <guid isPermaLink="false">output/csv/daily/2025/10/2025-10-18.csv</guid>
     </item>
     <item>
         <title>CSV: 2025-10-17.csv</title>
         <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025/10/2025-10-17.csv</link>
         <description>CSV file for 2025-10-17</description>
-        <pubDate>Fri, 17 Oct 2025 04:02:33 +0000</pubDate>
+        <pubDate>Mon, 03 Nov 2025 15:26:34 +0000</pubDate>
         <guid isPermaLink="false">output/csv/daily/2025/10/2025-10-17.csv</guid>
-    </item>
-    <item>
-        <title>CSV: 2025-10-16.csv</title>
-        <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025/10/2025-10-16.csv</link>
-        <description>CSV file for 2025-10-16</description>
-        <pubDate>Thu, 16 Oct 2025 03:15:43 +0000</pubDate>
-        <guid isPermaLink="false">output/csv/daily/2025/10/2025-10-16.csv</guid>
-    </item>
-    <item>
-        <title>CSV: 2025-10-15.csv</title>
-        <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025/10/2025-10-15.csv</link>
-        <description>CSV file for 2025-10-15</description>
-        <pubDate>Wed, 15 Oct 2025 03:03:41 +0000</pubDate>
-        <guid isPermaLink="false">output/csv/daily/2025/10/2025-10-15.csv</guid>
-    </item>
-    <item>
-        <title>CSV: 2025-10-14.csv</title>
-        <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025/10/2025-10-14.csv</link>
-        <description>CSV file for 2025-10-14</description>
-        <pubDate>Tue, 14 Oct 2025 03:02:16 +0000</pubDate>
-        <guid isPermaLink="false">output/csv/daily/2025/10/2025-10-14.csv</guid>
-    </item>
-    <item>
-        <title>CSV: 2025-10-13.csv</title>
-        <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025/10/2025-10-13.csv</link>
-        <description>CSV file for 2025-10-13</description>
-        <pubDate>Mon, 13 Oct 2025 06:05:50 +0000</pubDate>
-        <guid isPermaLink="false">output/csv/daily/2025/10/2025-10-13.csv</guid>
-    </item>
-    <item>
-        <title>CSV: 2025-10-12.csv</title>
-        <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025/10/2025-10-12.csv</link>
-        <description>CSV file for 2025-10-12</description>
-        <pubDate>Sun, 12 Oct 2025 03:46:00 +0000</pubDate>
-        <guid isPermaLink="false">output/csv/daily/2025/10/2025-10-12.csv</guid>
-    </item>
-    <item>
-        <title>CSV: 2025-10-11.csv</title>
-        <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025/10/2025-10-11.csv</link>
-        <description>CSV file for 2025-10-11</description>
-        <pubDate>Sat, 11 Oct 2025 03:47:41 +0000</pubDate>
-        <guid isPermaLink="false">output/csv/daily/2025/10/2025-10-11.csv</guid>
-    </item>
-    <item>
-        <title>CSV: 2025-10-10.csv</title>
-        <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025/10/2025-10-10.csv</link>
-        <description>CSV file for 2025-10-10</description>
-        <pubDate>Fri, 10 Oct 2025 03:02:14 +0000</pubDate>
-        <guid isPermaLink="false">output/csv/daily/2025/10/2025-10-10.csv</guid>
-    </item>
-    <item>
-        <title>CSV: 2025-10-09.csv</title>
-        <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025/10/2025-10-09.csv</link>
-        <description>CSV file for 2025-10-09</description>
-        <pubDate>Thu, 09 Oct 2025 03:46:13 +0000</pubDate>
-        <guid isPermaLink="false">output/csv/daily/2025/10/2025-10-09.csv</guid>
-    </item>
-    <item>
-        <title>CSV: 2025-10-08.csv</title>
-        <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025/10/2025-10-08.csv</link>
-        <description>CSV file for 2025-10-08</description>
-        <pubDate>Wed, 08 Oct 2025 03:47:36 +0000</pubDate>
-        <guid isPermaLink="false">output/csv/daily/2025/10/2025-10-08.csv</guid>
-    </item>
-    <item>
-        <title>CSV: 2025-10-07.csv</title>
-        <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025/10/2025-10-07.csv</link>
-        <description>CSV file for 2025-10-07</description>
-        <pubDate>Tue, 07 Oct 2025 03:02:17 +0000</pubDate>
-        <guid isPermaLink="false">output/csv/daily/2025/10/2025-10-07.csv</guid>
-    </item>
-    <item>
-        <title>CSV: 2025-10-06.csv</title>
-        <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025/10/2025-10-06.csv</link>
-        <description>CSV file for 2025-10-06</description>
-        <pubDate>Mon, 06 Oct 2025 03:02:07 +0000</pubDate>
-        <guid isPermaLink="false">output/csv/daily/2025/10/2025-10-06.csv</guid>
     </item>
 </channel>
 </rss>
