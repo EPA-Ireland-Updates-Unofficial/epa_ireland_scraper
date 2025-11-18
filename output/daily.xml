@@ -3,99 +3,15 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-11-15.csv)</description>
-    <lastBuildDate>Mon, 17 Nov 2025 04:48:02 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Nov 2025 04:48:02 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-11-18.csv)</description>
+    <lastBuildDate>Tue, 18 Nov 2025 04:30:19 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Nov 2025 04:30:19 +0000</pubDate>
     <item>
-        <title>Incident: Noise Exceedance</title>
-        <link>https://leap.epa.ie/licence-profile/P0126/compliance/incident/9cc43f63-99a3-f011-a377-0050568a2d1a</link>
-        <description>Type: Incident<br>Date: 2025-11-13T00:00:00+00:00</description>
-        <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0126/compliance/incident/9cc43f63-99a3-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Incident: Uncontrolled Release</title>
-        <link>https://leap.epa.ie/licence-profile/D0034/compliance/incident/cf272792-20a5-f011-a377-0050568a2d1a</link>
-        <description>Type: Incident<br>Date: 2025-11-13T00:00:00+00:00</description>
-        <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0034/compliance/incident/cf272792-20a5-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Response to SV33000</title>
-        <link>https://leap.epa.ie/licence-profile/P1084/compliance/return/0fb898f0-43a8-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-11-13T00:00:00+00:00</description>
-        <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1084/compliance/return/0fb898f0-43a8-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Incident: Exceedances of IE License Environmental Noise limit Values, Reference incident details described abo</title>
-        <link>https://leap.epa.ie/licence-profile/P0405/compliance/incident/8364d379-90a3-f011-a377-0050568a2d1a</link>
-        <description>Type: Incident<br>Date: 2025-11-12T00:00:00+00:00</description>
-        <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0405/compliance/incident/8364d379-90a3-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Incident: Abatement equipment off-line</title>
-        <link>https://leap.epa.ie/licence-profile/D0050/compliance/incident/f399c312-efa5-f011-a377-0050568a2d1a</link>
-        <description>Type: Incident<br>Date: 2025-11-12T00:00:00+00:00</description>
-        <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0050/compliance/incident/f399c312-efa5-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV32127</title>
-        <link>https://leap.epa.ie/licence-profile/P0960/compliance/return/04dde421-33bf-f011-a378-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-11-12T00:00:00+00:00</description>
-        <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0960/compliance/return/04dde421-33bf-f011-a378-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Organic Sludge registers Feb-Jul 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0404/compliance/return/0e13dc3e-bd8c-f011-a376-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-11-12T00:00:00+00:00</description>
-        <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0404/compliance/return/0e13dc3e-bd8c-f011-a376-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: ODS &amp; F-Gas Inventory</title>
-        <link>https://leap.epa.ie/licence-profile/P0065/compliance/return/47f274bc-199e-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-11-12T00:00:00+00:00</description>
-        <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0065/compliance/return/47f274bc-199e-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: SV32298_Requested Information</title>
-        <link>https://leap.epa.ie/licence-profile/D0133/compliance/return/61e3cb1a-e3a5-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-11-12T00:00:00+00:00</description>
-        <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0133/compliance/return/61e3cb1a-e3a5-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: 2025 Groundwater Monitoring Report</title>
-        <link>https://leap.epa.ie/licence-profile/P0973/compliance/return/652781b6-b676-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-11-12T00:00:00+00:00</description>
-        <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0973/compliance/return/652781b6-b676-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Ground water monitoring July 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0247/compliance/return/7e643275-0b7c-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-11-12T00:00:00+00:00</description>
-        <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0247/compliance/return/7e643275-0b7c-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV33122</title>
-        <link>https://leap.epa.ie/licence-profile/P1180/compliance/return/e7965fad-50ae-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-11-12T00:00:00+00:00</description>
-        <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1180/compliance/return/e7965fad-50ae-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: 2025 Q2 Emissions to sewer</title>
-        <link>https://leap.epa.ie/licence-profile/P0078/compliance/return/f4d0ea29-e563-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-11-12T00:00:00+00:00</description>
-        <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0078/compliance/return/f4d0ea29-e563-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: TSHD update no. 3 October campaign</title>
+        <link>https://leap.epa.ie/licence-profile/S0012/compliance/return/bdb08e57-55c2-f011-a378-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-11-15T00:00:00+00:00</description>
+        <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0012/compliance/return/bdb08e57-55c2-f011-a378-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
