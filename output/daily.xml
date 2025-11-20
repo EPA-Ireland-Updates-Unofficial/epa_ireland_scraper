@@ -3,15 +3,64 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-11-18.csv)</description>
-    <lastBuildDate>Wed, 19 Nov 2025 04:01:12 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Nov 2025 04:01:12 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-11-20.csv)</description>
+    <lastBuildDate>Thu, 20 Nov 2025 04:46:23 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Nov 2025 04:46:23 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: TSHD update no. 3 October campaign</title>
-        <link>https://leap.epa.ie/licence-profile/S0012/compliance/return/bdb08e57-55c2-f011-a378-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-11-15T00:00:00+00:00</description>
-        <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0012/compliance/return/bdb08e57-55c2-f011-a378-0050568a2d1a</guid>
+        <title>Monitoring Returns: Q2 2025 General Monitoring Return</title>
+        <link>https://leap.epa.ie/licence-profile/W0167/compliance/return/09d916d6-3083-f011-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-11-19T00:00:00+00:00</description>
+        <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0167/compliance/return/09d916d6-3083-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: 2021 Annual GW Monitoring Results</title>
+        <link>https://leap.epa.ie/licence-profile/W0158/compliance/return/27a12850-d89a-f011-a377-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-11-19T00:00:00+00:00</description>
+        <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0158/compliance/return/27a12850-d89a-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Annual Environmental Report: Resubmission</title>
+        <link>https://leap.epa.ie/licence-profile/P1069/compliance/return/61f1cd3e-5099-f011-a377-0050568a2d1a</link>
+        <description>Type: Annual Environmental Report<br>Date: 2025-11-19T00:00:00+00:00</description>
+        <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1069/compliance/return/61f1cd3e-5099-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: 2023 Annual GroundWater Results</title>
+        <link>https://leap.epa.ie/licence-profile/W0158/compliance/return/8ca8933f-db9a-f011-a377-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-11-19T00:00:00+00:00</description>
+        <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0158/compliance/return/8ca8933f-db9a-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Licensee Public Response - SV32819</title>
+        <link>https://leap.epa.ie/licence-profile/W0183/compliance/return/ba580859-ce84-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-11-19T00:00:00+00:00</description>
+        <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0183/compliance/return/ba580859-ce84-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: 2022 Annual Ground Water Results</title>
+        <link>https://leap.epa.ie/licence-profile/W0158/compliance/return/cd6b424d-d99a-f011-a377-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-11-19T00:00:00+00:00</description>
+        <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0158/compliance/return/cd6b424d-d99a-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Q2 2025 Air monitoring Return</title>
+        <link>https://leap.epa.ie/licence-profile/W0167/compliance/return/d04da303-737e-f011-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-11-19T00:00:00+00:00</description>
+        <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0167/compliance/return/d04da303-737e-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: GW and SW</title>
+        <link>https://leap.epa.ie/licence-profile/P0710/compliance/return/e01bc9f1-d224-f011-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-11-19T00:00:00+00:00</description>
+        <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0710/compliance/return/e01bc9f1-d224-f011-a373-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
