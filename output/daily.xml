@@ -3,22 +3,15 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-11-22.csv)</description>
-    <lastBuildDate>Sat, 22 Nov 2025 04:46:35 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Nov 2025 04:46:35 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-11-23.csv)</description>
+    <lastBuildDate>Sun, 23 Nov 2025 04:01:29 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Nov 2025 04:01:29 +0000</pubDate>
     <item>
-        <title>Incident: Trigger Level Reached</title>
-        <link>https://leap.epa.ie/licence-profile/W0082/compliance/incident/a7cdf9d5-4eaf-f011-a377-0050568a2d1a</link>
-        <description>Type: Incident<br>Date: 2025-11-21T00:00:00+00:00</description>
+        <title>Site Updates/Notifications: Waste Licence (W0301-01) Compliance Documentation</title>
+        <link>https://leap.epa.ie/licence-profile/W0301/compliance/return/63e30aeb-2eb0-f011-a377-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-11-21T00:00:00+00:00</description>
         <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0082/compliance/incident/a7cdf9d5-4eaf-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Requests for Approval and Site Reports: Notification and Request for Authorization – Delay in Storm Water Attenuation System Project</title>
-        <link>https://leap.epa.ie/licence-profile/P0401/compliance/return/572dc080-ad51-f011-a373-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-11-21T00:00:00+00:00</description>
-        <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0401/compliance/return/572dc080-ad51-f011-a373-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0301/compliance/return/63e30aeb-2eb0-f011-a377-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
