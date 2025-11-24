@@ -3,15 +3,43 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-11-23.csv)</description>
-    <lastBuildDate>Sun, 23 Nov 2025 04:01:29 +0000</lastBuildDate>
-    <pubDate>Sun, 23 Nov 2025 04:01:29 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-11-24.csv)</description>
+    <lastBuildDate>Mon, 24 Nov 2025 04:49:13 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Nov 2025 04:49:13 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Waste Licence (W0301-01) Compliance Documentation</title>
-        <link>https://leap.epa.ie/licence-profile/W0301/compliance/return/63e30aeb-2eb0-f011-a377-0050568a2d1a</link>
+        <title>Site Updates/Notifications: Enter the details of your return to the EPA below:</title>
+        <link>https://leap.epa.ie/licence-profile/W0301/compliance/return/081f8273-b5b0-f011-a377-0050568a2d1a</link>
         <description>Type: Site Updates/Notifications<br>Date: 2025-11-21T00:00:00+00:00</description>
         <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0301/compliance/return/63e30aeb-2eb0-f011-a377-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0301/compliance/return/081f8273-b5b0-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Updated Effluent, Ambient, Beach and Complaints Data for recent Balbriggan WWTP</title>
+        <link>https://leap.epa.ie/licence-profile/D0023/compliance/return/404e143b-e6b0-f011-a377-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-11-21T00:00:00+00:00</description>
+        <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0023/compliance/return/404e143b-e6b0-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Enter the details of your return to the EPA below:</title>
+        <link>https://leap.epa.ie/licence-profile/W0301/compliance/return/9dd064e6-b9b0-f011-a377-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-11-21T00:00:00+00:00</description>
+        <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0301/compliance/return/9dd064e6-b9b0-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Updated Effluent, Ambient, Beach and Complaints Data for recent Swords WWTP SV on 15/10/2025</title>
+        <link>https://leap.epa.ie/licence-profile/D0024/compliance/return/bf849899-e6b0-f011-a377-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-11-21T00:00:00+00:00</description>
+        <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0024/compliance/return/bf849899-e6b0-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Updated Effluent, Ambient, Beach and Complaints Data for recent Swords WWTP SV</title>
+        <link>https://leap.epa.ie/licence-profile/D0024/compliance/return/ce83bff0-e5b0-f011-a377-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-11-21T00:00:00+00:00</description>
+        <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0024/compliance/return/ce83bff0-e5b0-f011-a377-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
