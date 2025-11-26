@@ -58,7 +58,7 @@ def regenerate_csvs(start_date, end_date):
         # Run the export_to_csv.py script for this date
         try:
             result = subprocess.run([
-                sys.executable, 'export_to_csv.py', date_str
+                sys.executable, 'export_to_csv.py', date_str, "--days=1"
             ], capture_output=True, text=True, check=False)
             
             if result.returncode == 0:
