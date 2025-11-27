@@ -3,36 +3,15 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-11-26.csv)</description>
-    <lastBuildDate>Wed, 26 Nov 2025 04:02:14 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Nov 2025 04:02:14 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-11-27.csv)</description>
+    <lastBuildDate>Thu, 27 Nov 2025 04:00:16 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Nov 2025 04:00:16 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: Biological Inhibition and Biodegradability testing by Activated Sludge, October 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0023/compliance/return/06a117b4-cdb0-f011-a377-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-11-25T00:00:00+00:00</description>
-        <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0023/compliance/return/06a117b4-cdb0-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Low Emission Housing</title>
-        <link>https://leap.epa.ie/licence-profile/P0928/compliance/return/06d53c9d-4692-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-11-25T00:00:00+00:00</description>
-        <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0928/compliance/return/06d53c9d-4692-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: GW1 Annual Monitoring</title>
-        <link>https://leap.epa.ie/licence-profile/W0232/compliance/return/778bc1f5-35af-f011-a377-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-11-25T00:00:00+00:00</description>
-        <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0232/compliance/return/778bc1f5-35af-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: MCP Questionnaire</title>
-        <link>https://leap.epa.ie/licence-profile/P0015/compliance/return/e7a5614f-264c-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-11-25T00:00:00+00:00</description>
-        <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0015/compliance/return/e7a5614f-264c-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Licence condition 4.17 – Establishment of trigger levels for assessing ambient monitoring</title>
+        <link>https://leap.epa.ie/licence-profile/D0034/compliance/return/3e47b008-6f3d-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-11-26T00:00:00+00:00</description>
+        <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0034/compliance/return/3e47b008-6f3d-f011-a373-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
