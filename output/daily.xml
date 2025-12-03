@@ -3,22 +3,36 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-12-02.csv)</description>
-    <lastBuildDate>Tue, 02 Dec 2025 04:03:19 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Dec 2025 04:03:19 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-12-03.csv)</description>
+    <lastBuildDate>Wed, 03 Dec 2025 04:50:29 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Dec 2025 04:50:29 +0000</pubDate>
     <item>
-        <title>Complaint: P0378-03, 28/10/2025, Dust</title>
-        <link>https://leap.epa.ie/licence-profile/P0378/compliance/complaint/b5831975-adb8-f011-a378-0050568a2d1a</link>
-        <description>Type: Complaint<br>Date: 2025-12-01T00:00:00+00:00</description>
-        <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0378/compliance/complaint/b5831975-adb8-f011-a378-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: EPA929 HCL Exceedance Investigation</title>
+        <link>https://leap.epa.ie/licence-profile/P0110/compliance/return/579ce462-ed16-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-02T00:00:00+00:00</description>
+        <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0110/compliance/return/579ce462-ed16-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Updated Waste Storage Plan</title>
-        <link>https://leap.epa.ie/licence-profile/W0003/compliance/return/f848cb4c-ddb3-f011-a378-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-01T00:00:00+00:00</description>
-        <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0003/compliance/return/f848cb4c-ddb3-f011-a378-0050568a2d1a</guid>
+        <title>Monitoring Returns: Water</title>
+        <link>https://leap.epa.ie/licence-profile/P0720/compliance/return/677b93eb-cf25-f011-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-12-02T00:00:00+00:00</description>
+        <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0720/compliance/return/677b93eb-cf25-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Groundwater Monitoring Report 2023</title>
+        <link>https://leap.epa.ie/licence-profile/P0093/compliance/return/724b88c6-4344-ef11-a368-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-12-02T00:00:00+00:00</description>
+        <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0093/compliance/return/724b88c6-4344-ef11-a368-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Fourth quarter monitoring returns 2024</title>
+        <link>https://leap.epa.ie/licence-profile/P0093/compliance/return/95ae167e-4557-f011-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-12-02T00:00:00+00:00</description>
+        <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0093/compliance/return/95ae167e-4557-f011-a373-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
