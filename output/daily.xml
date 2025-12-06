@@ -3,155 +3,260 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-12-05.csv)</description>
-    <lastBuildDate>Fri, 05 Dec 2025 03:58:30 +0000</lastBuildDate>
-    <pubDate>Fri, 05 Dec 2025 03:58:30 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-12-06.csv)</description>
+    <lastBuildDate>Sat, 06 Dec 2025 04:01:23 +0000</lastBuildDate>
+    <pubDate>Sat, 06 Dec 2025 04:01:23 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: ESB North Wall P0579-04 ODS &amp; F-gas inventory update</title>
-        <link>https://leap.epa.ie/licence-profile/P0579/compliance/return/07f9230d-c616-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-04T00:00:00+00:00</description>
-        <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0579/compliance/return/07f9230d-c616-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: ODS and F-Gas Maintenance and Leak Check Records</title>
+        <link>https://leap.epa.ie/licence-profile/P1177/compliance/return/117c4c9d-1917-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1177/compliance/return/117c4c9d-1917-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Non Compliance NC031694</title>
+        <link>https://leap.epa.ie/licence-profile/W0289/compliance/return/17a10068-6eb6-f011-a378-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0289/compliance/return/17a10068-6eb6-f011-a378-0050568a2d1a</guid>
     </item>
     <item>
         <title>Site Updates/Notifications: ODS and F-Gas Maintenance and Leak Check Records</title>
-        <link>https://leap.epa.ie/licence-profile/P0777/compliance/return/13108cfd-070b-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-04T00:00:00+00:00</description>
-        <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0777/compliance/return/13108cfd-070b-f011-a373-0050568a2d1a</guid>
+        <link>https://leap.epa.ie/licence-profile/P1170/compliance/return/2bc8396a-e916-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1170/compliance/return/2bc8396a-e916-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: ODS and F-Gas Questionnaire</title>
-        <link>https://leap.epa.ie/licence-profile/W0041/compliance/return/2b085e3f-c816-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-04T00:00:00+00:00</description>
-        <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0041/compliance/return/2b085e3f-c816-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Response to SV33059</title>
+        <link>https://leap.epa.ie/licence-profile/W0136/compliance/return/34d6a792-df9e-f011-a377-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0136/compliance/return/34d6a792-df9e-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Update on SV32729</title>
+        <link>https://leap.epa.ie/licence-profile/W0180/compliance/return/377d7a45-9b9f-f011-a377-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0180/compliance/return/377d7a45-9b9f-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Commencement notification 05.12.2024</title>
+        <link>https://leap.epa.ie/licence-profile/S0015/compliance/return/427815b4-f4d1-f011-a37a-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0015/compliance/return/427815b4-f4d1-f011-a37a-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: ODS and F-Gas Maintenance and Leak Check Records</title>
+        <link>https://leap.epa.ie/licence-profile/P1028/compliance/return/4fc374c5-ed16-f011-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1028/compliance/return/4fc374c5-ed16-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: 2025 ODS and F-Gas Inventory</title>
+        <link>https://leap.epa.ie/licence-profile/P0516/compliance/return/54a937dd-f016-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0516/compliance/return/54a937dd-f016-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: ODS and F-Gas Maintneance and Leak Check Records</title>
+        <link>https://leap.epa.ie/licence-profile/P1122/compliance/return/57166b8d-e816-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1122/compliance/return/57166b8d-e816-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: First load of waste accepted 05/12/25</title>
+        <link>https://leap.epa.ie/licence-profile/W0245/compliance/return/5b3ef567-dad1-f011-a37a-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0245/compliance/return/5b3ef567-dad1-f011-a37a-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Internal FE results</title>
+        <link>https://leap.epa.ie/licence-profile/P0192/compliance/return/621eaa02-50af-f011-a377-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0192/compliance/return/621eaa02-50af-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: storm water investigation report</title>
+        <link>https://leap.epa.ie/licence-profile/P0190/compliance/return/68ccac81-cccc-ee11-a35f-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0190/compliance/return/68ccac81-cccc-ee11-a35f-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: ODS &amp; F-Gas Maintenance and Leak Check Records</title>
+        <link>https://leap.epa.ie/licence-profile/P1182/compliance/return/6a125a53-dd16-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1182/compliance/return/6a125a53-dd16-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: ODS and F-Gas Maintenance Records</title>
+        <link>https://leap.epa.ie/licence-profile/P0963/compliance/return/6f0d678d-2719-f011-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0963/compliance/return/6f0d678d-2719-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: FGAS Leak Report 2024</title>
+        <link>https://leap.epa.ie/licence-profile/P0813/compliance/return/79cac31b-e016-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0813/compliance/return/79cac31b-e016-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
         <title>Site Updates/Notifications: ODS and F-Gas Maintenance and Leak Check Records</title>
-        <link>https://leap.epa.ie/licence-profile/P0266/compliance/return/46638fe7-d916-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-04T00:00:00+00:00</description>
-        <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0266/compliance/return/46638fe7-d916-f011-a373-0050568a2d1a</guid>
+        <link>https://leap.epa.ie/licence-profile/P0179/compliance/return/82ad481c-dd16-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0179/compliance/return/82ad481c-dd16-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Annual Environmental Report: Updated AER</title>
-        <link>https://leap.epa.ie/licence-profile/P0467/compliance/return/4dbd80a9-9b26-f011-a373-0050568a2d1a</link>
-        <description>Type: Annual Environmental Report<br>Date: 2025-12-04T00:00:00+00:00</description>
-        <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0467/compliance/return/4dbd80a9-9b26-f011-a373-0050568a2d1a</guid>
+        <title>Monitoring Returns: ODS and F-Gas Maintenance and Leak Check Records</title>
+        <link>https://leap.epa.ie/licence-profile/P0013/compliance/return/83c05f01-ef16-f011-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0013/compliance/return/83c05f01-ef16-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Up to date FGAS inventory 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P0172/compliance/return/94ddfa5e-de16-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0172/compliance/return/94ddfa5e-de16-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: ODS and F-Gas Maintenance and Leak Check Records Ringsend FlexGen</title>
+        <link>https://leap.epa.ie/licence-profile/P1151/compliance/return/97536133-e316-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1151/compliance/return/97536133-e316-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Up to date FGAS inventory 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P0908/compliance/return/a48129a0-dd16-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0908/compliance/return/a48129a0-dd16-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: ODS and F-Gas Maintenance and Leak Check Records</title>
+        <link>https://leap.epa.ie/licence-profile/P1027/compliance/return/a67eb4b9-de16-f011-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1027/compliance/return/a67eb4b9-de16-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: ODS and F-Gas Maintenance and Leak Check Records Corduff FlexGen</title>
+        <link>https://leap.epa.ie/licence-profile/P1138/compliance/return/a8ae7bf1-e316-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1138/compliance/return/a8ae7bf1-e316-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: ODS and F-Gas Maintenance and Leak Check Records</title>
+        <link>https://leap.epa.ie/licence-profile/P0283/compliance/return/a8ba9ba7-1219-f011-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0283/compliance/return/a8ba9ba7-1219-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: ODS and F-Gas Maintenance and Leak Check Records</title>
+        <link>https://leap.epa.ie/licence-profile/P0264/compliance/return/b1bb618f-e216-f011-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0264/compliance/return/b1bb618f-e216-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: ODS and F-gas Inventory</title>
+        <link>https://leap.epa.ie/licence-profile/P0017/compliance/return/b4aa7b77-dc16-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0017/compliance/return/b4aa7b77-dc16-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Up to date FGAS inventory 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P0190/compliance/return/be4149ea-dc16-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0190/compliance/return/be4149ea-dc16-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
         <title>Site Updates/Notifications: ODS and F-Gas Maintenance and Leak Check Records 2024</title>
-        <link>https://leap.epa.ie/licence-profile/P0864/compliance/return/4e2bd378-da16-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-04T00:00:00+00:00</description>
-        <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0864/compliance/return/4e2bd378-da16-f011-a373-0050568a2d1a</guid>
+        <link>https://leap.epa.ie/licence-profile/P0405/compliance/return/c1b160ff-e216-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0405/compliance/return/c1b160ff-e216-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: ODS and F-Gas Decommissioned Equipment Records P0807-01</title>
-        <link>https://leap.epa.ie/licence-profile/P0807/compliance/return/52eb3f76-d016-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-04T00:00:00+00:00</description>
-        <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0807/compliance/return/52eb3f76-d016-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Up to date FGAS inventory 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0205/compliance/return/63391a30-d716-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-04T00:00:00+00:00</description>
-        <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0205/compliance/return/63391a30-d716-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Spare Transformer assembly</title>
-        <link>https://leap.epa.ie/licence-profile/P1198/compliance/return/68519eea-6309-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-04T00:00:00+00:00</description>
-        <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1198/compliance/return/68519eea-6309-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Up to date FGAS inventory 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0191/compliance/return/68cb3865-d616-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-04T00:00:00+00:00</description>
-        <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0191/compliance/return/68cb3865-d616-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Decommissioned Equipment</title>
+        <link>https://leap.epa.ie/licence-profile/P0991/compliance/return/c2327dbe-dc16-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0991/compliance/return/c2327dbe-dc16-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
         <title>Site Updates/Notifications: ODS and F-Gas Maintenance and Leak Check Records</title>
-        <link>https://leap.epa.ie/licence-profile/P0117/compliance/return/6c3b5526-da16-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-04T00:00:00+00:00</description>
-        <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0117/compliance/return/6c3b5526-da16-f011-a373-0050568a2d1a</guid>
+        <link>https://leap.epa.ie/licence-profile/W0184/compliance/return/d088b5c0-d619-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0184/compliance/return/d088b5c0-d619-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: P0521-03 ODS and F-Gas Maintenance and Leak Check Records 2024</title>
+        <link>https://leap.epa.ie/licence-profile/P0521/compliance/return/d4840bec-dd16-f011-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0521/compliance/return/d4840bec-dd16-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: ODS and F gas Maintenance &amp; Leak check records</title>
+        <link>https://leap.epa.ie/licence-profile/P0810/compliance/return/d885a02e-e916-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0810/compliance/return/d885a02e-e916-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
         <title>Site Updates/Notifications: ODS and F-Gas Maintenance and Leak Check Records</title>
-        <link>https://leap.epa.ie/licence-profile/P0483/compliance/return/85c1d76d-050b-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-04T00:00:00+00:00</description>
-        <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0483/compliance/return/85c1d76d-050b-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Up to date FGAS inventory 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0177/compliance/return/86918ded-db16-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-04T00:00:00+00:00</description>
-        <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0177/compliance/return/86918ded-db16-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Requests for Approval and Site Reports: Noise Management Plan</title>
-        <link>https://leap.epa.ie/licence-profile/P0963/compliance/return/8a0ea8a4-17a8-f011-a377-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-12-04T00:00:00+00:00</description>
-        <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0963/compliance/return/8a0ea8a4-17a8-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: ODS and F-Gas Maintenance and Leak Check Records P0807-01</title>
-        <link>https://leap.epa.ie/licence-profile/P0807/compliance/return/94b48be9-cb16-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-04T00:00:00+00:00</description>
-        <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0807/compliance/return/94b48be9-cb16-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV31747</title>
-        <link>https://leap.epa.ie/licence-profile/P0611/compliance/return/af50799e-258f-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-04T00:00:00+00:00</description>
-        <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0611/compliance/return/af50799e-258f-f011-a377-0050568a2d1a</guid>
+        <link>https://leap.epa.ie/licence-profile/P1173/compliance/return/e8128d7e-1417-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1173/compliance/return/e8128d7e-1417-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
         <title>Site Updates/Notifications: ODS and F-Gas Maintenance and Leak Check Records</title>
-        <link>https://leap.epa.ie/licence-profile/P0571/compliance/return/c4d8bf37-d716-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-04T00:00:00+00:00</description>
-        <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0571/compliance/return/c4d8bf37-d716-f011-a373-0050568a2d1a</guid>
+        <link>https://leap.epa.ie/licence-profile/P0181/compliance/return/f6840474-ef16-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0181/compliance/return/f6840474-ef16-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Requests for Approval and Site Reports: Validation Report Follow up to SEW Approval</title>
-        <link>https://leap.epa.ie/licence-profile/W0217/compliance/return/d6d5d969-5aab-f011-a377-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-12-04T00:00:00+00:00</description>
-        <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0217/compliance/return/d6d5d969-5aab-f011-a377-0050568a2d1a</guid>
+        <title>EPA Initiated Correspondence: </title>
+        <link>https://leap.epa.ie/licence-profile/P1004/compliance/epa-correspondence/061c0786-bea9-f011-a377-0050568a2d1a</link>
+        <description>Type: EPA Initiated Correspondence<br>Date: 2025-12-05T00:00:00+00:00</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1004/compliance/epa-correspondence/061c0786-bea9-f011-a377-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: ODS and F-Gas Questionnaire</title>
-        <link>https://leap.epa.ie/licence-profile/W0145/compliance/return/db2143ac-db16-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-04T00:00:00+00:00</description>
+        <title>Incident: Abatement equipment off-line</title>
+        <link>https://leap.epa.ie/licence-profile/D0493/compliance/incident/60fe86c8-6bba-f011-a378-0050568a2d1a</link>
+        <description>Type: Incident<br>Date: 2025-12-04T00:00:00+00:00</description>
         <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0145/compliance/return/db2143ac-db16-f011-a373-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0493/compliance/incident/60fe86c8-6bba-f011-a378-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: ODS and F-Gas Maintenance and Leak Check Records</title>
-        <link>https://leap.epa.ie/licence-profile/P0266/compliance/return/e7a92828-d916-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-04T00:00:00+00:00</description>
-        <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0266/compliance/return/e7a92828-d916-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: ODS and F-Gas Maintenance and Leak Check Records</title>
-        <link>https://leap.epa.ie/licence-profile/P0089/compliance/return/ea616901-d416-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-04T00:00:00+00:00</description>
-        <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0089/compliance/return/ea616901-d416-f011-a373-0050568a2d1a</guid>
+        <title>Incident: Monitoring Equipment Issues</title>
+        <link>https://leap.epa.ie/licence-profile/P0781/compliance/incident/8f177872-51ba-f011-a378-0050568a2d1a</link>
+        <description>Type: Incident<br>Date: 2025-12-03T00:00:00+00:00</description>
+        <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0781/compliance/incident/8f177872-51ba-f011-a378-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
