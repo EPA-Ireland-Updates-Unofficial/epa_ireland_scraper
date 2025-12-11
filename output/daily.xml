@@ -3,57 +3,36 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-12-10.csv)</description>
-    <lastBuildDate>Wed, 10 Dec 2025 04:04:42 +0000</lastBuildDate>
-    <pubDate>Wed, 10 Dec 2025 04:04:42 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-12-11.csv)</description>
+    <lastBuildDate>Thu, 11 Dec 2025 04:03:38 +0000</lastBuildDate>
+    <pubDate>Thu, 11 Dec 2025 04:03:38 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: Return on Inspection Observations</title>
-        <link>https://leap.epa.ie/licence-profile/P0052/compliance/return/073a723b-e7ba-f011-a378-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-12-09T00:00:00+00:00</description>
-        <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0052/compliance/return/073a723b-e7ba-f011-a378-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Effluent discharges data as requested by the EPA.</title>
+        <link>https://leap.epa.ie/licence-profile/P0639/compliance/return/3c54015e-7b82-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-10T00:00:00+00:00</description>
+        <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0639/compliance/return/3c54015e-7b82-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: F-Gas Audit Response - 2024 Decommissions</title>
-        <link>https://leap.epa.ie/licence-profile/P0818/compliance/return/3bede1d8-4d99-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-09T00:00:00+00:00</description>
-        <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0818/compliance/return/3bede1d8-4d99-f011-a377-0050568a2d1a</guid>
+        <title>Requests for Approval and Site Reports: Gairdini SW3 Quarterly Storm Water Proposal</title>
+        <link>https://leap.epa.ie/licence-profile/P0639/compliance/return/a332fbca-6b32-f011-a373-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-12-10T00:00:00+00:00</description>
+        <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0639/compliance/return/a332fbca-6b32-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Response to RCA on 15/8/2025 regarding ODS &amp; F-Gas update</title>
-        <link>https://leap.epa.ie/licence-profile/P0404/compliance/return/5666debe-5c99-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-09T00:00:00+00:00</description>
-        <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0404/compliance/return/5666debe-5c99-f011-a377-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Stormwater TOC/pH Analyzer Temporarily Offline</title>
+        <link>https://leap.epa.ie/licence-profile/P0571/compliance/return/b38eeab5-44ba-f011-a378-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-10T00:00:00+00:00</description>
+        <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0571/compliance/return/b38eeab5-44ba-f011-a378-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Response to Remote compliance assessment for MSD Brinny (EPA licence reg. P0005-03)</title>
-        <link>https://leap.epa.ie/licence-profile/P0005/compliance/return/87d156f2-2cbb-f011-a378-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-09T00:00:00+00:00</description>
-        <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0005/compliance/return/87d156f2-2cbb-f011-a378-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Sherwin-Williams Annual Air Monitoring Report 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0711/compliance/return/ab55421b-24b4-f011-a378-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-12-09T00:00:00+00:00</description>
-        <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0711/compliance/return/ab55421b-24b4-f011-a378-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: ODS &amp; FGas Site report 16/07/25 History of FGas use on site</title>
-        <link>https://leap.epa.ie/licence-profile/P0057/compliance/return/f5f02350-409d-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-09T00:00:00+00:00</description>
-        <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0057/compliance/return/f5f02350-409d-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: F-Gas Audit Response - F-Gas Register</title>
-        <link>https://leap.epa.ie/licence-profile/P0818/compliance/return/fe841c1b-5b99-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-09T00:00:00+00:00</description>
-        <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0818/compliance/return/fe841c1b-5b99-f011-a377-0050568a2d1a</guid>
+        <title>Monitoring Returns: September 2025 Monthly Return for P0818-05, Effluent SE-01</title>
+        <link>https://leap.epa.ie/licence-profile/P0818/compliance/return/bbbb1953-e4a8-f011-a377-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-12-10T00:00:00+00:00</description>
+        <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0818/compliance/return/bbbb1953-e4a8-f011-a377-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
