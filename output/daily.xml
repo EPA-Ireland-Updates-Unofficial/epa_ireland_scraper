@@ -3,85 +3,15 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-12-13.csv)</description>
-    <lastBuildDate>Sat, 13 Dec 2025 04:51:48 +0000</lastBuildDate>
-    <pubDate>Sat, 13 Dec 2025 04:51:48 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-12-14.csv)</description>
+    <lastBuildDate>Sun, 14 Dec 2025 04:02:42 +0000</lastBuildDate>
+    <pubDate>Sun, 14 Dec 2025 04:02:42 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: Surface water monitoring - August 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0674/compliance/return/0bf4b1a2-4395-f011-a377-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-12-12T00:00:00+00:00</description>
-        <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0674/compliance/return/0bf4b1a2-4395-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Response to site inspection</title>
-        <link>https://leap.epa.ie/licence-profile/P1019/compliance/return/3a56fc9b-f56b-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-12T00:00:00+00:00</description>
-        <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1019/compliance/return/3a56fc9b-f56b-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Replacement of stack for emission point EP-P2-001</title>
-        <link>https://leap.epa.ie/licence-profile/P0007/compliance/return/5bd87b85-e200-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-12T00:00:00+00:00</description>
-        <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0007/compliance/return/5bd87b85-e200-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: documents re audit 27th August 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0172/compliance/return/9cd45ea4-e284-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-12T00:00:00+00:00</description>
-        <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0172/compliance/return/9cd45ea4-e284-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: 2024 Ballaghveny Landfill Noise Report</title>
-        <link>https://leap.epa.ie/licence-profile/W0078/compliance/return/c9627f80-c67d-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-12-12T00:00:00+00:00</description>
-        <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0078/compliance/return/c9627f80-c67d-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: SV32756</title>
-        <link>https://leap.epa.ie/licence-profile/W0200/compliance/return/cc09b5ad-8c77-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-12T00:00:00+00:00</description>
-        <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0200/compliance/return/cc09b5ad-8c77-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: SV31786 - Site visit - Corrective actions report</title>
-        <link>https://leap.epa.ie/licence-profile/P0674/compliance/return/cedd73bf-7026-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-12T00:00:00+00:00</description>
-        <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0674/compliance/return/cedd73bf-7026-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: 2024 Annual Leachate Monitoring Report</title>
-        <link>https://leap.epa.ie/licence-profile/W0089/compliance/return/cf2721cf-ec6e-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-12-12T00:00:00+00:00</description>
-        <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0089/compliance/return/cf2721cf-ec6e-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: SV31318</title>
-        <link>https://leap.epa.ie/licence-profile/W0200/compliance/return/dd829ed2-8c77-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-12T00:00:00+00:00</description>
-        <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0200/compliance/return/dd829ed2-8c77-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Site visit SV31786 - Point 2.9 - Surface water system repairs</title>
-        <link>https://leap.epa.ie/licence-profile/P0674/compliance/return/f05ca75b-bebf-f011-a378-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-12T00:00:00+00:00</description>
-        <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0674/compliance/return/f05ca75b-bebf-f011-a378-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: noise survey</title>
-        <link>https://leap.epa.ie/licence-profile/P0172/compliance/return/fa9fabbc-0888-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-12T00:00:00+00:00</description>
-        <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0172/compliance/return/fa9fabbc-0888-f011-a373-0050568a2d1a</guid>
+        <title>Monitoring Returns: October 2025 Monthly Return for P0818-05, Storm Water</title>
+        <link>https://leap.epa.ie/licence-profile/P0818/compliance/return/35243aec-bdc0-f011-a378-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-12-11T00:00:00+00:00</description>
+        <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0818/compliance/return/35243aec-bdc0-f011-a378-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
