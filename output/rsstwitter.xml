@@ -4,8 +4,15 @@
     <title>EPA Ireland - Recent CSV Files</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
     <description>CSV files from the last 30 calendar days</description>
-    <lastBuildDate>Mon, 15 Dec 2025 04:02:30 +0000</lastBuildDate>
-    <pubDate>Mon, 15 Dec 2025 04:02:30 +0000</pubDate>
+    <lastBuildDate>Tue, 16 Dec 2025 04:03:09 +0000</lastBuildDate>
+    <pubDate>Tue, 16 Dec 2025 04:03:09 +0000</pubDate>
+    <item>
+        <title>CSV: 2025-12-16.csv</title>
+        <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025/12/2025-12-16.csv</link>
+        <description>CSV file for 2025-12-16</description>
+        <pubDate>Tue, 16 Dec 2025 04:03:09 +0000</pubDate>
+        <guid isPermaLink="false">output/csv/daily/2025/12/2025-12-16.csv</guid>
+    </item>
     <item>
         <title>CSV: 2025-12-14.csv</title>
         <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025/12/2025-12-14.csv</link>

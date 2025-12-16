@@ -3,15 +3,71 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-12-14.csv)</description>
-    <lastBuildDate>Mon, 15 Dec 2025 04:02:30 +0000</lastBuildDate>
-    <pubDate>Mon, 15 Dec 2025 04:02:30 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-12-16.csv)</description>
+    <lastBuildDate>Tue, 16 Dec 2025 04:03:09 +0000</lastBuildDate>
+    <pubDate>Tue, 16 Dec 2025 04:03:09 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: October 2025 Monthly Return for P0818-05, Storm Water</title>
-        <link>https://leap.epa.ie/licence-profile/P0818/compliance/return/35243aec-bdc0-f011-a378-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-12-11T00:00:00+00:00</description>
-        <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0818/compliance/return/35243aec-bdc0-f011-a378-0050568a2d1a</guid>
+        <title>Monitoring Returns: Donohill Landfill Slope Stability Report 2024</title>
+        <link>https://leap.epa.ie/licence-profile/W0074/compliance/return/14362faf-52b6-f011-a378-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-12-15T00:00:00+00:00</description>
+        <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0074/compliance/return/14362faf-52b6-f011-a378-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Updated Drain drawings Dairygold Castlefarm</title>
+        <link>https://leap.epa.ie/licence-profile/P0404/compliance/return/26cfa529-5b8a-f011-a376-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-15T00:00:00+00:00</description>
+        <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0404/compliance/return/26cfa529-5b8a-f011-a376-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Donohill Landfill Landfill Gas Report 2024</title>
+        <link>https://leap.epa.ie/licence-profile/W0074/compliance/return/62f9e922-52b6-f011-a378-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-12-15T00:00:00+00:00</description>
+        <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0074/compliance/return/62f9e922-52b6-f011-a378-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: F-Gas Audit Return - HFC Phase Out Plan</title>
+        <link>https://leap.epa.ie/licence-profile/P0818/compliance/return/6ffbf6c5-b4ad-f011-a377-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-15T00:00:00+00:00</description>
+        <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0818/compliance/return/6ffbf6c5-b4ad-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Bausch + Lomb Bund Integrity Summary Report 2024</title>
+        <link>https://leap.epa.ie/licence-profile/P1112/compliance/return/a8a5b38b-ae49-ef11-a368-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-15T00:00:00+00:00</description>
+        <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1112/compliance/return/a8a5b38b-ae49-ef11-a368-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Annual Slope Stability Assessments, Geotechnical and Visual 2024</title>
+        <link>https://leap.epa.ie/licence-profile/W0074/compliance/return/b0b91e7a-fabb-f011-a378-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-12-15T00:00:00+00:00</description>
+        <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0074/compliance/return/b0b91e7a-fabb-f011-a378-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Updated Drain drawings Dairygold Clonmel rd</title>
+        <link>https://leap.epa.ie/licence-profile/P0404/compliance/return/b725c4d7-5a8a-f011-a376-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-15T00:00:00+00:00</description>
+        <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0404/compliance/return/b725c4d7-5a8a-f011-a376-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Response to Technical Amendment D</title>
+        <link>https://leap.epa.ie/licence-profile/P0404/compliance/return/b8ecedbf-e284-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-15T00:00:00+00:00</description>
+        <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0404/compliance/return/b8ecedbf-e284-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Donohill Landfill Surface Water Report 2024</title>
+        <link>https://leap.epa.ie/licence-profile/W0074/compliance/return/e86db76f-54b6-f011-a378-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-12-15T00:00:00+00:00</description>
+        <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0074/compliance/return/e86db76f-54b6-f011-a378-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
