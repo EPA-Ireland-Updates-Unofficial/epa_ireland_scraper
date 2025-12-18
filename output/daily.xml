@@ -3,106 +3,71 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-12-17.csv)</description>
-    <lastBuildDate>Wed, 17 Dec 2025 04:19:53 +0000</lastBuildDate>
-    <pubDate>Wed, 17 Dec 2025 04:19:53 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-12-18.csv)</description>
+    <lastBuildDate>Thu, 18 Dec 2025 04:03:50 +0000</lastBuildDate>
+    <pubDate>Thu, 18 Dec 2025 04:03:50 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Response to site visit SV32733 - Total Residual Cl</title>
-        <link>https://leap.epa.ie/licence-profile/P0482/compliance/return/01f1b000-c093-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-16T00:00:00+00:00</description>
-        <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0482/compliance/return/01f1b000-c093-f011-a377-0050568a2d1a</guid>
+        <title>Incident: Abatement equipment off-line</title>
+        <link>https://leap.epa.ie/licence-profile/W0074/compliance/incident/413f6ac7-a3c3-f011-a378-0050568a2d1a</link>
+        <description>Type: Incident<br>Date: 2025-12-17T00:00:00+00:00</description>
+        <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0074/compliance/incident/413f6ac7-a3c3-f011-a378-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Q1 2025 Groundwater monitoring report</title>
-        <link>https://leap.epa.ie/licence-profile/P0443/compliance/return/1a623be4-f72b-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-12-16T00:00:00+00:00</description>
-        <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0443/compliance/return/1a623be4-f72b-f011-a373-0050568a2d1a</guid>
+        <title>Monitoring Returns: P2 Air Testing 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P0583/compliance/return/3a05d433-a0c0-f011-a378-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-12-17T00:00:00+00:00</description>
+        <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0583/compliance/return/3a05d433-a0c0-f011-a378-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: odour test program thermal oxidiser</title>
-        <link>https://leap.epa.ie/licence-profile/P0040/compliance/return/23d0acd3-c4f5-ef11-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-16T00:00:00+00:00</description>
-        <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0040/compliance/return/23d0acd3-c4f5-ef11-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Reponse to COM022062</title>
+        <link>https://leap.epa.ie/licence-profile/W0136/compliance/return/4d23c743-d7a9-f011-a377-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-17T00:00:00+00:00</description>
+        <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0136/compliance/return/4d23c743-d7a9-f011-a377-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Q2 Groundwater report 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0443/compliance/return/3e1b140d-e663-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-12-16T00:00:00+00:00</description>
-        <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0443/compliance/return/3e1b140d-e663-f011-a373-0050568a2d1a</guid>
+        <title>Requests for Approval and Site Reports: response to non-compliances NC033041 to NC033047</title>
+        <link>https://leap.epa.ie/licence-profile/W0214/compliance/return/8903ce29-069b-f011-a377-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-12-17T00:00:00+00:00</description>
+        <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0214/compliance/return/8903ce29-069b-f011-a377-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV31492</title>
-        <link>https://leap.epa.ie/licence-profile/P0310/compliance/return/71b515f0-4dcc-f011-a378-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-16T00:00:00+00:00</description>
-        <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0310/compliance/return/71b515f0-4dcc-f011-a378-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: update on SV31649</title>
+        <link>https://leap.epa.ie/licence-profile/W0136/compliance/return/a4d37c69-be97-f011-a377-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-17T00:00:00+00:00</description>
+        <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0136/compliance/return/a4d37c69-be97-f011-a377-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Response to SV31718</title>
-        <link>https://leap.epa.ie/licence-profile/P0443/compliance/return/887572b2-ee0b-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-16T00:00:00+00:00</description>
-        <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0443/compliance/return/887572b2-ee0b-f011-a373-0050568a2d1a</guid>
+        <title>Monitoring Returns: Slope Stability 2024 Report</title>
+        <link>https://leap.epa.ie/licence-profile/W0022/compliance/return/ac0b3e19-04bf-f011-a378-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-12-17T00:00:00+00:00</description>
+        <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0022/compliance/return/ac0b3e19-04bf-f011-a378-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Response to RCA on 15/8/2025 regarding HFC Phase Out Plan</title>
-        <link>https://leap.epa.ie/licence-profile/P0404/compliance/return/8a9e90b7-96ae-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-16T00:00:00+00:00</description>
-        <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0404/compliance/return/8a9e90b7-96ae-f011-a377-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Groundwater results data Q3 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P0404/compliance/return/c86a123b-97ae-f011-a377-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-17T00:00:00+00:00</description>
+        <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0404/compliance/return/c86a123b-97ae-f011-a377-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Hydrogeological Review</title>
-        <link>https://leap.epa.ie/licence-profile/P1112/compliance/return/92029197-bf84-ef11-a36b-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-12-16T00:00:00+00:00</description>
-        <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1112/compliance/return/92029197-bf84-ef11-a36b-0050568a2d1a</guid>
+        <title>Requests for Approval and Site Reports: reduction in frequency monitoring SW1.</title>
+        <link>https://leap.epa.ie/licence-profile/P0177/compliance/return/cb4cd727-7961-f011-a373-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-12-17T00:00:00+00:00</description>
+        <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0177/compliance/return/cb4cd727-7961-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: response to EPA letter LR088489</title>
-        <link>https://leap.epa.ie/licence-profile/P0177/compliance/return/a3b030db-24f8-ef11-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-16T00:00:00+00:00</description>
-        <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0177/compliance/return/a3b030db-24f8-ef11-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Continuous Flow Data 2023</title>
-        <link>https://leap.epa.ie/licence-profile/P0846/compliance/return/ba802e6a-6929-ef11-a368-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-12-16T00:00:00+00:00</description>
-        <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0846/compliance/return/ba802e6a-6929-ef11-a368-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Response to site visit SV32733 - Groundwater Risk Assessment</title>
-        <link>https://leap.epa.ie/licence-profile/P0482/compliance/return/dad3b180-cd93-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-16T00:00:00+00:00</description>
-        <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0482/compliance/return/dad3b180-cd93-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Q3 Groundwater monitoring</title>
-        <link>https://leap.epa.ie/licence-profile/P0443/compliance/return/e5b2431b-1fb1-f011-a378-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-12-16T00:00:00+00:00</description>
-        <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0443/compliance/return/e5b2431b-1fb1-f011-a378-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Dredger demobbed 16.12.25</title>
-        <link>https://leap.epa.ie/licence-profile/S0015/compliance/return/efd6efaa-81da-f011-a37a-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-16T00:00:00+00:00</description>
-        <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0015/compliance/return/efd6efaa-81da-f011-a37a-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Requests for Approval and Site Reports: refrigeration upgrade 290825</title>
-        <link>https://leap.epa.ie/licence-profile/P0047/compliance/return/f67fca0c-b184-f011-a373-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-12-16T00:00:00+00:00</description>
-        <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0047/compliance/return/f67fca0c-b184-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: W0263-05-EPA-2025 Walkway Improvement Works</title>
+        <link>https://leap.epa.ie/licence-profile/W0263/compliance/return/906ca076-c3c3-f011-a378-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-15T00:00:00+00:00</description>
+        <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0263/compliance/return/906ca076-c3c3-f011-a378-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
