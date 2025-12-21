@@ -3,64 +3,22 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-12-20.csv)</description>
-    <lastBuildDate>Sat, 20 Dec 2025 04:52:52 +0000</lastBuildDate>
-    <pubDate>Sat, 20 Dec 2025 04:52:52 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-12-21.csv)</description>
+    <lastBuildDate>Sun, 21 Dec 2025 04:52:15 +0000</lastBuildDate>
+    <pubDate>Sun, 21 Dec 2025 04:52:15 +0000</pubDate>
     <item>
-        <title>Complaint: Kilkenny discharge</title>
-        <link>https://leap.epa.ie/licence-profile/D0018/compliance/complaint/f3149959-b4d1-ef11-a36e-0050568a2d1a</link>
-        <description>Type: Complaint<br>Date: 2025-12-20T00:00:00</description>
-        <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0018/compliance/complaint/f3149959-b4d1-ef11-a36e-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: SV31056 Observation</title>
-        <link>https://leap.epa.ie/licence-profile/P0386/compliance/return/4f941ceb-f1af-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-19T00:00:00+00:00</description>
+        <title>Monitoring Returns: Scotch Corner Landfill January to June 2025 Groundwater and Surface Water Monitoring Report</title>
+        <link>https://leap.epa.ie/licence-profile/W0020/compliance/return/1650db69-25c6-f011-a378-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-12-19T00:00:00+00:00</description>
         <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0386/compliance/return/4f941ceb-f1af-f011-a377-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0020/compliance/return/1650db69-25c6-f011-a378-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV33217</title>
-        <link>https://leap.epa.ie/licence-profile/P0464/compliance/return/ffc0e86a-27dc-f011-a37b-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-19T00:00:00+00:00</description>
-        <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0464/compliance/return/ffc0e86a-27dc-f011-a37b-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Requests for Approval and Site Reports: New Product Introduction – Project Anta Stage 3</title>
-        <link>https://leap.epa.ie/licence-profile/P0004/compliance/return/004d7341-38c5-f011-a378-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-12-18T00:00:00+00:00</description>
+        <title>Monitoring Returns: Annual Noise Survey Report 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P0004/compliance/return/d4603329-18c6-f011-a378-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-12-18T00:00:00+00:00</description>
         <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0004/compliance/return/004d7341-38c5-f011-a378-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Changes to the Management Team at Guerbet</title>
-        <link>https://leap.epa.ie/licence-profile/P0050/compliance/return/25d9b989-1cc5-f011-a378-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-18T00:00:00+00:00</description>
-        <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0050/compliance/return/25d9b989-1cc5-f011-a378-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Incident: Abatement equipment off-line</title>
-        <link>https://leap.epa.ie/licence-profile/P0007/compliance/incident/891de695-5fc5-f011-a378-0050568a2d1a</link>
-        <description>Type: Incident<br>Date: 2025-12-17T00:00:00+00:00</description>
-        <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0007/compliance/incident/891de695-5fc5-f011-a378-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Incident: Uncontrolled Release</title>
-        <link>https://leap.epa.ie/licence-profile/A0399/compliance/incident/ba46191f-66c5-f011-a378-0050568a2d1a</link>
-        <description>Type: Incident<br>Date: 2025-12-17T00:00:00+00:00</description>
-        <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/A0399/compliance/incident/ba46191f-66c5-f011-a378-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Air emissions monitoring of Gas Engine Stack</title>
-        <link>https://leap.epa.ie/licence-profile/W0009/compliance/return/a965944c-41c5-f011-a378-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-12-17T00:00:00+00:00</description>
-        <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0009/compliance/return/a965944c-41c5-f011-a378-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0004/compliance/return/d4603329-18c6-f011-a378-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
