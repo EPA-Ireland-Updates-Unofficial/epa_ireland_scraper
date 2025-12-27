@@ -3,50 +3,29 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-12-23.csv)</description>
-    <lastBuildDate>Wed, 24 Dec 2025 04:05:35 +0000</lastBuildDate>
-    <pubDate>Wed, 24 Dec 2025 04:05:35 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-12-27.csv)</description>
+    <lastBuildDate>Sat, 27 Dec 2025 04:52:09 +0000</lastBuildDate>
+    <pubDate>Sat, 27 Dec 2025 04:52:09 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: Response to SV31753 Point 1.3</title>
-        <link>https://leap.epa.ie/licence-profile/P1168/compliance/return/057b752b-c67d-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-12-22T00:00:00+00:00</description>
-        <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1168/compliance/return/057b752b-c67d-f011-a373-0050568a2d1a</guid>
+        <title>Complaint: Odour in Dun Eimear Estate</title>
+        <link>https://leap.epa.ie/licence-profile/D0041/compliance/complaint/57e3ceab-4bc9-f011-a378-0050568a2d1a</link>
+        <description>Type: Complaint<br>Date: 2025-12-24T00:00:00+00:00</description>
+        <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0041/compliance/complaint/57e3ceab-4bc9-f011-a378-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Site activity to support EirGrid substation maintenance</title>
-        <link>https://leap.epa.ie/licence-profile/P1192/compliance/return/1945875c-ff24-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-22T00:00:00+00:00</description>
-        <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1192/compliance/return/1945875c-ff24-f011-a373-0050568a2d1a</guid>
+        <title>Complaint: Sewage blockage - severe smell</title>
+        <link>https://leap.epa.ie/licence-profile/D0041/compliance/complaint/994a55ec-49c9-f011-a378-0050568a2d1a</link>
+        <description>Type: Complaint<br>Date: 2025-12-24T00:00:00+00:00</description>
+        <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0041/compliance/complaint/994a55ec-49c9-f011-a378-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Site Fire water risk assessment</title>
-        <link>https://leap.epa.ie/licence-profile/P0525/compliance/return/27e9de13-9f58-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-22T00:00:00+00:00</description>
-        <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0525/compliance/return/27e9de13-9f58-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: WWTP Rocklands - P1140-01 Odour\OCU\New centrifuge.</title>
-        <link>https://leap.epa.ie/licence-profile/P1140/compliance/return/84f2b0a6-e5be-f011-a378-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-22T00:00:00+00:00</description>
-        <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1140/compliance/return/84f2b0a6-e5be-f011-a378-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Requests for Approval and Site Reports: Carrickhill Bog Rehabilitation Plan</title>
-        <link>https://leap.epa.ie/licence-profile/P0499/compliance/return/a691f4ed-f1c5-f011-a378-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-12-22T00:00:00+00:00</description>
-        <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0499/compliance/return/a691f4ed-f1c5-f011-a378-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Commencement Notice Foynes Plough Dredge Schedule Q1 2026</title>
-        <link>https://leap.epa.ie/licence-profile/S0009/compliance/return/1949551e-abde-f011-a37b-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-21T00:00:00+00:00</description>
-        <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0009/compliance/return/1949551e-abde-f011-a37b-0050568a2d1a</guid>
+        <title>Complaint: COM022287 - Web Submission</title>
+        <link>https://leap.epa.ie/licence-profile/D0188/compliance/complaint/af0b9d50-1dc9-f011-a378-0050568a2d1a</link>
+        <description>Type: Complaint<br>Date: 2025-12-24T00:00:00+00:00</description>
+        <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0188/compliance/complaint/af0b9d50-1dc9-f011-a378-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
