@@ -3,22 +3,22 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-12-31.csv)</description>
-    <lastBuildDate>Wed, 31 Dec 2025 04:06:20 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Dec 2025 04:06:20 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-01-01.csv)</description>
+    <lastBuildDate>Thu, 01 Jan 2026 04:58:52 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Jan 2026 04:58:52 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV31326</title>
-        <link>https://leap.epa.ie/licence-profile/W0217/compliance/return/864f69de-efbb-f011-a378-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-30T00:00:00+00:00</description>
-        <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0217/compliance/return/864f69de-efbb-f011-a378-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Response to Incident INCI030913 - Part 2</title>
+        <link>https://leap.epa.ie/licence-profile/W0074/compliance/return/8dc921a7-68cc-f011-a378-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-31T00:00:00+00:00</description>
+        <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0074/compliance/return/8dc921a7-68cc-f011-a378-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV31326</title>
-        <link>https://leap.epa.ie/licence-profile/W0217/compliance/return/f797f928-f0bb-f011-a378-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-12-30T00:00:00+00:00</description>
-        <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0217/compliance/return/f797f928-f0bb-f011-a378-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Response to Incident Instruction INCI030913</title>
+        <link>https://leap.epa.ie/licence-profile/W0074/compliance/return/ff818469-68cc-f011-a378-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-12-31T00:00:00+00:00</description>
+        <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0074/compliance/return/ff818469-68cc-f011-a378-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
