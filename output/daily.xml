@@ -3,78 +3,22 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-01-06.csv)</description>
-    <lastBuildDate>Tue, 06 Jan 2026 04:53:57 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Jan 2026 04:53:57 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-01-07.csv)</description>
+    <lastBuildDate>Wed, 07 Jan 2026 04:03:07 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Jan 2026 04:03:07 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV31872</title>
-        <link>https://leap.epa.ie/licence-profile/P0224/compliance/return/043ad545-f4df-f011-a37b-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-01-05T00:00:00+00:00</description>
-        <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0224/compliance/return/043ad545-f4df-f011-a37b-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: SVR Response (SV31627)</title>
+        <link>https://leap.epa.ie/licence-profile/P1053/compliance/return/001a2cb5-9ec0-f011-a378-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-01-06T00:00:00+00:00</description>
+        <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1053/compliance/return/001a2cb5-9ec0-f011-a378-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: EPA 15.3-2025 Incident INCI031371 - Weekly Flow Data - 09 Nov 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P1146/compliance/return/074aab0a-b4c0-f011-a378-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-01-05T00:00:00+00:00</description>
-        <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1146/compliance/return/074aab0a-b4c0-f011-a378-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: EPA 15.4-2025 Incident INCI031371 - Weekly Flow Data - 16 Nov 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P1146/compliance/return/3059213b-7ec4-f011-a378-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-01-05T00:00:00+00:00</description>
-        <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1146/compliance/return/3059213b-7ec4-f011-a378-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: EPA 15.5-2025 Incident INCI031371 - Weekly Flow Data - 23 Nov 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P1146/compliance/return/339655a6-93cb-f011-a378-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-01-05T00:00:00+00:00</description>
-        <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1146/compliance/return/339655a6-93cb-f011-a378-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Historical Groundwater Reports</title>
-        <link>https://leap.epa.ie/licence-profile/P0018/compliance/return/37501e7f-cad1-f011-a37a-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-01-05T00:00:00+00:00</description>
-        <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0018/compliance/return/37501e7f-cad1-f011-a37a-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Requests for Approval and Site Reports: Revised Firewater Risk Assessment Report</title>
-        <link>https://leap.epa.ie/licence-profile/P0001/compliance/return/41f773ca-49c5-f011-a378-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-01-05T00:00:00+00:00</description>
-        <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0001/compliance/return/41f773ca-49c5-f011-a378-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: EPA 15.4-2025 Incident INCI031371 - Weekly Flow Data - 16 Nov 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P1146/compliance/return/a8028568-93cb-f011-a378-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-01-05T00:00:00+00:00</description>
-        <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1146/compliance/return/a8028568-93cb-f011-a378-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: EPA 15.3-2025 Incident INCI031371 - Weekly Flow Data - 09 Nov 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P1146/compliance/return/c25b7c74-7dc4-f011-a378-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-01-05T00:00:00+00:00</description>
-        <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1146/compliance/return/c25b7c74-7dc4-f011-a378-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: EPA 08-2025 - SV31761 Action 1.12 Waste Management</title>
-        <link>https://leap.epa.ie/licence-profile/P1146/compliance/return/cf71577c-ef63-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-01-05T00:00:00+00:00</description>
-        <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1146/compliance/return/cf71577c-ef63-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: EPA 12 - 2025 MSD Dundalk Underground Services and Pipelines Inventory</title>
-        <link>https://leap.epa.ie/licence-profile/P1146/compliance/return/e9de799a-5092-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-01-05T00:00:00+00:00</description>
-        <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1146/compliance/return/e9de799a-5092-f011-a377-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: SVR Response</title>
+        <link>https://leap.epa.ie/licence-profile/P1128/compliance/return/e12db7a4-59af-f011-a377-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-01-06T00:00:00+00:00</description>
+        <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1128/compliance/return/e12db7a4-59af-f011-a377-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
