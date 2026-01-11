@@ -3,36 +3,22 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-01-10.csv)</description>
-    <lastBuildDate>Sat, 10 Jan 2026 04:56:39 +0000</lastBuildDate>
-    <pubDate>Sat, 10 Jan 2026 04:56:39 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-01-11.csv)</description>
+    <lastBuildDate>Sun, 11 Jan 2026 04:03:24 +0000</lastBuildDate>
+    <pubDate>Sun, 11 Jan 2026 04:03:24 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Accident Prevention Procedure</title>
-        <link>https://leap.epa.ie/licence-profile/P1136/compliance/return/8170b4e8-79cc-f011-a378-0050568a2d1a</link>
+        <title>Site Updates/Notifications: BUND INTEGRITY REPORT 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P1188/compliance/return/4dd1c689-b0d6-f011-a37a-0050568a2d1a</link>
         <description>Type: Site Updates/Notifications<br>Date: 2026-01-09T00:00:00+00:00</description>
         <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1136/compliance/return/8170b4e8-79cc-f011-a378-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1188/compliance/return/4dd1c689-b0d6-f011-a37a-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: P1189-01 Ambient Air Quality Monitoring Programme Results Report 2024</title>
-        <link>https://leap.epa.ie/licence-profile/P1189/compliance/return/85e19fed-f20a-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-01-09T00:00:00+00:00</description>
+        <title>Site Updates/Notifications: Shutdown - Christmas Period</title>
+        <link>https://leap.epa.ie/licence-profile/P0476/compliance/return/4e2db797-a4d6-f011-a37a-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-01-09T00:00:00+00:00</description>
         <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1189/compliance/return/85e19fed-f20a-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Requests for Approval and Site Reports: Request for external</title>
-        <link>https://leap.epa.ie/licence-profile/P1051/compliance/return/cc48c931-bad5-f011-a37a-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-01-08T00:00:00+00:00</description>
-        <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1051/compliance/return/cc48c931-bad5-f011-a37a-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Update to Licence approval of Temporary Generators</title>
-        <link>https://leap.epa.ie/licence-profile/P1187/compliance/return/eb6c79a4-d8d5-f011-a37a-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-01-07T00:00:00+00:00</description>
-        <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1187/compliance/return/eb6c79a4-d8d5-f011-a37a-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0476/compliance/return/4e2db797-a4d6-f011-a37a-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
