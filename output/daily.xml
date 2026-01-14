@@ -3,50 +3,43 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-01-13.csv)</description>
-    <lastBuildDate>Tue, 13 Jan 2026 04:04:30 +0000</lastBuildDate>
-    <pubDate>Tue, 13 Jan 2026 04:04:30 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-01-14.csv)</description>
+    <lastBuildDate>Wed, 14 Jan 2026 04:05:03 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Jan 2026 04:05:03 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: SV 32951 Tradaree Action required Condition 5.8.3</title>
-        <link>https://leap.epa.ie/licence-profile/W0037/compliance/return/35aea886-55af-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-01-12T00:00:00+00:00</description>
-        <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0037/compliance/return/35aea886-55af-f011-a377-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Response to NC033426: Failure to Provide/install infrastructure</title>
+        <link>https://leap.epa.ie/licence-profile/P0359/compliance/return/123e12dc-88cf-f011-a378-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-01-13T00:00:00+00:00</description>
+        <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0359/compliance/return/123e12dc-88cf-f011-a378-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV31333</title>
-        <link>https://leap.epa.ie/licence-profile/W0240/compliance/return/4dfa88a9-bfad-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-01-12T00:00:00+00:00</description>
-        <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0240/compliance/return/4dfa88a9-bfad-f011-a377-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Licensee Public Response - SV31228</title>
+        <link>https://leap.epa.ie/licence-profile/P1115/compliance/return/40a58f75-42d7-f011-a37a-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-01-13T00:00:00+00:00</description>
+        <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1115/compliance/return/40a58f75-42d7-f011-a37a-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Power Outage</title>
-        <link>https://leap.epa.ie/licence-profile/W0082/compliance/return/9d8f230c-c7c6-f011-a378-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-01-12T00:00:00+00:00</description>
-        <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0082/compliance/return/9d8f230c-c7c6-f011-a378-0050568a2d1a</guid>
+        <title>Monitoring Returns: Annual Dust Monitoring Report 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0017/compliance/return/b832ec61-94d6-f011-a37a-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-01-13T00:00:00+00:00</description>
+        <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0017/compliance/return/b832ec61-94d6-f011-a37a-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV30714</title>
-        <link>https://leap.epa.ie/licence-profile/P0805/compliance/return/c80b7a63-260b-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-01-12T00:00:00+00:00</description>
-        <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0805/compliance/return/c80b7a63-260b-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: 2025 Annual Topographical Survey</title>
+        <link>https://leap.epa.ie/licence-profile/W0002/compliance/return/bae0f11e-ec8f-f011-a377-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-01-13T00:00:00+00:00</description>
+        <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0002/compliance/return/bae0f11e-ec8f-f011-a377-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: C&amp;D LINES MATERIALS 010125 to 271125</title>
-        <link>https://leap.epa.ie/licence-profile/W0144/compliance/return/c98949e5-b5d6-f011-a37a-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-01-12T00:00:00+00:00</description>
-        <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0144/compliance/return/c98949e5-b5d6-f011-a37a-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Request for dust inormation following site visit - Bar chart dust results 2023 to 2025 as requested.</title>
-        <link>https://leap.epa.ie/licence-profile/W0307/compliance/return/ebda69ca-3292-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-01-12T00:00:00+00:00</description>
-        <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0307/compliance/return/ebda69ca-3292-f011-a377-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: 2025 Flare Emissions Test</title>
+        <link>https://leap.epa.ie/licence-profile/W0002/compliance/return/c8c48090-eb8f-f011-a377-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-01-13T00:00:00+00:00</description>
+        <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0002/compliance/return/c8c48090-eb8f-f011-a377-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
