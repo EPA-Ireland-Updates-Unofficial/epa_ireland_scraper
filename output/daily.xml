@@ -3,148 +3,29 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-01-15.csv)</description>
-    <lastBuildDate>Thu, 15 Jan 2026 04:10:26 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Jan 2026 04:10:26 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-01-16.csv)</description>
+    <lastBuildDate>Fri, 16 Jan 2026 04:08:46 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Jan 2026 04:08:46 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV32147</title>
-        <link>https://leap.epa.ie/licence-profile/P0571/compliance/return/08744e63-73ed-f011-a37b-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-01-14T00:00:00+00:00</description>
-        <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0571/compliance/return/08744e63-73ed-f011-a37b-0050568a2d1a</guid>
+        <title>Requests for Approval and Site Reports: Tirlán Limited - Response to Agency RFI on Firewater retention Risk Assessment LR086335</title>
+        <link>https://leap.epa.ie/licence-profile/P0794/compliance/return/4214fc2d-5d53-f011-a373-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-01-15T00:00:00+00:00</description>
+        <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0794/compliance/return/4214fc2d-5d53-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Tramore Landfill Quarterly Surface Water Monitoring Report Q3 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0075/compliance/return/27c80c23-84a3-f011-a377-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-01-14T00:00:00+00:00</description>
-        <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0075/compliance/return/27c80c23-84a3-f011-a377-0050568a2d1a</guid>
+        <title>Monitoring Returns: Groundwater monitoring 2024</title>
+        <link>https://leap.epa.ie/licence-profile/W0249/compliance/return/bec474e8-98e8-ef11-a372-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-01-15T00:00:00+00:00</description>
+        <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0249/compliance/return/bec474e8-98e8-ef11-a372-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Photographic evidence as requested</title>
-        <link>https://leap.epa.ie/licence-profile/P0292/compliance/return/3201fdb3-0d84-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-01-14T00:00:00+00:00</description>
-        <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0292/compliance/return/3201fdb3-0d84-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Q3 and annual Leachate Monitoring Results</title>
-        <link>https://leap.epa.ie/licence-profile/W0018/compliance/return/60f6cb57-9ea2-f011-a377-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-01-14T00:00:00+00:00</description>
-        <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0018/compliance/return/60f6cb57-9ea2-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV31744</title>
-        <link>https://leap.epa.ie/licence-profile/P0023/compliance/return/7a76a42c-b6e4-f011-a37b-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-01-14T00:00:00+00:00</description>
-        <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0023/compliance/return/7a76a42c-b6e4-f011-a37b-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Strom water sampling lab report</title>
-        <link>https://leap.epa.ie/licence-profile/P0977/compliance/return/84e1230a-5ea0-f011-a377-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-01-14T00:00:00+00:00</description>
-        <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0977/compliance/return/84e1230a-5ea0-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Tramore Landfill Stormwater Monitoring Report Q3 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0075/compliance/return/8c147fb8-83a3-f011-a377-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-01-14T00:00:00+00:00</description>
-        <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0075/compliance/return/8c147fb8-83a3-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Topographical Survey 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0018/compliance/return/91e6c6b0-9ab5-f011-a378-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-01-14T00:00:00+00:00</description>
-        <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0018/compliance/return/91e6c6b0-9ab5-f011-a378-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Stormwater monitoring - Annual report 2024</title>
-        <link>https://leap.epa.ie/licence-profile/W0240/compliance/return/962b4fa8-b6df-ef11-a372-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-01-14T00:00:00+00:00</description>
-        <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0240/compliance/return/962b4fa8-b6df-ef11-a372-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Annual Report - Sewer Discharge Monitoring</title>
-        <link>https://leap.epa.ie/licence-profile/W0240/compliance/return/9791c2a5-b4df-ef11-a372-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-01-14T00:00:00+00:00</description>
-        <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0240/compliance/return/9791c2a5-b4df-ef11-a372-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Topographical survey 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0075/compliance/return/a574cc1c-9bb5-f011-a378-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-01-14T00:00:00+00:00</description>
-        <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0075/compliance/return/a574cc1c-9bb5-f011-a378-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: NINL Response to SV31136</title>
-        <link>https://leap.epa.ie/licence-profile/P0792/compliance/return/a825b999-c89a-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-01-14T00:00:00+00:00</description>
-        <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0792/compliance/return/a825b999-c89a-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Air Monitoring Results 2024 (1)</title>
-        <link>https://leap.epa.ie/licence-profile/W0041/compliance/return/aa324c1e-d1df-ef11-a372-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-01-14T00:00:00+00:00</description>
-        <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0041/compliance/return/aa324c1e-d1df-ef11-a372-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Dungarvan Landfill Receiving Water Biological Assessment Q3 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0032/compliance/return/c2d63848-82a3-f011-a377-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-01-14T00:00:00+00:00</description>
-        <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0032/compliance/return/c2d63848-82a3-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: W0037-01 Tradaree Surface Water 2024</title>
-        <link>https://leap.epa.ie/licence-profile/W0037/compliance/return/cfacebb4-25df-ef11-a372-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-01-14T00:00:00+00:00</description>
-        <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0037/compliance/return/cfacebb4-25df-ef11-a372-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Continuing WWTP Discharge</title>
-        <link>https://leap.epa.ie/licence-profile/P1051/compliance/return/dad2529a-378a-f011-a376-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-01-14T00:00:00+00:00</description>
-        <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1051/compliance/return/dad2529a-378a-f011-a376-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Tramore Landfill Groundwater Monitoring Report Q3 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0075/compliance/return/db26a734-83a3-f011-a377-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-01-14T00:00:00+00:00</description>
-        <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0075/compliance/return/db26a734-83a3-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: WWTP Discharge Recommencement</title>
-        <link>https://leap.epa.ie/licence-profile/P1051/compliance/return/fbe69eaa-8889-f011-a376-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-01-14T00:00:00+00:00</description>
-        <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1051/compliance/return/fbe69eaa-8889-f011-a376-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Tramore Landfill Leachate Monitoring Report Q3 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0075/compliance/return/fda53781-83a3-f011-a377-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-01-14T00:00:00+00:00</description>
-        <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0075/compliance/return/fda53781-83a3-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Q3 and annual Surface Water monitoring results</title>
-        <link>https://leap.epa.ie/licence-profile/W0018/compliance/return/ffbd8e8a-9fa2-f011-a377-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-01-14T00:00:00+00:00</description>
-        <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0018/compliance/return/ffbd8e8a-9fa2-f011-a377-0050568a2d1a</guid>
+        <title>Monitoring Returns: W0037-01 Leachate Monitoring Report 2024</title>
+        <link>https://leap.epa.ie/licence-profile/W0037/compliance/return/fe0bdfb3-1be3-ef11-a372-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-01-15T00:00:00+00:00</description>
+        <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0037/compliance/return/fe0bdfb3-1be3-ef11-a372-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
