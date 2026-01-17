@@ -3,29 +3,99 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-01-16.csv)</description>
-    <lastBuildDate>Fri, 16 Jan 2026 04:08:46 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Jan 2026 04:08:46 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-01-17.csv)</description>
+    <lastBuildDate>Sat, 17 Jan 2026 04:55:28 +0000</lastBuildDate>
+    <pubDate>Sat, 17 Jan 2026 04:55:28 +0000</pubDate>
     <item>
-        <title>Requests for Approval and Site Reports: Tirlán Limited - Response to Agency RFI on Firewater retention Risk Assessment LR086335</title>
-        <link>https://leap.epa.ie/licence-profile/P0794/compliance/return/4214fc2d-5d53-f011-a373-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-01-15T00:00:00+00:00</description>
-        <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0794/compliance/return/4214fc2d-5d53-f011-a373-0050568a2d1a</guid>
+        <title>Monitoring Returns: September 2025 Monthly Return for P0818-05, Storm Water</title>
+        <link>https://leap.epa.ie/licence-profile/P0818/compliance/return/016143ae-e5a8-f011-a377-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-01-16T00:00:00+00:00</description>
+        <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0818/compliance/return/016143ae-e5a8-f011-a377-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Groundwater monitoring 2024</title>
-        <link>https://leap.epa.ie/licence-profile/W0249/compliance/return/bec474e8-98e8-ef11-a372-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-01-15T00:00:00+00:00</description>
-        <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0249/compliance/return/bec474e8-98e8-ef11-a372-0050568a2d1a</guid>
+        <title>Monitoring Returns: Biological Monitoring -Receiving waters</title>
+        <link>https://leap.epa.ie/licence-profile/W0284/compliance/return/28cb69da-f7bf-f011-a378-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-01-16T00:00:00+00:00</description>
+        <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0284/compliance/return/28cb69da-f7bf-f011-a378-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: W0037-01 Leachate Monitoring Report 2024</title>
-        <link>https://leap.epa.ie/licence-profile/W0037/compliance/return/fe0bdfb3-1be3-ef11-a372-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-01-15T00:00:00+00:00</description>
-        <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0037/compliance/return/fe0bdfb3-1be3-ef11-a372-0050568a2d1a</guid>
+        <title>Monitoring Returns: Q2 2025 - Leachate Monitoring Return - Ballymurtagh Landfill</title>
+        <link>https://leap.epa.ie/licence-profile/W0011/compliance/return/321e4604-c2b0-f011-a377-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-01-16T00:00:00+00:00</description>
+        <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0011/compliance/return/321e4604-c2b0-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Ballymurtagh 3rd Quarter 2025 Leachate Report</title>
+        <link>https://leap.epa.ie/licence-profile/W0011/compliance/return/37bb434e-a9b5-f011-a378-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-01-16T00:00:00+00:00</description>
+        <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0011/compliance/return/37bb434e-a9b5-f011-a378-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: September 2025 Monthly Return for P0818-05, Air Emission Points</title>
+        <link>https://leap.epa.ie/licence-profile/P0818/compliance/return/37dc2e0e-e5a8-f011-a377-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-01-16T00:00:00+00:00</description>
+        <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0818/compliance/return/37dc2e0e-e5a8-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Ballymurtagh Landfill Q3 2025 Groundwater Monitoring Return</title>
+        <link>https://leap.epa.ie/licence-profile/W0011/compliance/return/38bff0b5-85b5-f011-a378-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-01-16T00:00:00+00:00</description>
+        <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0011/compliance/return/38bff0b5-85b5-f011-a378-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Ballymurtagh Landfill - Q2 2025 surface Water Monitoring Report</title>
+        <link>https://leap.epa.ie/licence-profile/W0011/compliance/return/48eb15f8-c0b0-f011-a377-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-01-16T00:00:00+00:00</description>
+        <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0011/compliance/return/48eb15f8-c0b0-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Licensee Public Response - SV31318</title>
+        <link>https://leap.epa.ie/licence-profile/W0200/compliance/return/82bee15e-cef2-f011-a37b-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-01-16T00:00:00+00:00</description>
+        <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0200/compliance/return/82bee15e-cef2-f011-a37b-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Ballymurtagh 3rd quarter Surface Water Monitoring Report</title>
+        <link>https://leap.epa.ie/licence-profile/W0011/compliance/return/b9c1ab5a-85b5-f011-a378-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-01-16T00:00:00+00:00</description>
+        <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0011/compliance/return/b9c1ab5a-85b5-f011-a378-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: S1 Monitoring 2024</title>
+        <link>https://leap.epa.ie/licence-profile/W0284/compliance/return/bab147d6-b0bf-f011-a378-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-01-16T00:00:00+00:00</description>
+        <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0284/compliance/return/bab147d6-b0bf-f011-a378-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Ballymurtagh Landfill Q1 2025 - Surface Water Monitoring Report</title>
+        <link>https://leap.epa.ie/licence-profile/W0011/compliance/return/d42d3a4c-99ae-f011-a377-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-01-16T00:00:00+00:00</description>
+        <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0011/compliance/return/d42d3a4c-99ae-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Ballymurtagh Landfill Q1 2025 - Ground Water Monitoring Report</title>
+        <link>https://leap.epa.ie/licence-profile/W0011/compliance/return/e1a43188-99ae-f011-a377-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-01-16T00:00:00+00:00</description>
+        <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0011/compliance/return/e1a43188-99ae-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Groundwater Monitoring Return - Q2 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0011/compliance/return/f9664a49-c1b0-f011-a377-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-01-16T00:00:00+00:00</description>
+        <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0011/compliance/return/f9664a49-c1b0-f011-a377-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
