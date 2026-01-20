@@ -3,29 +3,99 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-01-18.csv)</description>
-    <lastBuildDate>Mon, 19 Jan 2026 04:55:32 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Jan 2026 04:55:32 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-01-20.csv)</description>
+    <lastBuildDate>Tue, 20 Jan 2026 04:05:04 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Jan 2026 04:05:04 +0000</pubDate>
     <item>
-        <title>Incident: Trigger Level Reached</title>
-        <link>https://leap.epa.ie/licence-profile/W0129/compliance/incident/19c75c28-07dc-f011-a37b-0050568a2d1a</link>
-        <description>Type: Incident<br>Date: 2026-01-16T00:00:00+00:00</description>
-        <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0129/compliance/incident/19c75c28-07dc-f011-a37b-0050568a2d1a</guid>
+        <title>Monitoring Returns: KMK Metals Recycling Dust Monitoring Report Q4 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0113/compliance/return/104dcbbe-bfd9-f011-a37a-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-01-19T00:00:00+00:00</description>
+        <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0113/compliance/return/104dcbbe-bfd9-f011-a37a-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Incident: Trigger Level Reached</title>
-        <link>https://leap.epa.ie/licence-profile/W0129/compliance/incident/77f2fb7e-51dc-f011-a37b-0050568a2d1a</link>
-        <description>Type: Incident<br>Date: 2026-01-16T00:00:00+00:00</description>
-        <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0129/compliance/incident/77f2fb7e-51dc-f011-a37b-0050568a2d1a</guid>
+        <title>Monitoring Returns: Revised 2023 Surface Water Report</title>
+        <link>https://leap.epa.ie/licence-profile/W0031/compliance/return/112eca39-78ed-ef11-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-01-19T00:00:00+00:00</description>
+        <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0031/compliance/return/112eca39-78ed-ef11-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Incident: Trigger Level Reached</title>
-        <link>https://leap.epa.ie/licence-profile/W0129/compliance/incident/b4c8b779-4edc-f011-a37b-0050568a2d1a</link>
-        <description>Type: Incident<br>Date: 2026-01-16T00:00:00+00:00</description>
-        <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0129/compliance/incident/b4c8b779-4edc-f011-a37b-0050568a2d1a</guid>
+        <title>Monitoring Returns: Bed Media Analysis 2023</title>
+        <link>https://leap.epa.ie/licence-profile/W0284/compliance/return/390ad26e-e6bf-f011-a378-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-01-19T00:00:00+00:00</description>
+        <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0284/compliance/return/390ad26e-e6bf-f011-a378-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: 2025 Christmas Shutdown</title>
+        <link>https://leap.epa.ie/licence-profile/P0818/compliance/return/448ade40-eadc-f011-a37b-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-01-19T00:00:00+00:00</description>
+        <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0818/compliance/return/448ade40-eadc-f011-a37b-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Confirmation of Error in Reporting</title>
+        <link>https://leap.epa.ie/licence-profile/P1076/compliance/return/532f6e3a-71b6-f011-a378-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-01-19T00:00:00+00:00</description>
+        <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1076/compliance/return/532f6e3a-71b6-f011-a378-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: LR091251 - Amended Response</title>
+        <link>https://leap.epa.ie/licence-profile/P1009/compliance/return/6014f516-6faf-f011-a377-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-01-19T00:00:00+00:00</description>
+        <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1009/compliance/return/6014f516-6faf-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: AT4 Analysis 2023</title>
+        <link>https://leap.epa.ie/licence-profile/W0284/compliance/return/6ba94d09-e3bf-f011-a378-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-01-19T00:00:00+00:00</description>
+        <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0284/compliance/return/6ba94d09-e3bf-f011-a378-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: LR091293 - Amended Response</title>
+        <link>https://leap.epa.ie/licence-profile/P1009/compliance/return/6cfb44bc-6baf-f011-a377-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-01-19T00:00:00+00:00</description>
+        <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1009/compliance/return/6cfb44bc-6baf-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Q3 2025 Daily &amp; Monthly</title>
+        <link>https://leap.epa.ie/licence-profile/P0061/compliance/return/864d564e-6f9f-f011-a377-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-01-19T00:00:00+00:00</description>
+        <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0061/compliance/return/864d564e-6f9f-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Qtr3 2025 Storm Water Diverts <30mins</title>
+        <link>https://leap.epa.ie/licence-profile/P0010/compliance/return/8c0211de-9ada-f011-a37a-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-01-19T00:00:00+00:00</description>
+        <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0010/compliance/return/8c0211de-9ada-f011-a37a-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Quarterly Ambient Air 2023</title>
+        <link>https://leap.epa.ie/licence-profile/W0284/compliance/return/dd4966cc-b2bf-f011-a378-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-01-19T00:00:00+00:00</description>
+        <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0284/compliance/return/dd4966cc-b2bf-f011-a378-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Licensee Public Response - SV30876</title>
+        <link>https://leap.epa.ie/licence-profile/P0698/compliance/return/e41933b9-7aed-f011-a37b-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-01-19T00:00:00+00:00</description>
+        <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0698/compliance/return/e41933b9-7aed-f011-a37b-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Bd Media Analysis 2024</title>
+        <link>https://leap.epa.ie/licence-profile/W0284/compliance/return/f33d4e89-7bc0-f011-a378-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-01-19T00:00:00+00:00</description>
+        <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0284/compliance/return/f33d4e89-7bc0-f011-a378-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
