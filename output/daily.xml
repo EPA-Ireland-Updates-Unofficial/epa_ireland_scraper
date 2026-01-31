@@ -3,22 +3,71 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-01-29.csv)</description>
-    <lastBuildDate>Fri, 30 Jan 2026 04:06:01 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Jan 2026 04:06:01 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-01-31.csv)</description>
+    <lastBuildDate>Sat, 31 Jan 2026 04:03:31 +0000</lastBuildDate>
+    <pubDate>Sat, 31 Jan 2026 04:03:31 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Attenuation Tanks</title>
-        <link>https://leap.epa.ie/licence-profile/P1138/compliance/return/6a9aebee-1de0-f011-a37b-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-01-28T00:00:00+00:00</description>
-        <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1138/compliance/return/6a9aebee-1de0-f011-a37b-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Updated pipeline maps including surface water</title>
+        <link>https://leap.epa.ie/licence-profile/P0533/compliance/return/47deb67f-ff7c-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-01-30T00:00:00+00:00</description>
+        <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0533/compliance/return/47deb67f-ff7c-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Complaint: W0165-02, 29/12/2025, Odours</title>
-        <link>https://leap.epa.ie/licence-profile/W0165/compliance/complaint/20d517d0-96e4-f011-a37b-0050568a2d1a</link>
-        <description>Type: Complaint<br>Date: 2026-01-26T00:00:00+00:00</description>
-        <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0165/compliance/complaint/20d517d0-96e4-f011-a37b-0050568a2d1a</guid>
+        <title>Requests for Approval and Site Reports: Request for Approval of Ion Exchange System</title>
+        <link>https://leap.epa.ie/licence-profile/P0407/compliance/return/e9749b19-e5d1-f011-a37a-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-01-30T00:00:00+00:00</description>
+        <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0407/compliance/return/e9749b19-e5d1-f011-a37a-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: M/235/S Data &amp; Graphs in Excel / Word Format and Stormwater Monitoring at Additional Locations</title>
+        <link>https://leap.epa.ie/licence-profile/P0236/compliance/return/09edff82-70d7-f011-a37a-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-01-29T00:00:00+00:00</description>
+        <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0236/compliance/return/09edff82-70d7-f011-a37a-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Monitoring &amp; Assessment of Historic Oil Spill</title>
+        <link>https://leap.epa.ie/licence-profile/P0236/compliance/return/0c4717b0-1fdc-f011-a37b-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-01-29T00:00:00+00:00</description>
+        <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0236/compliance/return/0c4717b0-1fdc-f011-a37b-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Response in relation to LoW Code for treated dredge</title>
+        <link>https://leap.epa.ie/licence-profile/P1022/compliance/return/3cb2d28f-3b32-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-01-29T00:00:00+00:00</description>
+        <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1022/compliance/return/3cb2d28f-3b32-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Licensee Public Response - SV33131</title>
+        <link>https://leap.epa.ie/licence-profile/P1184/compliance/return/66e91651-a0b9-f011-a378-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-01-29T00:00:00+00:00</description>
+        <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1184/compliance/return/66e91651-a0b9-f011-a378-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: Waste and Materials Storage Plan Berth 52/53 in accordance with Condition 8.14.</title>
+        <link>https://leap.epa.ie/licence-profile/P1022/compliance/return/9983c80a-b6e0-f011-a37b-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-01-29T00:00:00+00:00</description>
+        <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1022/compliance/return/9983c80a-b6e0-f011-a37b-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: SW1 Heavy Metal Concentrations Analysis</title>
+        <link>https://leap.epa.ie/licence-profile/P0236/compliance/return/9eddf4b2-f1d4-f011-a37a-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-01-29T00:00:00+00:00</description>
+        <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0236/compliance/return/9eddf4b2-f1d4-f011-a37a-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Environmental Noise 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0041/compliance/return/ed9b12b0-a326-f011-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-01-29T00:00:00+00:00</description>
+        <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0041/compliance/return/ed9b12b0-a326-f011-a373-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
