@@ -3,22 +3,22 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-02-14.csv)</description>
-    <lastBuildDate>Sat, 14 Feb 2026 04:54:17 +0000</lastBuildDate>
-    <pubDate>Sat, 14 Feb 2026 04:54:17 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-02-15.csv)</description>
+    <lastBuildDate>Sun, 15 Feb 2026 04:01:47 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Feb 2026 04:01:47 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Replacement dredger expected wk8/2026</title>
-        <link>https://leap.epa.ie/licence-profile/S0015/compliance/return/55bcdf4a-0009-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-02-13T00:00:00+00:00</description>
+        <title>Requests for Approval and Site Reports: Groundwater monitoring</title>
+        <link>https://leap.epa.ie/licence-profile/P0125/compliance/return/3b2e4c78-f1f1-f011-a37b-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-02-13T00:00:00+00:00</description>
         <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0015/compliance/return/55bcdf4a-0009-f111-a37d-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0125/compliance/return/3b2e4c78-f1f1-f011-a37b-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Response to technical review report</title>
-        <link>https://leap.epa.ie/licence-profile/P0275/compliance/return/901cec0e-d9b8-f011-a378-0050568a2d1a</link>
+        <title>Site Updates/Notifications: Response to notification Incident INCI031219 - Reference 1, received on 08 January 2026</title>
+        <link>https://leap.epa.ie/licence-profile/P0652/compliance/return/b9448286-19f2-f011-a37b-0050568a2d1a</link>
         <description>Type: Site Updates/Notifications<br>Date: 2026-02-13T00:00:00+00:00</description>
         <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0275/compliance/return/901cec0e-d9b8-f011-a378-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0652/compliance/return/b9448286-19f2-f011-a37b-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
