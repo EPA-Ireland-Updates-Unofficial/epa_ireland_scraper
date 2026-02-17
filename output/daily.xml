@@ -3,22 +3,22 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-02-15.csv)</description>
-    <lastBuildDate>Mon, 16 Feb 2026 04:54:38 +0000</lastBuildDate>
-    <pubDate>Mon, 16 Feb 2026 04:54:38 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-02-17.csv)</description>
+    <lastBuildDate>Tue, 17 Feb 2026 04:03:21 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Feb 2026 04:03:21 +0000</pubDate>
     <item>
-        <title>Requests for Approval and Site Reports: Groundwater monitoring</title>
-        <link>https://leap.epa.ie/licence-profile/P0125/compliance/return/3b2e4c78-f1f1-f011-a37b-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-02-13T00:00:00+00:00</description>
-        <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0125/compliance/return/3b2e4c78-f1f1-f011-a37b-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Response to Organic Fertiliser Notification.</title>
+        <link>https://leap.epa.ie/licence-profile/P0414/compliance/return/2b1875bf-9af0-f011-a37b-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-02-16T00:00:00+00:00</description>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0414/compliance/return/2b1875bf-9af0-f011-a37b-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Response to notification Incident INCI031219 - Reference 1, received on 08 January 2026</title>
-        <link>https://leap.epa.ie/licence-profile/P0652/compliance/return/b9448286-19f2-f011-a37b-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-02-13T00:00:00+00:00</description>
-        <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0652/compliance/return/b9448286-19f2-f011-a37b-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Waste Storage Plan - May 2024</title>
+        <link>https://leap.epa.ie/licence-profile/W0253/compliance/return/4f03d4cd-f6d0-f011-a378-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-02-16T00:00:00+00:00</description>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0253/compliance/return/4f03d4cd-f6d0-f011-a378-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
