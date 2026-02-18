@@ -3,22 +3,43 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-02-17.csv)</description>
-    <lastBuildDate>Tue, 17 Feb 2026 04:03:21 +0000</lastBuildDate>
-    <pubDate>Tue, 17 Feb 2026 04:03:21 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-02-18.csv)</description>
+    <lastBuildDate>Wed, 18 Feb 2026 04:12:48 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Feb 2026 04:12:48 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Response to Organic Fertiliser Notification.</title>
-        <link>https://leap.epa.ie/licence-profile/P0414/compliance/return/2b1875bf-9af0-f011-a37b-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-02-16T00:00:00+00:00</description>
-        <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0414/compliance/return/2b1875bf-9af0-f011-a37b-0050568a2d1a</guid>
+        <title>Monitoring Returns: Respirometry Report SE1 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P0096/compliance/return/2ae7c803-f1dc-f011-a37b-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-02-17T00:00:00+00:00</description>
+        <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0096/compliance/return/2ae7c803-f1dc-f011-a37b-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Waste Storage Plan - May 2024</title>
-        <link>https://leap.epa.ie/licence-profile/W0253/compliance/return/4f03d4cd-f6d0-f011-a378-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-02-16T00:00:00+00:00</description>
-        <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0253/compliance/return/4f03d4cd-f6d0-f011-a378-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Licensee Public Response - SV32345</title>
+        <link>https://leap.epa.ie/licence-profile/P0018/compliance/return/5fd1e0fc-c2f2-f011-a37b-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-02-17T00:00:00+00:00</description>
+        <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0018/compliance/return/5fd1e0fc-c2f2-f011-a37b-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Versiv SE1 Organics Report 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P0096/compliance/return/a423c1c0-27df-f011-a37b-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-02-17T00:00:00+00:00</description>
+        <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0096/compliance/return/a423c1c0-27df-f011-a37b-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Licensee Public Response - SV31855</title>
+        <link>https://leap.epa.ie/licence-profile/P0096/compliance/return/d4cc1031-69db-f011-a37b-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-02-17T00:00:00+00:00</description>
+        <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0096/compliance/return/d4cc1031-69db-f011-a37b-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Versiv Groundwater Monitoring Results 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P0096/compliance/return/fcbf8358-2adf-f011-a37b-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-02-17T00:00:00+00:00</description>
+        <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0096/compliance/return/fcbf8358-2adf-f011-a37b-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
