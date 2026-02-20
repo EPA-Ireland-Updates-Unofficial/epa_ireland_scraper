@@ -3,64 +3,29 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-02-19.csv)</description>
-    <lastBuildDate>Thu, 19 Feb 2026 04:05:54 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Feb 2026 04:05:54 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-02-20.csv)</description>
+    <lastBuildDate>Fri, 20 Feb 2026 04:09:28 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Feb 2026 04:09:28 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: 2025 Groundwater Monitoring Report</title>
-        <link>https://leap.epa.ie/licence-profile/P0224/compliance/return/0c890806-f6f2-f011-a37b-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-02-18T00:00:00+00:00</description>
-        <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0224/compliance/return/0c890806-f6f2-f011-a37b-0050568a2d1a</guid>
+        <title>Requests for Approval and Site Reports: EPA952 New Process Notification</title>
+        <link>https://leap.epa.ie/licence-profile/P0110/compliance/return/6391ecbb-0df6-f011-a37b-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-02-19T00:00:00+00:00</description>
+        <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0110/compliance/return/6391ecbb-0df6-f011-a37b-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Trade Effluent Monitoring Returns 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0006/compliance/return/6a55730b-1df2-f011-a37b-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-02-18T00:00:00+00:00</description>
-        <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0006/compliance/return/6a55730b-1df2-f011-a37b-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Letter re SV30953 and NC033672</title>
+        <link>https://leap.epa.ie/licence-profile/P0037/compliance/return/8f7f11a6-c9ca-f011-a378-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-02-19T00:00:00+00:00</description>
+        <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0037/compliance/return/8f7f11a6-c9ca-f011-a378-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: P0445_IPC Noise Survey Results 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0445/compliance/return/715faed4-02a9-f011-a377-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-02-18T00:00:00+00:00</description>
-        <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0445/compliance/return/715faed4-02a9-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Dec 2025 Surface Water Monitoring Report</title>
-        <link>https://leap.epa.ie/licence-profile/P0594/compliance/return/7acb9a45-dbeb-f011-a37b-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-02-18T00:00:00+00:00</description>
-        <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0594/compliance/return/7acb9a45-dbeb-f011-a37b-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Dust Report 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0014/compliance/return/e389adf5-3eed-f011-a37b-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-02-18T00:00:00+00:00</description>
-        <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0014/compliance/return/e389adf5-3eed-f011-a37b-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Annual Air monitoring report 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0445/compliance/return/e48c32a0-76b5-f011-a378-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-02-18T00:00:00+00:00</description>
-        <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0445/compliance/return/e48c32a0-76b5-f011-a378-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Incident: Abatement equipment off-line</title>
-        <link>https://leap.epa.ie/licence-profile/D0026/compliance/incident/53785b0a-55f5-f011-a37b-0050568a2d1a</link>
-        <description>Type: Incident<br>Date: 2026-02-16T00:00:00+00:00</description>
-        <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0026/compliance/incident/53785b0a-55f5-f011-a37b-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Q2 2025 GW monitoring report</title>
-        <link>https://leap.epa.ie/licence-profile/P0322/compliance/return/d46299d5-44f5-f011-a37b-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-02-16T00:00:00+00:00</description>
-        <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0322/compliance/return/d46299d5-44f5-f011-a37b-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Letter re SV33118</title>
+        <link>https://leap.epa.ie/licence-profile/P0037/compliance/return/feb7e554-c5ae-f011-a377-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-02-19T00:00:00+00:00</description>
+        <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0037/compliance/return/feb7e554-c5ae-f011-a377-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
