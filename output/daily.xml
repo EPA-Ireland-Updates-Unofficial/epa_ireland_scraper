@@ -3,29 +3,57 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-02-20.csv)</description>
-    <lastBuildDate>Fri, 20 Feb 2026 04:09:28 +0000</lastBuildDate>
-    <pubDate>Fri, 20 Feb 2026 04:09:28 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-02-21.csv)</description>
+    <lastBuildDate>Sat, 21 Feb 2026 04:05:35 +0000</lastBuildDate>
+    <pubDate>Sat, 21 Feb 2026 04:05:35 +0000</pubDate>
     <item>
-        <title>Requests for Approval and Site Reports: EPA952 New Process Notification</title>
-        <link>https://leap.epa.ie/licence-profile/P0110/compliance/return/6391ecbb-0df6-f011-a37b-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-02-19T00:00:00+00:00</description>
-        <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0110/compliance/return/6391ecbb-0df6-f011-a37b-0050568a2d1a</guid>
+        <title>Monitoring Returns: Revised Tramore Landfill Quarterly Leachate Monitoring Report Q4 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0075/compliance/return/0077be79-69f1-f011-a37b-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-02-20T00:00:00+00:00</description>
+        <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0075/compliance/return/0077be79-69f1-f011-a37b-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Letter re SV30953 and NC033672</title>
-        <link>https://leap.epa.ie/licence-profile/P0037/compliance/return/8f7f11a6-c9ca-f011-a378-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-02-19T00:00:00+00:00</description>
-        <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0037/compliance/return/8f7f11a6-c9ca-f011-a378-0050568a2d1a</guid>
+        <title>Monitoring Returns: 2025 Annual Groundwater Report</title>
+        <link>https://leap.epa.ie/licence-profile/W0048/compliance/return/00ff990a-6eea-f011-a37b-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-02-20T00:00:00+00:00</description>
+        <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0048/compliance/return/00ff990a-6eea-f011-a37b-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Letter re SV33118</title>
-        <link>https://leap.epa.ie/licence-profile/P0037/compliance/return/feb7e554-c5ae-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-02-19T00:00:00+00:00</description>
-        <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0037/compliance/return/feb7e554-c5ae-f011-a377-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Waste Reclassification- Gypsum Tailings and Sweepings</title>
+        <link>https://leap.epa.ie/licence-profile/P0519/compliance/return/520e08bf-cf24-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-02-20T00:00:00+00:00</description>
+        <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0519/compliance/return/520e08bf-cf24-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Water Framework Data Q4 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0032/compliance/return/57ed0bf2-a0ec-f011-a37b-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-02-20T00:00:00+00:00</description>
+        <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0032/compliance/return/57ed0bf2-a0ec-f011-a37b-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Site update December 2025 to outline progress of works</title>
+        <link>https://leap.epa.ie/licence-profile/P1022/compliance/return/8a5fd1c8-bae0-f011-a37b-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-02-20T00:00:00+00:00</description>
+        <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1022/compliance/return/8a5fd1c8-bae0-f011-a37b-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: 2025 Tramore flare stack emission report Rd 2</title>
+        <link>https://leap.epa.ie/licence-profile/W0075/compliance/return/999b616c-4df5-f011-a37b-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-02-20T00:00:00+00:00</description>
+        <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0075/compliance/return/999b616c-4df5-f011-a37b-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Q4 2025 WFD Reporting</title>
+        <link>https://leap.epa.ie/licence-profile/W0018/compliance/return/b8128550-78ed-f011-a37b-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-02-20T00:00:00+00:00</description>
+        <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0018/compliance/return/b8128550-78ed-f011-a37b-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
