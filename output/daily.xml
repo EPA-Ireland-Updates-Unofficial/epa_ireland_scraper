@@ -3,36 +3,22 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-02-22.csv)</description>
-    <lastBuildDate>Sun, 22 Feb 2026 05:01:36 +0000</lastBuildDate>
-    <pubDate>Sun, 22 Feb 2026 05:01:36 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-02-23.csv)</description>
+    <lastBuildDate>Mon, 23 Feb 2026 04:15:52 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Feb 2026 04:15:52 +0000</pubDate>
     <item>
-        <title>Incident: Spillage</title>
-        <link>https://leap.epa.ie/licence-profile/D0014/compliance/incident/4953bb6f-75f7-f011-a37b-0050568a2d1a</link>
+        <title>Incident: Breach of ELV</title>
+        <link>https://leap.epa.ie/licence-profile/D0281/compliance/incident/dcf41033-75f8-f011-a37b-0050568a2d1a</link>
         <description>Type: Incident<br>Date: 2026-02-20T00:00:00+00:00</description>
         <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0014/compliance/incident/4953bb6f-75f7-f011-a37b-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0281/compliance/incident/dcf41033-75f8-f011-a37b-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Incident: Abatement equipment off-line</title>
-        <link>https://leap.epa.ie/licence-profile/D0341/compliance/incident/a5212b2f-89f7-f011-a37b-0050568a2d1a</link>
-        <description>Type: Incident<br>Date: 2026-02-20T00:00:00+00:00</description>
-        <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0341/compliance/incident/a5212b2f-89f7-f011-a37b-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Landfill Gas Field Remedial Works</title>
-        <link>https://leap.epa.ie/licence-profile/W0075/compliance/return/b79ce515-8ef7-f011-a37b-0050568a2d1a</link>
+        <title>Site Updates/Notifications: Q4 2025 SW Monitoring Results</title>
+        <link>https://leap.epa.ie/licence-profile/W0165/compliance/return/5bad0e45-3ef8-f011-a37b-0050568a2d1a</link>
         <description>Type: Site Updates/Notifications<br>Date: 2026-02-20T00:00:00+00:00</description>
         <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0075/compliance/return/b79ce515-8ef7-f011-a37b-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Notification of annual planned shut down for 2026</title>
-        <link>https://leap.epa.ie/licence-profile/W0232/compliance/return/ec1cda37-adf7-f011-a37b-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-02-19T00:00:00+00:00</description>
-        <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0232/compliance/return/ec1cda37-adf7-f011-a37b-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0165/compliance/return/5bad0e45-3ef8-f011-a37b-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
