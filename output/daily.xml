@@ -3,22 +3,64 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-02-23.csv)</description>
-    <lastBuildDate>Mon, 23 Feb 2026 04:15:52 +0000</lastBuildDate>
-    <pubDate>Mon, 23 Feb 2026 04:15:52 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-02-24.csv)</description>
+    <lastBuildDate>Tue, 24 Feb 2026 04:13:50 +0000</lastBuildDate>
+    <pubDate>Tue, 24 Feb 2026 04:13:50 +0000</pubDate>
     <item>
-        <title>Incident: Breach of ELV</title>
-        <link>https://leap.epa.ie/licence-profile/D0281/compliance/incident/dcf41033-75f8-f011-a37b-0050568a2d1a</link>
-        <description>Type: Incident<br>Date: 2026-02-20T00:00:00+00:00</description>
-        <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0281/compliance/incident/dcf41033-75f8-f011-a37b-0050568a2d1a</guid>
+        <title>Requests for Approval and Site Reports: Testing and Inspection of the Bunded Areas 2022 to 2024</title>
+        <link>https://leap.epa.ie/licence-profile/P0006/compliance/return/08bf6d22-4df5-f011-a37b-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-02-23T00:00:00+00:00</description>
+        <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0006/compliance/return/08bf6d22-4df5-f011-a37b-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Q4 2025 SW Monitoring Results</title>
-        <link>https://leap.epa.ie/licence-profile/W0165/compliance/return/5bad0e45-3ef8-f011-a37b-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-02-20T00:00:00+00:00</description>
-        <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0165/compliance/return/5bad0e45-3ef8-f011-a37b-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Licensee Public Response - SV32605</title>
+        <link>https://leap.epa.ie/licence-profile/P1106/compliance/return/27063f76-40cc-f011-a378-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-02-23T00:00:00+00:00</description>
+        <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1106/compliance/return/27063f76-40cc-f011-a378-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Additional information in reference to return LR098519</title>
+        <link>https://leap.epa.ie/licence-profile/P0525/compliance/return/59a50e26-8db5-f011-a378-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-02-23T00:00:00+00:00</description>
+        <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0525/compliance/return/59a50e26-8db5-f011-a378-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: Air Pressure Testing and Inspection of the Underground Process Sewer 2022 to 2024</title>
+        <link>https://leap.epa.ie/licence-profile/P0006/compliance/return/6240ab8d-49f5-f011-a37b-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-02-23T00:00:00+00:00</description>
+        <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0006/compliance/return/6240ab8d-49f5-f011-a37b-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Sterling Noise Monitoring Report 2025.</title>
+        <link>https://leap.epa.ie/licence-profile/P0006/compliance/return/90ddbfa9-a4ec-f011-a37b-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-02-23T00:00:00+00:00</description>
+        <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0006/compliance/return/90ddbfa9-a4ec-f011-a37b-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: 2025 Q4 Air Emissions Report</title>
+        <link>https://leap.epa.ie/licence-profile/P0594/compliance/return/981dfea0-72f8-f011-a37b-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-02-23T00:00:00+00:00</description>
+        <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0594/compliance/return/981dfea0-72f8-f011-a37b-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: Air Pressure Testing and Inspection of the Underground Sanitary Sewer 2022 to 2024</title>
+        <link>https://leap.epa.ie/licence-profile/P0006/compliance/return/bf88f365-48f5-f011-a37b-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-02-23T00:00:00+00:00</description>
+        <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0006/compliance/return/bf88f365-48f5-f011-a37b-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Dust deposition Monitoring Report</title>
+        <link>https://leap.epa.ie/licence-profile/P1129/compliance/return/d830b7a8-e3f6-f011-a37b-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-02-23T00:00:00+00:00</description>
+        <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1129/compliance/return/d830b7a8-e3f6-f011-a37b-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
