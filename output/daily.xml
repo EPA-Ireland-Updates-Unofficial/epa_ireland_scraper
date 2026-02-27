@@ -3,43 +3,50 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-02-26.csv)</description>
-    <lastBuildDate>Thu, 26 Feb 2026 04:15:35 +0000</lastBuildDate>
-    <pubDate>Thu, 26 Feb 2026 04:15:35 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-02-27.csv)</description>
+    <lastBuildDate>Fri, 27 Feb 2026 04:11:53 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Feb 2026 04:11:53 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV33116</title>
-        <link>https://leap.epa.ie/licence-profile/P0175/compliance/return/3225bf12-ed08-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-02-25T00:00:00+00:00</description>
+        <title>Site Updates/Notifications: Licensee Public Response - SV33130</title>
+        <link>https://leap.epa.ie/licence-profile/P1170/compliance/return/750b2bf0-a2b9-f011-a378-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-02-26T00:00:00+00:00</description>
+        <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1170/compliance/return/750b2bf0-a2b9-f011-a378-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Annual Ground Water Monitoring Report 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0001/compliance/return/bf0ac8b1-5dfb-f011-a37b-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-02-26T00:00:00+00:00</description>
+        <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0001/compliance/return/bf0ac8b1-5dfb-f011-a37b-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: NC033883 - Under assessment</title>
+        <link>https://leap.epa.ie/licence-profile/P1129/compliance/return/6f044bb2-88fb-f011-a37b-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-02-25T00:00:00+00:00</description>
         <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0175/compliance/return/3225bf12-ed08-f111-a37d-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1129/compliance/return/6f044bb2-88fb-f011-a37b-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Submission of Annual Noise Monitoring Report 2025 W0185-01</title>
-        <link>https://leap.epa.ie/licence-profile/W0185/compliance/return/6ae85b26-d2fa-f011-a37b-0050568a2d1a</link>
+        <title>Monitoring Returns: Submission of the Annual Dust Monitoring Report 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0192/compliance/return/13552826-93fb-f011-a37b-0050568a2d1a</link>
         <description>Type: Monitoring Returns<br>Date: 2026-02-24T00:00:00+00:00</description>
         <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0185/compliance/return/6ae85b26-d2fa-f011-a37b-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0192/compliance/return/13552826-93fb-f011-a37b-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Submission of Annual Dust Monitoring Report W0185-01</title>
-        <link>https://leap.epa.ie/licence-profile/W0185/compliance/return/8fc23ba9-d1fa-f011-a37b-0050568a2d1a</link>
+        <title>Monitoring Returns: Submission of the Surface Water Monitoring Report 2025 W0192-03</title>
+        <link>https://leap.epa.ie/licence-profile/W0192/compliance/return/3b6b2e18-95fb-f011-a37b-0050568a2d1a</link>
         <description>Type: Monitoring Returns<br>Date: 2026-02-24T00:00:00+00:00</description>
         <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0185/compliance/return/8fc23ba9-d1fa-f011-a37b-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0192/compliance/return/3b6b2e18-95fb-f011-a37b-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Submission of Surface Water Monitoring Report 2025 W0185-01</title>
-        <link>https://leap.epa.ie/licence-profile/W0185/compliance/return/c7441f3a-d3fa-f011-a37b-0050568a2d1a</link>
+        <title>Monitoring Returns: Submission of the Annual Trade Effluent Monitoring Report 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0192/compliance/return/4529115d-96fb-f011-a37b-0050568a2d1a</link>
         <description>Type: Monitoring Returns<br>Date: 2026-02-24T00:00:00+00:00</description>
         <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0185/compliance/return/c7441f3a-d3fa-f011-a37b-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Submission of Asbestos Monitoring Report 2025 (W0185-01)</title>
-        <link>https://leap.epa.ie/licence-profile/W0185/compliance/return/de4da768-cefa-f011-a37b-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-02-24T00:00:00+00:00</description>
-        <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0185/compliance/return/de4da768-cefa-f011-a37b-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0192/compliance/return/4529115d-96fb-f011-a37b-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
