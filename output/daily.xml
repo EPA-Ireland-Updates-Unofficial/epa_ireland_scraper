@@ -3,15 +3,15 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-03-08.csv)</description>
-    <lastBuildDate>Sun, 08 Mar 2026 04:11:58 +0000</lastBuildDate>
-    <pubDate>Sun, 08 Mar 2026 04:11:58 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-03-09.csv)</description>
+    <lastBuildDate>Mon, 09 Mar 2026 04:16:07 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Mar 2026 04:16:07 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: Jan SW 2026</title>
-        <link>https://leap.epa.ie/licence-profile/W0198/compliance/return/bc3dccfe-8a02-f111-a37c-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-03-06T00:00:00+00:00</description>
+        <title>Site Updates/Notifications: Notification re bales stored externally</title>
+        <link>https://leap.epa.ie/licence-profile/W0263/compliance/return/ada699e6-a403-f111-a37c-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-03-06T00:00:00+00:00</description>
         <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0198/compliance/return/bc3dccfe-8a02-f111-a37c-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0263/compliance/return/ada699e6-a403-f111-a37c-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
