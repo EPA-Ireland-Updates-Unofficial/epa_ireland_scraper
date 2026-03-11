@@ -3,15 +3,22 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-03-09.csv)</description>
-    <lastBuildDate>Tue, 10 Mar 2026 04:22:02 +0000</lastBuildDate>
-    <pubDate>Tue, 10 Mar 2026 04:22:02 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-03-11.csv)</description>
+    <lastBuildDate>Wed, 11 Mar 2026 04:11:49 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Mar 2026 04:11:49 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Notification re bales stored externally</title>
-        <link>https://leap.epa.ie/licence-profile/W0263/compliance/return/ada699e6-a403-f111-a37c-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-03-06T00:00:00+00:00</description>
-        <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0263/compliance/return/ada699e6-a403-f111-a37c-0050568a2d1a</guid>
+        <title>Requests for Approval and Site Reports: P1189 Emissions report</title>
+        <link>https://leap.epa.ie/licence-profile/P1189/compliance/return/55acc585-74da-f011-a37a-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-03-10T00:00:00+00:00</description>
+        <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1189/compliance/return/55acc585-74da-f011-a37a-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: P0452 Bund Testing Report</title>
+        <link>https://leap.epa.ie/licence-profile/P0452/compliance/return/f1ee43d2-b003-f111-a37c-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-03-10T00:00:00+00:00</description>
+        <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0452/compliance/return/f1ee43d2-b003-f111-a37c-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
