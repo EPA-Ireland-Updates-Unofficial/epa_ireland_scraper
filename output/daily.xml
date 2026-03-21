@@ -3,57 +3,92 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-03-20.csv)</description>
-    <lastBuildDate>Fri, 20 Mar 2026 04:30:29 +0000</lastBuildDate>
-    <pubDate>Fri, 20 Mar 2026 04:30:29 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-03-21.csv)</description>
+    <lastBuildDate>Sat, 21 Mar 2026 04:34:46 +0000</lastBuildDate>
+    <pubDate>Sat, 21 Mar 2026 04:34:46 +0000</pubDate>
     <item>
-        <title>Incident: Monitoring Equipment Issues</title>
-        <link>https://leap.epa.ie/licence-profile/D0250/compliance/incident/0f718afd-c408-f111-a37d-0050568a2d1a</link>
-        <description>Type: Incident<br>Date: 2026-03-18T00:00:00+00:00</description>
-        <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0250/compliance/incident/0f718afd-c408-f111-a37d-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: MBM Unloading Area</title>
+        <link>https://leap.epa.ie/licence-profile/P0029/compliance/return/2ef4f96c-f5fd-f011-a37c-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-03-20T00:00:00+00:00</description>
+        <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0029/compliance/return/2ef4f96c-f5fd-f011-a37c-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Incident: Abatement equipment off-line</title>
-        <link>https://leap.epa.ie/licence-profile/D0250/compliance/incident/f091bc4a-e908-f111-a37d-0050568a2d1a</link>
-        <description>Type: Incident<br>Date: 2026-03-18T00:00:00+00:00</description>
-        <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0250/compliance/incident/f091bc4a-e908-f111-a37d-0050568a2d1a</guid>
+        <title>Monitoring Returns: Air Monitoring Reports 2024</title>
+        <link>https://leap.epa.ie/licence-profile/P0694/compliance/return/6322dfa4-e519-f011-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-03-20T00:00:00+00:00</description>
+        <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0694/compliance/return/6322dfa4-e519-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Requests for Approval and Site Reports: Odour Monitoring Amendment</title>
-        <link>https://leap.epa.ie/licence-profile/W0018/compliance/return/23abb34a-d6fd-f011-a37c-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-03-18T00:00:00+00:00</description>
-        <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0018/compliance/return/23abb34a-d6fd-f011-a37c-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Q2 Ploughing commencement notice</title>
+        <link>https://leap.epa.ie/licence-profile/S0012/compliance/return/7bf7a58c-b623-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-03-20T00:00:00+00:00</description>
+        <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0012/compliance/return/7bf7a58c-b623-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Landfill discharge to sewer returns 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0034/compliance/return/47837a41-35fd-f011-a37b-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-03-18T00:00:00+00:00</description>
-        <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0034/compliance/return/47837a41-35fd-f011-a37b-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: MBM Unloading Area</title>
+        <link>https://leap.epa.ie/licence-profile/P0029/compliance/return/7dd0cfa9-f6fd-f011-a37c-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-03-20T00:00:00+00:00</description>
+        <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0029/compliance/return/7dd0cfa9-f6fd-f011-a37c-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Q4 &amp; Annual 2025 Leachate Monitoring Report</title>
-        <link>https://leap.epa.ie/licence-profile/W0201/compliance/return/837d490c-b405-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-03-18T00:00:00+00:00</description>
-        <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0201/compliance/return/837d490c-b405-f111-a37d-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Commencement Notice TSHD campaign - update 1</title>
+        <link>https://leap.epa.ie/licence-profile/S0012/compliance/return/a313ec79-6f24-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-03-20T00:00:00+00:00</description>
+        <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0012/compliance/return/a313ec79-6f24-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Dust Monitoring 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0086/compliance/return/a5981dac-02fd-f011-a37b-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-03-18T00:00:00+00:00</description>
-        <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0086/compliance/return/a5981dac-02fd-f011-a37b-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: sodium hypochlorite Pulse Chlorination commencement</title>
+        <link>https://leap.epa.ie/licence-profile/P0606/compliance/return/dd959b20-3466-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-03-20T00:00:00+00:00</description>
+        <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0606/compliance/return/dd959b20-3466-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: 2025 Ballaghveny Dust Deposition Round 4</title>
-        <link>https://leap.epa.ie/licence-profile/W0078/compliance/return/d3be0916-acfa-f011-a37b-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-03-18T00:00:00+00:00</description>
-        <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0078/compliance/return/d3be0916-acfa-f011-a37b-0050568a2d1a</guid>
+        <title>Monitoring Returns: Annual Storm Water Monitoring Report 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0017/compliance/return/08d94768-93d6-f011-a37a-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-03-19T00:00:00+00:00</description>
+        <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0017/compliance/return/08d94768-93d6-f011-a37a-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Groundwater Monitoring Report Delay</title>
+        <link>https://leap.epa.ie/licence-profile/W0192/compliance/return/355f6309-dcfd-f011-a37c-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-03-19T00:00:00+00:00</description>
+        <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0192/compliance/return/355f6309-dcfd-f011-a37c-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Groundwater Monitoring Report Delay</title>
+        <link>https://leap.epa.ie/licence-profile/W0185/compliance/return/4fd1f83f-dcfd-f011-a37c-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-03-19T00:00:00+00:00</description>
+        <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0185/compliance/return/4fd1f83f-dcfd-f011-a37c-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Boston Scientific Galway Quarterly Effluent Returns Q4 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P0725/compliance/return/630ddc51-ccf6-f011-a37b-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-03-19T00:00:00+00:00</description>
+        <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0725/compliance/return/630ddc51-ccf6-f011-a37b-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Annual Surface Water Report 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0017/compliance/return/6d2dc02b-93d6-f011-a37a-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-03-19T00:00:00+00:00</description>
+        <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0017/compliance/return/6d2dc02b-93d6-f011-a37a-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: ODS &amp; F-Gas - Returns</title>
+        <link>https://leap.epa.ie/licence-profile/P0005/compliance/return/ade14f32-a303-f111-a37c-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-03-19T00:00:00+00:00</description>
+        <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0005/compliance/return/ade14f32-a303-f111-a37c-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
