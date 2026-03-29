@@ -3,50 +3,15 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-03-28.csv)</description>
-    <lastBuildDate>Sat, 28 Mar 2026 04:27:44 +0000</lastBuildDate>
-    <pubDate>Sat, 28 Mar 2026 04:27:44 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-03-29.csv)</description>
+    <lastBuildDate>Sun, 29 Mar 2026 03:26:35 +0000</lastBuildDate>
+    <pubDate>Sun, 29 Mar 2026 03:26:35 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Wood Waste Stock</title>
-        <link>https://leap.epa.ie/licence-profile/W0107/compliance/return/5863f621-580f-f111-a37d-0050568a2d1a</link>
+        <title>Site Updates/Notifications: Notification of intended De-sludging of Tank 19</title>
+        <link>https://leap.epa.ie/licence-profile/W0184/compliance/return/a34fd7b1-3413-f111-a37d-0050568a2d1a</link>
         <description>Type: Site Updates/Notifications<br>Date: 2026-03-27T00:00:00+00:00</description>
         <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0107/compliance/return/5863f621-580f-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Schedule B: Emission Limits: B.4 Noise Emissions</title>
-        <link>https://leap.epa.ie/licence-profile/P0010/compliance/return/74ed82f5-9b94-f011-a377-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-03-27T00:00:00+00:00</description>
-        <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0010/compliance/return/74ed82f5-9b94-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Requests for Approval and Site Reports: Proposed Operation of Back Up Generator No. 4</title>
-        <link>https://leap.epa.ie/licence-profile/P0778/compliance/return/89d5ec76-f708-f111-a37d-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-03-27T00:00:00+00:00</description>
-        <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0778/compliance/return/89d5ec76-f708-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Historic Waste Removal Completion</title>
-        <link>https://leap.epa.ie/licence-profile/W0184/compliance/return/b82bf679-f7bb-f011-a378-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-03-27T00:00:00+00:00</description>
-        <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0184/compliance/return/b82bf679-f7bb-f011-a378-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Civil Works Re: New Kerb onsite</title>
-        <link>https://leap.epa.ie/licence-profile/W0107/compliance/return/d6af2c4f-570f-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-03-27T00:00:00+00:00</description>
-        <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0107/compliance/return/d6af2c4f-570f-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Tank Replacement Notification</title>
-        <link>https://leap.epa.ie/licence-profile/W0184/compliance/return/d97f88a3-27f2-f011-a37b-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-03-27T00:00:00+00:00</description>
-        <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0184/compliance/return/d97f88a3-27f2-f011-a37b-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0184/compliance/return/a34fd7b1-3413-f111-a37d-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
