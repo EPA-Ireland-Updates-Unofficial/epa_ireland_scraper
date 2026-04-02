@@ -3,15 +3,57 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-03-31.csv)</description>
-    <lastBuildDate>Wed, 01 Apr 2026 09:59:58 +0000</lastBuildDate>
-    <pubDate>Wed, 01 Apr 2026 09:59:58 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-04-02.csv)</description>
+    <lastBuildDate>Thu, 02 Apr 2026 03:14:28 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Apr 2026 03:14:28 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: 090625 Kinsale Road Landfill Surface Emissions Round 1 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0012/compliance/return/4185623e-7fe6-f011-a37b-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-03-30T00:00:00+00:00</description>
-        <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0012/compliance/return/4185623e-7fe6-f011-a37b-0050568a2d1a</guid>
+        <title>Requests for Approval and Site Reports: Condition 3.12 (iii) Class I full retention oil separator</title>
+        <link>https://leap.epa.ie/licence-profile/P1131/compliance/return/53ea3c4c-97fa-f011-a37b-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-04-01T00:00:00+00:00</description>
+        <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1131/compliance/return/53ea3c4c-97fa-f011-a37b-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Dredging campaign commencement update 01.04.2026</title>
+        <link>https://leap.epa.ie/licence-profile/S0015/compliance/return/d6bdedbc-ce2d-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-04-01T00:00:00+00:00</description>
+        <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0015/compliance/return/d6bdedbc-ce2d-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: Response to EPA Response to LR080324 Part 2 of 2</title>
+        <link>https://leap.epa.ie/licence-profile/W0078/compliance/return/107956a7-2e0b-f111-a37d-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-03-31T00:00:00+00:00</description>
+        <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0078/compliance/return/107956a7-2e0b-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Annual Surface Water Report 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0023/compliance/return/15aef577-11fd-f011-a37b-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-03-31T00:00:00+00:00</description>
+        <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0023/compliance/return/15aef577-11fd-f011-a37b-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Annual Leachate Monitoring Report 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0023/compliance/return/4ba87e11-11fd-f011-a37b-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-03-31T00:00:00+00:00</description>
+        <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0023/compliance/return/4ba87e11-11fd-f011-a37b-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: response incident INCI031866</title>
+        <link>https://leap.epa.ie/licence-profile/P0188/compliance/return/78e89022-800d-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-03-31T00:00:00+00:00</description>
+        <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0188/compliance/return/78e89022-800d-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Flare Efficiency Report 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0023/compliance/return/c0af04ca-f5d0-f011-a378-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-03-31T00:00:00+00:00</description>
+        <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0023/compliance/return/c0af04ca-f5d0-f011-a378-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
