@@ -3,36 +3,15 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-04-03.csv)</description>
-    <lastBuildDate>Sat, 04 Apr 2026 03:33:56 +0000</lastBuildDate>
-    <pubDate>Sat, 04 Apr 2026 03:33:56 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-04-05.csv)</description>
+    <lastBuildDate>Sun, 05 Apr 2026 03:15:39 +0000</lastBuildDate>
+    <pubDate>Sun, 05 Apr 2026 03:15:39 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV34572</title>
-        <link>https://leap.epa.ie/licence-profile/P0594/compliance/return/6102275c-eb13-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-04-02T00:00:00+00:00</description>
+        <title>Complaint: P0192-02, 04/03/2026, Odour</title>
+        <link>https://leap.epa.ie/licence-profile/P0192/compliance/complaint/9835207b-1b18-f111-a37d-0050568a2d1a</link>
+        <description>Type: Complaint<br>Date: 2026-04-02T00:00:00+00:00</description>
         <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0594/compliance/return/6102275c-eb13-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Commencement Notice</title>
-        <link>https://leap.epa.ie/licence-profile/S0004/compliance/return/88c43f03-902e-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-04-02T00:00:00+00:00</description>
-        <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0004/compliance/return/88c43f03-902e-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Solvent Management Plan 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0075/compliance/return/dc1f1d87-cc13-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-04-02T00:00:00+00:00</description>
-        <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0075/compliance/return/dc1f1d87-cc13-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Commencement Notice TSHD campaign - update 2</title>
-        <link>https://leap.epa.ie/licence-profile/S0012/compliance/return/6fa854bb-f12d-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-04-01T00:00:00+00:00</description>
-        <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0012/compliance/return/6fa854bb-f12d-f111-a37d-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0192/compliance/complaint/9835207b-1b18-f111-a37d-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
