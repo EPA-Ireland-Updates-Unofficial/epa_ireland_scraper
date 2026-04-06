@@ -3,15 +3,15 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-04-05.csv)</description>
-    <lastBuildDate>Sun, 05 Apr 2026 03:15:39 +0000</lastBuildDate>
-    <pubDate>Sun, 05 Apr 2026 03:15:39 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-04-06.csv)</description>
+    <lastBuildDate>Mon, 06 Apr 2026 03:16:58 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Apr 2026 03:16:58 +0000</pubDate>
     <item>
-        <title>Complaint: P0192-02, 04/03/2026, Odour</title>
-        <link>https://leap.epa.ie/licence-profile/P0192/compliance/complaint/9835207b-1b18-f111-a37d-0050568a2d1a</link>
-        <description>Type: Complaint<br>Date: 2026-04-02T00:00:00+00:00</description>
-        <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0192/compliance/complaint/9835207b-1b18-f111-a37d-0050568a2d1a</guid>
+        <title>EPA Initiated Correspondence: </title>
+        <link>https://leap.epa.ie/licence-profile/P1189/compliance/epa-correspondence/6ea02562-6d19-f111-a37d-0050568a2d1a</link>
+        <description>Type: EPA Initiated Correspondence<br>Date: 2026-04-03T00:00:00+00:00</description>
+        <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1189/compliance/epa-correspondence/6ea02562-6d19-f111-a37d-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
