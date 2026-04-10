@@ -3,85 +3,29 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-04-09.csv)</description>
-    <lastBuildDate>Thu, 09 Apr 2026 03:21:33 +0000</lastBuildDate>
-    <pubDate>Thu, 09 Apr 2026 03:21:33 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-04-10.csv)</description>
+    <lastBuildDate>Fri, 10 Apr 2026 03:21:47 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Apr 2026 03:21:47 +0000</pubDate>
     <item>
-        <title>Complaint: W0146-04, 08/03/2026, Odour</title>
-        <link>https://leap.epa.ie/licence-profile/W0146/compliance/complaint/4f897563-a11b-f111-a37d-0050568a2d1a</link>
-        <description>Type: Complaint<br>Date: 2026-04-08T00:00:00+00:00</description>
-        <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0146/compliance/complaint/4f897563-a11b-f111-a37d-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Requested Information to Incident INCI1032165</title>
+        <link>https://leap.epa.ie/licence-profile/P0349/compliance/return/1715e60d-4819-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-04-09T00:00:00+00:00</description>
+        <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0349/compliance/return/1715e60d-4819-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Complaint: W0146-04, 07/03/2026, Odour</title>
-        <link>https://leap.epa.ie/licence-profile/W0146/compliance/complaint/fc0ff27e-a41b-f111-a37d-0050568a2d1a</link>
-        <description>Type: Complaint<br>Date: 2026-04-08T00:00:00+00:00</description>
-        <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0146/compliance/complaint/fc0ff27e-a41b-f111-a37d-0050568a2d1a</guid>
+        <title>Monitoring Returns: Annual Noise Report 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P1027/compliance/return/2c0e9dbc-ed00-f111-a37c-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-04-09T00:00:00+00:00</description>
+        <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1027/compliance/return/2c0e9dbc-ed00-f111-a37c-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: KMK Groundwater Monitoring Report Q4 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0113/compliance/return/0187cf6c-bdd9-f011-a37a-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-04-08T00:00:00+00:00</description>
-        <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0113/compliance/return/0187cf6c-bdd9-f011-a37a-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Error with Recent Report Uploads to Eden</title>
-        <link>https://leap.epa.ie/licence-profile/W0113/compliance/return/52670bab-30db-f011-a37b-0050568a2d1a</link>
+        <title>Site Updates/Notifications: Review application for Enva Ireland LA019093</title>
+        <link>https://leap.epa.ie/licence-profile/W0192/compliance/return/47258184-821c-f111-a37d-0050568a2d1a</link>
         <description>Type: Site Updates/Notifications<br>Date: 2026-04-08T00:00:00+00:00</description>
         <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0113/compliance/return/52670bab-30db-f011-a37b-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Annual Surface Water Monitoring Report 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0001/compliance/return/9444cf6e-61fb-f011-a37b-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-04-08T00:00:00+00:00</description>
-        <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0001/compliance/return/9444cf6e-61fb-f011-a37b-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Site Visit SV33164 Section 1.5</title>
-        <link>https://leap.epa.ie/licence-profile/W0029/compliance/return/9aff5782-96e5-f011-a37b-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-04-08T00:00:00+00:00</description>
-        <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0029/compliance/return/9aff5782-96e5-f011-a37b-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: KMK Metals Recycling Groundwater Report Q3 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0113/compliance/return/c8533807-9bda-f011-a37a-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-04-08T00:00:00+00:00</description>
-        <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0113/compliance/return/c8533807-9bda-f011-a37a-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: LR099104 - Amended Bund Report</title>
-        <link>https://leap.epa.ie/licence-profile/W0113/compliance/return/dad010ad-03e0-f011-a37b-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-04-08T00:00:00+00:00</description>
-        <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0113/compliance/return/dad010ad-03e0-f011-a37b-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Complaint: Complaint regarding suspected Sewer Collapse - Beechmount Home Park</title>
-        <link>https://leap.epa.ie/licence-profile/D0059/compliance/complaint/f2302478-4919-f111-a37d-0050568a2d1a</link>
-        <description>Type: Complaint<br>Date: 2026-04-07T00:00:00+00:00</description>
-        <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0059/compliance/complaint/f2302478-4919-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Dredging has commenced</title>
-        <link>https://leap.epa.ie/licence-profile/S0015/compliance/return/82fe71d4-9a32-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-04-07T00:00:00+00:00</description>
-        <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0015/compliance/return/82fe71d4-9a32-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: 2025 Leachate monitoring report</title>
-        <link>https://leap.epa.ie/licence-profile/W0165/compliance/return/c68a25b7-05fe-f011-a37c-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-04-07T00:00:00+00:00</description>
-        <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0165/compliance/return/c68a25b7-05fe-f011-a37c-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0192/compliance/return/47258184-821c-f111-a37d-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
