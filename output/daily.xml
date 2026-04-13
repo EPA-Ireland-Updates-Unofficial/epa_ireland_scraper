@@ -3,50 +3,15 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-04-11.csv)</description>
-    <lastBuildDate>Sun, 12 Apr 2026 03:14:46 +0000</lastBuildDate>
-    <pubDate>Sun, 12 Apr 2026 03:14:46 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-04-13.csv)</description>
+    <lastBuildDate>Mon, 13 Apr 2026 03:16:08 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Apr 2026 03:16:08 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: 2025 Groundwater Monitoring Report</title>
-        <link>https://leap.epa.ie/licence-profile/W0082/compliance/return/415b1b0e-fefd-f011-a37c-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-04-10T00:00:00+00:00</description>
-        <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0082/compliance/return/415b1b0e-fefd-f011-a37c-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV34484</title>
-        <link>https://leap.epa.ie/licence-profile/P0983/compliance/return/fd767d75-9532-f111-a37d-0050568a2d1a</link>
+        <title>Site Updates/Notifications: Site visit reponse</title>
+        <link>https://leap.epa.ie/licence-profile/W0260/compliance/return/8fb39647-051f-f111-a37d-0050568a2d1a</link>
         <description>Type: Site Updates/Notifications<br>Date: 2026-04-10T00:00:00+00:00</description>
         <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0983/compliance/return/fd767d75-9532-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Commencement Notice TSHD campaign - update 3</title>
-        <link>https://leap.epa.ie/licence-profile/S0012/compliance/return/06db5e55-2534-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-04-09T00:00:00+00:00</description>
-        <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0012/compliance/return/06db5e55-2534-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Complaint: COM022829 - Web Submission</title>
-        <link>https://leap.epa.ie/licence-profile/A0095/compliance/complaint/2c383a97-5b1d-f111-a37d-0050568a2d1a</link>
-        <description>Type: Complaint<br>Date: 2026-04-08T00:00:00+00:00</description>
-        <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/A0095/compliance/complaint/2c383a97-5b1d-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Incident: No uncontrolled release, blockage on the network.</title>
-        <link>https://leap.epa.ie/licence-profile/D0085/compliance/incident/33db53e2-421d-f111-a37d-0050568a2d1a</link>
-        <description>Type: Incident<br>Date: 2026-04-08T00:00:00+00:00</description>
-        <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0085/compliance/incident/33db53e2-421d-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV34293</title>
-        <link>https://leap.epa.ie/licence-profile/W0303/compliance/return/426764d3-812e-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-04-08T00:00:00+00:00</description>
-        <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0303/compliance/return/426764d3-812e-f111-a37d-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0260/compliance/return/8fb39647-051f-f111-a37d-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
