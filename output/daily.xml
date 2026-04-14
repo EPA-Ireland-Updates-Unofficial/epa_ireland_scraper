@@ -3,15 +3,64 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-04-13.csv)</description>
-    <lastBuildDate>Mon, 13 Apr 2026 03:16:08 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Apr 2026 03:16:08 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-04-14.csv)</description>
+    <lastBuildDate>Tue, 14 Apr 2026 03:21:08 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Apr 2026 03:21:08 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Site visit reponse</title>
-        <link>https://leap.epa.ie/licence-profile/W0260/compliance/return/8fb39647-051f-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-04-10T00:00:00+00:00</description>
-        <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0260/compliance/return/8fb39647-051f-f111-a37d-0050568a2d1a</guid>
+        <title>Monitoring Returns: Q1 2026 Air Monitoring Results</title>
+        <link>https://leap.epa.ie/licence-profile/P0522/compliance/return/05d7ec2a-071e-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-04-13T00:00:00+00:00</description>
+        <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0522/compliance/return/05d7ec2a-071e-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Annual Noise Monitoring Report 2025 - AESR Tullamore</title>
+        <link>https://leap.epa.ie/licence-profile/W0104/compliance/return/4213951c-4a16-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-04-13T00:00:00+00:00</description>
+        <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0104/compliance/return/4213951c-4a16-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Licensee Response to SV34747</title>
+        <link>https://leap.epa.ie/licence-profile/W0089/compliance/return/8910b479-321e-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-04-13T00:00:00+00:00</description>
+        <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0089/compliance/return/8910b479-321e-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: NC034603 Waste Timber Stockpile</title>
+        <link>https://leap.epa.ie/licence-profile/W0068/compliance/return/aa48d166-bd13-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-04-13T00:00:00+00:00</description>
+        <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0068/compliance/return/aa48d166-bd13-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Annual Dust Monitoring Report 2025 - AESR Tullamore</title>
+        <link>https://leap.epa.ie/licence-profile/W0104/compliance/return/b39175b9-a717-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-04-13T00:00:00+00:00</description>
+        <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0104/compliance/return/b39175b9-a717-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: 2025 Annual Noise Monitoring Report</title>
+        <link>https://leap.epa.ie/licence-profile/W0089/compliance/return/cc73deb1-f6fd-f011-a37c-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-04-13T00:00:00+00:00</description>
+        <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0089/compliance/return/cc73deb1-f6fd-f011-a37c-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: IE Licence Boundary Change</title>
+        <link>https://leap.epa.ie/licence-profile/P0378/compliance/return/dce78642-ebca-f011-a378-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-04-13T00:00:00+00:00</description>
+        <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0378/compliance/return/dce78642-ebca-f011-a378-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Q1 2026 Groundwater monitoring results</title>
+        <link>https://leap.epa.ie/licence-profile/P0522/compliance/return/eba89d71-7318-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-04-13T00:00:00+00:00</description>
+        <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0522/compliance/return/eba89d71-7318-f111-a37d-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
