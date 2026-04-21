@@ -3,29 +3,127 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-04-18.csv)</description>
-    <lastBuildDate>Mon, 20 Apr 2026 03:14:12 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Apr 2026 03:14:12 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-04-21.csv)</description>
+    <lastBuildDate>Tue, 21 Apr 2026 03:18:57 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Apr 2026 03:18:57 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Noise Management Plan</title>
-        <link>https://leap.epa.ie/licence-profile/W0287/compliance/return/1a9dfb14-c7fd-f011-a37c-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-04-17T00:00:00+00:00</description>
-        <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0287/compliance/return/1a9dfb14-c7fd-f011-a37c-0050568a2d1a</guid>
+        <title>Requests for Approval and Site Reports: Surface Water Drainage Network Risk Assessment</title>
+        <link>https://leap.epa.ie/licence-profile/P0029/compliance/return/078430d3-f313-f111-a37d-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-04-20T00:00:00+00:00</description>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0029/compliance/return/078430d3-f313-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Requests for Approval and Site Reports: Waste Storage Plan</title>
-        <link>https://leap.epa.ie/licence-profile/P1136/compliance/return/6b2d49fd-2908-f111-a37d-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-04-17T00:00:00+00:00</description>
-        <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1136/compliance/return/6b2d49fd-2908-f111-a37d-0050568a2d1a</guid>
+        <title>Requests for Approval and Site Reports: Tarbert Next Generation (TNG) Project Construction Surface Water Management Plan</title>
+        <link>https://leap.epa.ie/licence-profile/P0607/compliance/return/07dbd37e-bf05-f111-a37d-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-04-20T00:00:00+00:00</description>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0607/compliance/return/07dbd37e-bf05-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: 2025 Ballaghveny Landfill Gas Report</title>
-        <link>https://leap.epa.ie/licence-profile/W0078/compliance/return/9cae0163-2afd-f011-a37b-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-04-17T00:00:00+00:00</description>
-        <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0078/compliance/return/9cae0163-2afd-f011-a37b-0050568a2d1a</guid>
+        <title>Monitoring Returns: Annual Ground water monitoring 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0161/compliance/return/1168654b-ddfd-f011-a37c-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-04-20T00:00:00+00:00</description>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0161/compliance/return/1168654b-ddfd-f011-a37c-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: Updated FGD Landfill Operational Plan 2026</title>
+        <link>https://leap.epa.ie/licence-profile/P0605/compliance/return/11de44cd-32f5-f011-a37b-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-04-20T00:00:00+00:00</description>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0605/compliance/return/11de44cd-32f5-f011-a37b-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Annual Surface water monitoring 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0161/compliance/return/13320c7b-ddfd-f011-a37c-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-04-20T00:00:00+00:00</description>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0161/compliance/return/13320c7b-ddfd-f011-a37c-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Annual Surface monitoring</title>
+        <link>https://leap.epa.ie/licence-profile/W0068/compliance/return/1bad122b-dafd-f011-a37c-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-04-20T00:00:00+00:00</description>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0068/compliance/return/1bad122b-dafd-f011-a37c-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Killurin Groundwater quarterly monitoring results</title>
+        <link>https://leap.epa.ie/licence-profile/W0016/compliance/return/1d6f933c-65db-f011-a37b-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-04-20T00:00:00+00:00</description>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0016/compliance/return/1d6f933c-65db-f011-a37b-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Dungarvan Landfill Biannual and Quarterly Groundwater Monitoring Report Q4 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0032/compliance/return/21e8c4c3-ebeb-f011-a37b-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-04-20T00:00:00+00:00</description>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0032/compliance/return/21e8c4c3-ebeb-f011-a37b-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Corby Rock Annual Stack Emissions Monitoring 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P1039/compliance/return/800c4cd4-aa18-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-04-20T00:00:00+00:00</description>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1039/compliance/return/800c4cd4-aa18-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Annual monthly Surface water</title>
+        <link>https://leap.epa.ie/licence-profile/W0022/compliance/return/b3b3959e-d7fd-f011-a37c-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-04-20T00:00:00+00:00</description>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0022/compliance/return/b3b3959e-d7fd-f011-a37c-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: 2025 Annual Monitoring Reports</title>
+        <link>https://leap.epa.ie/licence-profile/W0107/compliance/return/b3ca969b-03fe-f011-a37c-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-04-20T00:00:00+00:00</description>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0107/compliance/return/b3ca969b-03fe-f011-a37c-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: W0012-03 Q3 Monitoring Report 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0012/compliance/return/c1a91c1f-d0eb-f011-a37b-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-04-20T00:00:00+00:00</description>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0012/compliance/return/c1a91c1f-d0eb-f011-a37b-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Dungarvan Landfill SWE6 Outfall Monitoring Quarterly Report, Q4 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0032/compliance/return/c73787f7-eceb-f011-a37b-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-04-20T00:00:00+00:00</description>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0032/compliance/return/c73787f7-eceb-f011-a37b-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: 19 12 12 Interim Test Programme Report</title>
+        <link>https://leap.epa.ie/licence-profile/P0029/compliance/return/dbd50fbb-2208-f111-a37d-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-04-20T00:00:00+00:00</description>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0029/compliance/return/dbd50fbb-2208-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Annual gas monitoring 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0161/compliance/return/e2dea29f-ddfd-f011-a37c-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-04-20T00:00:00+00:00</description>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0161/compliance/return/e2dea29f-ddfd-f011-a37c-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Dungarvan Landfill Receiving Waters Monitoring Report, Q4 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0032/compliance/return/e8ade076-edeb-f011-a37b-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-04-20T00:00:00+00:00</description>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0032/compliance/return/e8ade076-edeb-f011-a37b-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Tarbert TEG Commencement of Operation</title>
+        <link>https://leap.epa.ie/licence-profile/P1201/compliance/return/f21c3010-a618-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-04-20T00:00:00+00:00</description>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1201/compliance/return/f21c3010-a618-f111-a37d-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
