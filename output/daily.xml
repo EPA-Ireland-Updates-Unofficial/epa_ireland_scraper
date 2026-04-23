@@ -3,15 +3,57 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-04-22.csv)</description>
-    <lastBuildDate>Wed, 22 Apr 2026 09:38:07 +0000</lastBuildDate>
-    <pubDate>Wed, 22 Apr 2026 09:38:07 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-04-23.csv)</description>
+    <lastBuildDate>Thu, 23 Apr 2026 03:53:55 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Apr 2026 03:53:55 +0000</pubDate>
     <item>
-        <title>Requests for Approval and Site Reports: Updated FWRA Report</title>
-        <link>https://leap.epa.ie/licence-profile/P1112/compliance/return/9cafaed2-adac-ef11-a36c-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-04-21T00:00:00+00:00</description>
-        <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1112/compliance/return/9cafaed2-adac-ef11-a36c-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Pre works notification Buncrana Dumping at Sea S00011-03</title>
+        <link>https://leap.epa.ie/licence-profile/S0011/compliance/return/1ee11aaf-713d-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-04-22T00:00:00+00:00</description>
+        <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0011/compliance/return/1ee11aaf-713d-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Licensee Public Response - SV31831</title>
+        <link>https://leap.epa.ie/licence-profile/P0301/compliance/return/2330b145-9eae-f011-a377-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-04-22T00:00:00+00:00</description>
+        <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0301/compliance/return/2330b145-9eae-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: 2025 Testing of Groundwater Monitoring Well GW-3</title>
+        <link>https://leap.epa.ie/licence-profile/P1146/compliance/return/645908ff-75f0-f011-a37b-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-04-22T00:00:00+00:00</description>
+        <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1146/compliance/return/645908ff-75f0-f011-a37b-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Annual Environmental Report: P0508-02 Annual Environmental Report 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P0508/compliance/return/73a6389f-d026-f111-a37d-0050568a2d1a</link>
+        <description>Type: Annual Environmental Report<br>Date: 2026-04-22T00:00:00+00:00</description>
+        <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0508/compliance/return/73a6389f-d026-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Hydrogeological Risk Assessment - Arklow</title>
+        <link>https://leap.epa.ie/licence-profile/P0089/compliance/return/7c6d4a87-a6be-ef11-a36d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-04-22T00:00:00+00:00</description>
+        <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0089/compliance/return/7c6d4a87-a6be-ef11-a36d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Ambient Air Monitoring Report 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P1182/compliance/return/9a22d4ca-f91d-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-04-22T00:00:00+00:00</description>
+        <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1182/compliance/return/9a22d4ca-f91d-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Updated Commencement Notice</title>
+        <link>https://leap.epa.ie/licence-profile/S0004/compliance/return/cc0f921e-713d-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-04-22T00:00:00+00:00</description>
+        <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0004/compliance/return/cc0f921e-713d-f111-a37d-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
