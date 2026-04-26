@@ -3,92 +3,15 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-04-24.csv)</description>
-    <lastBuildDate>Sat, 25 Apr 2026 04:50:57 +0000</lastBuildDate>
-    <pubDate>Sat, 25 Apr 2026 04:50:57 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-04-26.csv)</description>
+    <lastBuildDate>Sun, 26 Apr 2026 03:56:03 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Apr 2026 03:56:03 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: Annually leachate monitoring</title>
-        <link>https://leap.epa.ie/licence-profile/W0022/compliance/return/2efe916d-d8fd-f011-a37c-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-04-23T00:00:00+00:00</description>
+        <title>Annual Environmental Report: P0062-02 2025 AER</title>
+        <link>https://leap.epa.ie/licence-profile/P0062/compliance/return/bbe97eee-4f29-f111-a37d-0050568a2d1a</link>
+        <description>Type: Annual Environmental Report<br>Date: 2026-04-23T00:00:00+00:00</description>
         <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0022/compliance/return/2efe916d-d8fd-f011-a37c-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Emission to Sewer Q4, 2025 Monitoring Return</title>
-        <link>https://leap.epa.ie/licence-profile/W0304/compliance/return/33b7dd84-f4fc-f011-a37b-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-04-23T00:00:00+00:00</description>
-        <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0304/compliance/return/33b7dd84-f4fc-f011-a37b-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Annual ground water monitoring</title>
-        <link>https://leap.epa.ie/licence-profile/W0022/compliance/return/365629c5-d7fd-f011-a37c-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-04-23T00:00:00+00:00</description>
-        <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0022/compliance/return/365629c5-d7fd-f011-a37c-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Response to one way notification - REPORTING OF EFFLUENT TOXICITY INCIDENTS</title>
-        <link>https://leap.epa.ie/licence-profile/P0652/compliance/return/42517af6-deb0-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-04-23T00:00:00+00:00</description>
-        <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0652/compliance/return/42517af6-deb0-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Update to return LR099643</title>
-        <link>https://leap.epa.ie/licence-profile/P1198/compliance/return/45e242cd-25fd-f011-a37b-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-04-23T00:00:00+00:00</description>
-        <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1198/compliance/return/45e242cd-25fd-f011-a37b-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Killygordon WWTP Compliance Data</title>
-        <link>https://leap.epa.ie/licence-profile/D0518/compliance/return/48d2df49-4f21-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-04-23T00:00:00+00:00</description>
-        <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0518/compliance/return/48d2df49-4f21-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: 2025 Leachate report</title>
-        <link>https://leap.epa.ie/licence-profile/W0030/compliance/return/780c93b6-6a1c-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-04-23T00:00:00+00:00</description>
-        <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0030/compliance/return/780c93b6-6a1c-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Ballybofey/stranorlar Compliance Dara</title>
-        <link>https://leap.epa.ie/licence-profile/D0120/compliance/return/a4ab35db-4e21-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-04-23T00:00:00+00:00</description>
-        <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0120/compliance/return/a4ab35db-4e21-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: 2025 Annual Ground Water Monitoring Report</title>
-        <link>https://leap.epa.ie/licence-profile/W0136/compliance/return/a5ffd413-befd-f011-a37c-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-04-23T00:00:00+00:00</description>
-        <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0136/compliance/return/a5ffd413-befd-f011-a37c-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Annually monthly ground water monitoring</title>
-        <link>https://leap.epa.ie/licence-profile/W0022/compliance/return/d1ee6408-d8fd-f011-a37c-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-04-23T00:00:00+00:00</description>
-        <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0022/compliance/return/d1ee6408-d8fd-f011-a37c-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Please find attached the latest surface water test results.</title>
-        <link>https://leap.epa.ie/licence-profile/P0674/compliance/return/e5096bf8-1c1e-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-04-23T00:00:00+00:00</description>
-        <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0674/compliance/return/e5096bf8-1c1e-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Annual Landfill Gas Report 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0023/compliance/return/f21eec15-ed00-f111-a37c-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-04-23T00:00:00+00:00</description>
-        <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0023/compliance/return/f21eec15-ed00-f111-a37c-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0062/compliance/return/bbe97eee-4f29-f111-a37d-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
