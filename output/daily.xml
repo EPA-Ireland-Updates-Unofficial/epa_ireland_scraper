@@ -3,15 +3,57 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-04-26.csv)</description>
-    <lastBuildDate>Wed, 29 Apr 2026 04:04:38 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Apr 2026 04:04:38 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-04-30.csv)</description>
+    <lastBuildDate>Thu, 30 Apr 2026 04:09:55 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Apr 2026 04:09:55 +0000</pubDate>
     <item>
-        <title>Annual Environmental Report: P0062-02 2025 AER</title>
-        <link>https://leap.epa.ie/licence-profile/P0062/compliance/return/bbe97eee-4f29-f111-a37d-0050568a2d1a</link>
-        <description>Type: Annual Environmental Report<br>Date: 2026-04-23T00:00:00+00:00</description>
-        <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0062/compliance/return/bbe97eee-4f29-f111-a37d-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Licensee Public Response - SV34721</title>
+        <link>https://leap.epa.ie/licence-profile/P0207/compliance/return/2fa50656-2229-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-04-29T00:00:00+00:00</description>
+        <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0207/compliance/return/2fa50656-2229-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: 2025 Annual Groundwater Monitoring report, including Round 4 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P0062/compliance/return/4adb2180-3413-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-04-29T00:00:00+00:00</description>
+        <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0062/compliance/return/4adb2180-3413-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Annual Monitoring Report-ISC</title>
+        <link>https://leap.epa.ie/licence-profile/P0222/compliance/return/7597a779-a323-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-04-29T00:00:00+00:00</description>
+        <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0222/compliance/return/7597a779-a323-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: ANNUAL SURFACE AND GROUNDWATER MONITORING REPORT</title>
+        <link>https://leap.epa.ie/licence-profile/P0222/compliance/return/b885a108-e60e-f011-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-04-29T00:00:00+00:00</description>
+        <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0222/compliance/return/b885a108-e60e-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: P0394-01 Wexal 2025 Annual Monitoring Report</title>
+        <link>https://leap.epa.ie/licence-profile/P0394/compliance/return/c50550f5-2a1d-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-04-29T00:00:00+00:00</description>
+        <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0394/compliance/return/c50550f5-2a1d-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Wexal Q4 2025 Air Monitoring</title>
+        <link>https://leap.epa.ie/licence-profile/P0394/compliance/return/cf6c42cb-0008-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-04-29T00:00:00+00:00</description>
+        <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0394/compliance/return/cf6c42cb-0008-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: P0394-01 Wexal 2025 Interim Monitoring Report</title>
+        <link>https://leap.epa.ie/licence-profile/P0394/compliance/return/ed990365-f2af-f011-a377-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-04-29T00:00:00+00:00</description>
+        <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0394/compliance/return/ed990365-f2af-f011-a377-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
