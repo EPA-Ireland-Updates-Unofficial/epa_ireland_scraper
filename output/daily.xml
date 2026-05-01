@@ -3,57 +3,36 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-04-30.csv)</description>
-    <lastBuildDate>Thu, 30 Apr 2026 04:09:55 +0000</lastBuildDate>
-    <pubDate>Thu, 30 Apr 2026 04:09:55 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-05-01.csv)</description>
+    <lastBuildDate>Fri, 01 May 2026 04:06:23 +0000</lastBuildDate>
+    <pubDate>Fri, 01 May 2026 04:06:23 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV34721</title>
-        <link>https://leap.epa.ie/licence-profile/P0207/compliance/return/2fa50656-2229-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-04-29T00:00:00+00:00</description>
-        <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0207/compliance/return/2fa50656-2229-f111-a37d-0050568a2d1a</guid>
+        <title>Requests for Approval and Site Reports: ESB Aghada Energy Efficiency Report 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P0561/compliance/return/2fd78551-2029-f111-a37d-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-04-30T00:00:00+00:00</description>
+        <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0561/compliance/return/2fd78551-2029-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: 2025 Annual Groundwater Monitoring report, including Round 4 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0062/compliance/return/4adb2180-3413-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-04-29T00:00:00+00:00</description>
-        <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0062/compliance/return/4adb2180-3413-f111-a37d-0050568a2d1a</guid>
+        <title>Annual Environmental Report: 2025 AER Report P0486-02</title>
+        <link>https://leap.epa.ie/licence-profile/P0486/compliance/return/929652fd-dd2c-f111-a37d-0050568a2d1a</link>
+        <description>Type: Annual Environmental Report<br>Date: 2026-04-30T00:00:00+00:00</description>
+        <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0486/compliance/return/929652fd-dd2c-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Annual Monitoring Report-ISC</title>
-        <link>https://leap.epa.ie/licence-profile/P0222/compliance/return/7597a779-a323-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-04-29T00:00:00+00:00</description>
-        <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0222/compliance/return/7597a779-a323-f111-a37d-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Commencement Notice</title>
+        <link>https://leap.epa.ie/licence-profile/S0004/compliance/return/ad7499cb-6344-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-04-30T00:00:00+00:00</description>
+        <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0004/compliance/return/ad7499cb-6344-f111-8ed8-005056be4ac2</guid>
     </item>
     <item>
-        <title>Monitoring Returns: ANNUAL SURFACE AND GROUNDWATER MONITORING REPORT</title>
-        <link>https://leap.epa.ie/licence-profile/P0222/compliance/return/b885a108-e60e-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-04-29T00:00:00+00:00</description>
-        <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0222/compliance/return/b885a108-e60e-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: P0394-01 Wexal 2025 Annual Monitoring Report</title>
-        <link>https://leap.epa.ie/licence-profile/P0394/compliance/return/c50550f5-2a1d-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-04-29T00:00:00+00:00</description>
-        <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0394/compliance/return/c50550f5-2a1d-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Wexal Q4 2025 Air Monitoring</title>
-        <link>https://leap.epa.ie/licence-profile/P0394/compliance/return/cf6c42cb-0008-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-04-29T00:00:00+00:00</description>
-        <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0394/compliance/return/cf6c42cb-0008-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: P0394-01 Wexal 2025 Interim Monitoring Report</title>
-        <link>https://leap.epa.ie/licence-profile/P0394/compliance/return/ed990365-f2af-f011-a377-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-04-29T00:00:00+00:00</description>
-        <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0394/compliance/return/ed990365-f2af-f011-a377-0050568a2d1a</guid>
+        <title>Requests for Approval and Site Reports: Surface Water Drainage Network Risk Assessment Report</title>
+        <link>https://leap.epa.ie/licence-profile/P0029/compliance/return/f676fc5c-0a2d-f111-a37d-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-04-30T00:00:00+00:00</description>
+        <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0029/compliance/return/f676fc5c-0a2d-f111-a37d-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
