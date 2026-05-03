@@ -3,64 +3,29 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-05-02.csv)</description>
-    <lastBuildDate>Sat, 02 May 2026 03:57:31 +0000</lastBuildDate>
-    <pubDate>Sat, 02 May 2026 03:57:31 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-05-03.csv)</description>
+    <lastBuildDate>Sun, 03 May 2026 04:06:07 +0000</lastBuildDate>
+    <pubDate>Sun, 03 May 2026 04:06:07 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: 2025 Surfacewater monitoring report</title>
-        <link>https://leap.epa.ie/licence-profile/W0165/compliance/return/40bfdf18-05fe-f011-a37c-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-05-01T00:00:00+00:00</description>
+        <title>Incident: Spillage</title>
+        <link>https://leap.epa.ie/licence-profile/D0192/compliance/incident/be17c479-822e-f111-a37d-0050568a2d1a</link>
+        <description>Type: Incident<br>Date: 2026-05-01T00:00:00+00:00</description>
         <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0165/compliance/return/40bfdf18-05fe-f011-a37c-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0192/compliance/incident/be17c479-822e-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Response to Site Visit Report SV34297</title>
-        <link>https://leap.epa.ie/licence-profile/P0638/compliance/return/4fe7cd0c-9a1b-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-05-01T00:00:00+00:00</description>
+        <title>Annual Environmental Report: AER 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P0826/compliance/return/35a93a5f-992e-f111-a37d-0050568a2d1a</link>
+        <description>Type: Annual Environmental Report<br>Date: 2026-05-01T00:00:00+00:00</description>
         <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0638/compliance/return/4fe7cd0c-9a1b-f111-a37d-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0826/compliance/return/35a93a5f-992e-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV34976</title>
-        <link>https://leap.epa.ie/licence-profile/P1106/compliance/return/c1c94dac-c643-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-05-01T00:00:00+00:00</description>
-        <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1106/compliance/return/c1c94dac-c643-f111-8ed8-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: P0638-02 - Q1 2026 Groundwater Monitoring Report</title>
-        <link>https://leap.epa.ie/licence-profile/P0638/compliance/return/e075545a-aa17-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-05-01T00:00:00+00:00</description>
-        <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0638/compliance/return/e075545a-aa17-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Notice of intent to dredge</title>
-        <link>https://leap.epa.ie/licence-profile/S0026/compliance/return/e797690e-5c45-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-05-01T00:00:00+00:00</description>
-        <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0026/compliance/return/e797690e-5c45-f111-8ed8-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Incident: Abatement equipment off-line</title>
-        <link>https://leap.epa.ie/licence-profile/D0048/compliance/incident/ccb55ae0-a72d-f111-a37d-0050568a2d1a</link>
-        <description>Type: Incident<br>Date: 2026-04-30T00:00:00+00:00</description>
+        <title>Annual Environmental Report: AER 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P1192/compliance/return/a6e1a409-6c2e-f111-a37d-0050568a2d1a</link>
+        <description>Type: Annual Environmental Report<br>Date: 2026-04-30T00:00:00+00:00</description>
         <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0048/compliance/incident/ccb55ae0-a72d-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Non-compliance NC034743, NC034928 and NC034929</title>
-        <link>https://leap.epa.ie/licence-profile/W0146/compliance/return/5593d00b-cb2d-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-04-30T00:00:00+00:00</description>
-        <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0146/compliance/return/5593d00b-cb2d-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Incident: Monitoring Equipment Issues</title>
-        <link>https://leap.epa.ie/licence-profile/P0014/compliance/incident/6e504941-d22d-f111-a37d-0050568a2d1a</link>
-        <description>Type: Incident<br>Date: 2026-04-29T00:00:00+00:00</description>
-        <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0014/compliance/incident/6e504941-d22d-f111-a37d-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1192/compliance/return/a6e1a409-6c2e-f111-a37d-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
