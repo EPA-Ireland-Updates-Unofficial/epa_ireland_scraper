@@ -3,29 +3,15 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-05-03.csv)</description>
-    <lastBuildDate>Sun, 03 May 2026 04:06:07 +0000</lastBuildDate>
-    <pubDate>Sun, 03 May 2026 04:06:07 +0000</pubDate>
-    <item>
-        <title>Incident: Spillage</title>
-        <link>https://leap.epa.ie/licence-profile/D0192/compliance/incident/be17c479-822e-f111-a37d-0050568a2d1a</link>
-        <description>Type: Incident<br>Date: 2026-05-01T00:00:00+00:00</description>
-        <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0192/compliance/incident/be17c479-822e-f111-a37d-0050568a2d1a</guid>
-    </item>
+    <description>Recent documents from EPA Ireland (from 2026-05-04.csv)</description>
+    <lastBuildDate>Mon, 04 May 2026 04:01:49 +0000</lastBuildDate>
+    <pubDate>Mon, 04 May 2026 04:01:49 +0000</pubDate>
     <item>
         <title>Annual Environmental Report: AER 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0826/compliance/return/35a93a5f-992e-f111-a37d-0050568a2d1a</link>
+        <link>https://leap.epa.ie/licence-profile/P1021/compliance/return/128e2bba-e22e-f111-a37d-0050568a2d1a</link>
         <description>Type: Annual Environmental Report<br>Date: 2026-05-01T00:00:00+00:00</description>
         <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0826/compliance/return/35a93a5f-992e-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Annual Environmental Report: AER 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P1192/compliance/return/a6e1a409-6c2e-f111-a37d-0050568a2d1a</link>
-        <description>Type: Annual Environmental Report<br>Date: 2026-04-30T00:00:00+00:00</description>
-        <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1192/compliance/return/a6e1a409-6c2e-f111-a37d-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1021/compliance/return/128e2bba-e22e-f111-a37d-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
