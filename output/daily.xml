@@ -3,15 +3,57 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-05-04.csv)</description>
-    <lastBuildDate>Tue, 05 May 2026 04:00:36 +0000</lastBuildDate>
-    <pubDate>Tue, 05 May 2026 04:00:36 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-05-06.csv)</description>
+    <lastBuildDate>Wed, 06 May 2026 04:21:21 +0000</lastBuildDate>
+    <pubDate>Wed, 06 May 2026 04:21:21 +0000</pubDate>
     <item>
-        <title>Annual Environmental Report: AER 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P1021/compliance/return/128e2bba-e22e-f111-a37d-0050568a2d1a</link>
-        <description>Type: Annual Environmental Report<br>Date: 2026-05-01T00:00:00+00:00</description>
-        <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1021/compliance/return/128e2bba-e22e-f111-a37d-0050568a2d1a</guid>
+        <title>Requests for Approval and Site Reports: Firewater Retention Report - Updated 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0041/compliance/return/12116276-08b4-f011-a378-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-05-05T00:00:00+00:00</description>
+        <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0041/compliance/return/12116276-08b4-f011-a378-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Castledermot- SV34646 Information Requested in Advance</title>
+        <link>https://leap.epa.ie/licence-profile/D0236/compliance/return/7785990a-7a23-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-05-05T00:00:00+00:00</description>
+        <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0236/compliance/return/7785990a-7a23-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: WWtP Data for SV34646 on 20/03/2026</title>
+        <link>https://leap.epa.ie/licence-profile/D0236/compliance/return/7c5c0660-7523-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-05-05T00:00:00+00:00</description>
+        <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0236/compliance/return/7c5c0660-7523-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Newcastle WWTP SV Information Request</title>
+        <link>https://leap.epa.ie/licence-profile/D0410/compliance/return/a4b61282-6511-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-05-05T00:00:00+00:00</description>
+        <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0410/compliance/return/a4b61282-6511-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Ballitore- SV34594- Information Requested</title>
+        <link>https://leap.epa.ie/licence-profile/A0129/compliance/return/c15d2c4b-8923-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-05-05T00:00:00+00:00</description>
+        <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/A0129/compliance/return/c15d2c4b-8923-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Kilpedder WWTP SV Information Request</title>
+        <link>https://leap.epa.ie/licence-profile/D0416/compliance/return/c74e78ce-6411-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-05-05T00:00:00+00:00</description>
+        <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0416/compliance/return/c74e78ce-6411-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Ballitore- CoA Data for SV34594</title>
+        <link>https://leap.epa.ie/licence-profile/A0129/compliance/return/d2acdb5e-8223-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-05-05T00:00:00+00:00</description>
+        <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/A0129/compliance/return/d2acdb5e-8223-f111-a37d-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
