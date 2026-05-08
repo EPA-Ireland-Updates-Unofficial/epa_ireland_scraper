@@ -3,78 +3,57 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-05-07.csv)</description>
-    <lastBuildDate>Thu, 07 May 2026 04:10:51 +0000</lastBuildDate>
-    <pubDate>Thu, 07 May 2026 04:10:51 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-05-08.csv)</description>
+    <lastBuildDate>Fri, 08 May 2026 03:48:28 +0000</lastBuildDate>
+    <pubDate>Fri, 08 May 2026 03:48:28 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Cumulative Unabated Hours 2024-2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0605/compliance/return/0130e7f8-0505-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-05-06T00:00:00+00:00</description>
-        <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0605/compliance/return/0130e7f8-0505-f011-a373-0050568a2d1a</guid>
+        <title>Monitoring Returns: Landfill gas field balance reports combined 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0031/compliance/return/1ad79be9-1d2c-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-05-07T00:00:00+00:00</description>
+        <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0031/compliance/return/1ad79be9-1d2c-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Q4 2025 Groundwater Report</title>
-        <link>https://leap.epa.ie/licence-profile/P0393/compliance/return/1e53c176-f8f5-f011-a37b-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-05-06T00:00:00+00:00</description>
-        <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0393/compliance/return/1e53c176-f8f5-f011-a37b-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Licensee Public Response - SV32536</title>
+        <link>https://leap.epa.ie/licence-profile/W0031/compliance/return/39ed6ce8-8548-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-05-07T00:00:00+00:00</description>
+        <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0031/compliance/return/39ed6ce8-8548-f111-8ed8-005056be4ac2</guid>
     </item>
     <item>
-        <title>Annual Environmental Report: W0054-02 AER 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0054/compliance/return/1f9b7ee8-842f-f111-a37d-0050568a2d1a</link>
-        <description>Type: Annual Environmental Report<br>Date: 2026-05-06T00:00:00+00:00</description>
-        <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0054/compliance/return/1f9b7ee8-842f-f111-a37d-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Leachate tank outlet valve</title>
+        <link>https://leap.epa.ie/licence-profile/W0031/compliance/return/4a078717-4328-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-05-07T00:00:00+00:00</description>
+        <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0031/compliance/return/4a078717-4328-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: ICL Limerick 2026 - Blast 3 19th February</title>
-        <link>https://leap.epa.ie/licence-profile/P0029/compliance/return/2c435ea6-2d07-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-05-06T00:00:00+00:00</description>
-        <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0029/compliance/return/2c435ea6-2d07-f111-a37d-0050568a2d1a</guid>
+        <title>Monitoring Returns: 2025 Jan Gas field balancing report</title>
+        <link>https://leap.epa.ie/licence-profile/W0031/compliance/return/70c58e28-d026-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-05-07T00:00:00+00:00</description>
+        <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0031/compliance/return/70c58e28-d026-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: ICL Limerick 2026 - Blast 4 5th March</title>
-        <link>https://leap.epa.ie/licence-profile/P0029/compliance/return/4de33e79-1f13-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-05-06T00:00:00+00:00</description>
-        <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0029/compliance/return/4de33e79-1f13-f111-a37d-0050568a2d1a</guid>
+        <title>Monitoring Returns: 2025 Feb gas field balancing report</title>
+        <link>https://leap.epa.ie/licence-profile/W0031/compliance/return/a999a2b6-d526-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-05-07T00:00:00+00:00</description>
+        <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0031/compliance/return/a999a2b6-d526-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: ICL Limerick 2026 - Blast 2 5th February</title>
-        <link>https://leap.epa.ie/licence-profile/P0029/compliance/return/8374dd13-e7fd-f011-a37c-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-05-06T00:00:00+00:00</description>
-        <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0029/compliance/return/8374dd13-e7fd-f011-a37c-0050568a2d1a</guid>
+        <title>Monitoring Returns: 2025 Jan Gas field balancing report</title>
+        <link>https://leap.epa.ie/licence-profile/W0031/compliance/return/ee1ecf46-d026-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-05-07T00:00:00+00:00</description>
+        <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0031/compliance/return/ee1ecf46-d026-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: ICL Limerick 2026 - Blast 5 19th March</title>
-        <link>https://leap.epa.ie/licence-profile/P0029/compliance/return/a1ec5900-6d1c-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-05-06T00:00:00+00:00</description>
+        <title>Complaint: Reported discharge onto private land</title>
+        <link>https://leap.epa.ie/licence-profile/A0352/compliance/complaint/f600ef4d-8932-f111-a37d-0050568a2d1a</link>
+        <description>Type: Complaint<br>Date: 2026-05-06T00:00:00+00:00</description>
         <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0029/compliance/return/a1ec5900-6d1c-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Surface Water Monitoring 2025 W0054-02</title>
-        <link>https://leap.epa.ie/licence-profile/W0054/compliance/return/bf2394ad-050c-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-05-06T00:00:00+00:00</description>
-        <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0054/compliance/return/bf2394ad-050c-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: ICL Limerick 2026 - Blast 7 16th April</title>
-        <link>https://leap.epa.ie/licence-profile/P0029/compliance/return/c29d5776-dd2d-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-05-06T00:00:00+00:00</description>
-        <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0029/compliance/return/c29d5776-dd2d-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: ICL Limerick 2026 - Blast 6 2nd April</title>
-        <link>https://leap.epa.ie/licence-profile/P0029/compliance/return/eb3bab1a-0129-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-05-06T00:00:00+00:00</description>
-        <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0029/compliance/return/eb3bab1a-0129-f111-a37d-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/A0352/compliance/complaint/f600ef4d-8932-f111-a37d-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
