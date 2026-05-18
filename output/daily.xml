@@ -3,71 +3,57 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-05-16.csv)</description>
-    <lastBuildDate>Sun, 17 May 2026 03:14:06 +0000</lastBuildDate>
-    <pubDate>Sun, 17 May 2026 03:14:06 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-05-18.csv)</description>
+    <lastBuildDate>Mon, 18 May 2026 03:11:24 +0000</lastBuildDate>
+    <pubDate>Mon, 18 May 2026 03:11:24 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: WRL SW Monitoring Report AER 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0254/compliance/return/127c09af-6e2c-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-05-15T00:00:00+00:00</description>
+        <title>Monitoring Returns: Ambient Air Quality Monitoring Programme - AER 2024</title>
+        <link>https://leap.epa.ie/licence-profile/P1191/compliance/return/0be1b0ba-4f3a-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-05-17T00:00:00+00:00</description>
+        <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1191/compliance/return/0be1b0ba-4f3a-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Ambient Air Quality Monitoring Programme - AER 2024</title>
+        <link>https://leap.epa.ie/licence-profile/P1187/compliance/return/1cac7b6f-4e3a-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-05-17T00:00:00+00:00</description>
+        <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1187/compliance/return/1cac7b6f-4e3a-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Ambient Air Quality Monitoring Programme - AER 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P1191/compliance/return/5b040b7d-503a-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-05-17T00:00:00+00:00</description>
+        <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1191/compliance/return/5b040b7d-503a-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Ambient Air Quality Monitoring Programme - AER 2024</title>
+        <link>https://leap.epa.ie/licence-profile/P1190/compliance/return/6fb1ecce-4e3a-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-05-17T00:00:00+00:00</description>
+        <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1190/compliance/return/6fb1ecce-4e3a-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Ambient Air Quality Monitoring Programme - AER 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P1190/compliance/return/8eb2caab-503a-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-05-17T00:00:00+00:00</description>
+        <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1190/compliance/return/8eb2caab-503a-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Ambient Air Quality Monitoring Programme - AER 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P1187/compliance/return/d1d4f9e8-503a-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-05-17T00:00:00+00:00</description>
+        <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1187/compliance/return/d1d4f9e8-503a-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Licensee Public Response - SV34169</title>
+        <link>https://leap.epa.ie/licence-profile/W0287/compliance/return/b2d4322b-0e4d-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-05-15T00:00:00+00:00</description>
         <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0254/compliance/return/127c09af-6e2c-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Marine Sediment Annual Report 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0289/compliance/return/19c2cf09-c001-f111-a37c-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-05-15T00:00:00+00:00</description>
-        <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0289/compliance/return/19c2cf09-c001-f111-a37c-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Marine Surface Water Annual Report 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0289/compliance/return/7011163a-bf01-f111-a37c-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-05-15T00:00:00+00:00</description>
-        <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0289/compliance/return/7011163a-bf01-f111-a37c-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: SV31860 Document request - further info</title>
-        <link>https://leap.epa.ie/licence-profile/P0771/compliance/return/a8749fec-4eed-f011-a37b-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-05-15T00:00:00+00:00</description>
-        <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0771/compliance/return/a8749fec-4eed-f011-a37b-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: WRL Noise Monitoring Report 2025 AER</title>
-        <link>https://leap.epa.ie/licence-profile/W0254/compliance/return/a9930f59-6e2c-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-05-15T00:00:00+00:00</description>
-        <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0254/compliance/return/a9930f59-6e2c-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Storm Water Annual Report 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0289/compliance/return/c4566b7f-c001-f111-a37c-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-05-15T00:00:00+00:00</description>
-        <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0289/compliance/return/c4566b7f-c001-f111-a37c-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: SV31860 Document request</title>
-        <link>https://leap.epa.ie/licence-profile/P0771/compliance/return/d27963cc-4ced-f011-a37b-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-05-15T00:00:00+00:00</description>
-        <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0771/compliance/return/d27963cc-4ced-f011-a37b-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: 2026 Dust Report</title>
-        <link>https://leap.epa.ie/licence-profile/W0025/compliance/return/2c0b7c91-b138-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-05-13T00:00:00+00:00</description>
-        <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0025/compliance/return/2c0b7c91-b138-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: OMP March 2026</title>
-        <link>https://leap.epa.ie/licence-profile/W0146/compliance/return/cfe02bf3-c138-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-05-13T00:00:00+00:00</description>
-        <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0146/compliance/return/cfe02bf3-c138-f111-a37d-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0287/compliance/return/b2d4322b-0e4d-f111-8ed8-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
