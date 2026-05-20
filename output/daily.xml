@@ -3,43 +3,29 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-05-19.csv)</description>
-    <lastBuildDate>Tue, 19 May 2026 03:44:26 +0000</lastBuildDate>
-    <pubDate>Tue, 19 May 2026 03:44:26 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-05-20.csv)</description>
+    <lastBuildDate>Wed, 20 May 2026 03:46:22 +0000</lastBuildDate>
+    <pubDate>Wed, 20 May 2026 03:46:22 +0000</pubDate>
     <item>
-        <title>Requests for Approval and Site Reports: Underground Pipeline Testing Summary Report 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0136/compliance/return/0e7874ce-5e2c-f111-a37d-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-05-18T00:00:00+00:00</description>
-        <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0136/compliance/return/0e7874ce-5e2c-f111-a37d-0050568a2d1a</guid>
+        <title>Monitoring Returns: As per Schedule D.3: Bi Annually - Noise Monitoring</title>
+        <link>https://leap.epa.ie/licence-profile/W0147/compliance/return/6449da89-d817-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-05-19T00:00:00+00:00</description>
+        <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0147/compliance/return/6449da89-d817-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Requests for Approval and Site Reports: Annual Statement of Measures - 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0136/compliance/return/a859f82e-542c-f111-a37d-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-05-18T00:00:00+00:00</description>
-        <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0136/compliance/return/a859f82e-542c-f111-a37d-0050568a2d1a</guid>
+        <title>Monitoring Returns: As per Schedule D.2:Monitoring-Dust 2025 Results</title>
+        <link>https://leap.epa.ie/licence-profile/W0147/compliance/return/9a22013c-2a13-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-05-19T00:00:00+00:00</description>
+        <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0147/compliance/return/9a22013c-2a13-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Requests for Approval and Site Reports: Bund Testing Summary Report 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0136/compliance/return/b17eb37d-5e2c-f111-a37d-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-05-18T00:00:00+00:00</description>
+        <title>Complaint: COM023018 - Web Submission</title>
+        <link>https://leap.epa.ie/licence-profile/D0053/compliance/complaint/3d58fbad-de3b-f111-a37d-0050568a2d1a</link>
+        <description>Type: Complaint<br>Date: 2026-05-18T00:00:00+00:00</description>
         <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0136/compliance/return/b17eb37d-5e2c-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Ground water monitoring results 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0690/compliance/return/ed256116-8d06-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-05-18T00:00:00+00:00</description>
-        <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0690/compliance/return/ed256116-8d06-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Requests for Approval and Site Reports: 19 12 12 Emissions Testing Report</title>
-        <link>https://leap.epa.ie/licence-profile/P0029/compliance/return/f804eba9-d12d-f111-a37d-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-05-18T00:00:00+00:00</description>
-        <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0029/compliance/return/f804eba9-d12d-f111-a37d-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0053/compliance/complaint/3d58fbad-de3b-f111-a37d-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
