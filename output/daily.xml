@@ -3,57 +3,64 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-05-22.csv)</description>
-    <lastBuildDate>Sat, 23 May 2026 03:44:32 +0000</lastBuildDate>
-    <pubDate>Sat, 23 May 2026 03:44:32 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-05-24.csv)</description>
+    <lastBuildDate>Sun, 24 May 2026 03:45:52 +0000</lastBuildDate>
+    <pubDate>Sun, 24 May 2026 03:45:52 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: Quarterly Groundwater Monitoring 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0076/compliance/return/088e74c4-6bf8-f011-a37b-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-05-21T00:00:00+00:00</description>
-        <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0076/compliance/return/088e74c4-6bf8-f011-a37b-0050568a2d1a</guid>
+        <title>Monitoring Returns: Groundwater Monitoring Report - 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0253/compliance/return/15530ef0-f7fd-f011-a37c-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-05-22T00:00:00+00:00</description>
+        <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0253/compliance/return/15530ef0-f7fd-f011-a37c-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Storm water lab reports taken from SW1 and sw2</title>
-        <link>https://leap.epa.ie/licence-profile/P1000/compliance/return/095e30a4-9e23-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-05-21T00:00:00+00:00</description>
-        <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1000/compliance/return/095e30a4-9e23-f111-a37d-0050568a2d1a</guid>
+        <title>Monitoring Returns: Groundwater Monitoring Report - 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0253/compliance/return/1bf62fe4-f7fd-f011-a37c-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-05-22T00:00:00+00:00</description>
+        <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0253/compliance/return/1bf62fe4-f7fd-f011-a37c-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Storm water reports sample points H</title>
-        <link>https://leap.epa.ie/licence-profile/P0977/compliance/return/37a73b11-9d23-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-05-21T00:00:00+00:00</description>
-        <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0977/compliance/return/37a73b11-9d23-f111-a37d-0050568a2d1a</guid>
+        <title>Monitoring Returns: Quarter 1 2026 Leachate Monitoring Report</title>
+        <link>https://leap.epa.ie/licence-profile/W0201/compliance/return/52009bfc-f73e-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-05-22T00:00:00+00:00</description>
+        <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0201/compliance/return/52009bfc-f73e-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV35125</title>
-        <link>https://leap.epa.ie/licence-profile/W0082/compliance/return/6cc94aa1-2f4a-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-05-21T00:00:00+00:00</description>
-        <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0082/compliance/return/6cc94aa1-2f4a-f111-8ed8-005056be4ac2</guid>
+        <title>Monitoring Returns: March 2026 Monthly Return for P0818-05, Storm Water</title>
+        <link>https://leap.epa.ie/licence-profile/P0818/compliance/return/6887fc74-6d3a-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-05-22T00:00:00+00:00</description>
+        <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0818/compliance/return/6887fc74-6d3a-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: storm water sampling</title>
-        <link>https://leap.epa.ie/licence-profile/P1000/compliance/return/80c55745-9e23-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-05-21T00:00:00+00:00</description>
-        <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1000/compliance/return/80c55745-9e23-f111-a37d-0050568a2d1a</guid>
+        <title>Monitoring Returns: Quarter 1 2026 Dust Monitoring Report</title>
+        <link>https://leap.epa.ie/licence-profile/W0201/compliance/return/9bf87a24-f33e-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-05-22T00:00:00+00:00</description>
+        <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0201/compliance/return/9bf87a24-f33e-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: SW H</title>
-        <link>https://leap.epa.ie/licence-profile/P0977/compliance/return/b2f0548b-9d23-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-05-21T00:00:00+00:00</description>
-        <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0977/compliance/return/b2f0548b-9d23-f111-a37d-0050568a2d1a</guid>
+        <title>Monitoring Returns: Q4 2025 Monitoring Report</title>
+        <link>https://leap.epa.ie/licence-profile/W0018/compliance/return/b6ff08e5-58ed-f011-a37b-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-05-22T00:00:00+00:00</description>
+        <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0018/compliance/return/b6ff08e5-58ed-f011-a37b-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Q1 Groundwater and January Stormwater Monitoring 2026</title>
-        <link>https://leap.epa.ie/licence-profile/P0319/compliance/return/163e7b3b-863d-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-05-19T00:00:00+00:00</description>
-        <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0319/compliance/return/163e7b3b-863d-f111-a37d-0050568a2d1a</guid>
+        <title>Monitoring Returns: Bypass Log</title>
+        <link>https://leap.epa.ie/licence-profile/P1131/compliance/return/c4fa17ca-3c2f-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-05-22T00:00:00+00:00</description>
+        <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1131/compliance/return/c4fa17ca-3c2f-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Landfill Gas Emission Monitoring Report to demonstrate compliance with emission limit values outline</title>
+        <link>https://leap.epa.ie/licence-profile/W0029/compliance/return/e27ed7f9-79f8-f011-a37b-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-05-22T00:00:00+00:00</description>
+        <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0029/compliance/return/e27ed7f9-79f8-f011-a37b-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
