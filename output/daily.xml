@@ -3,71 +3,36 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-05-26.csv)</description>
-    <lastBuildDate>Tue, 26 May 2026 03:50:26 +0000</lastBuildDate>
-    <pubDate>Tue, 26 May 2026 03:50:26 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-05-27.csv)</description>
+    <lastBuildDate>Wed, 27 May 2026 11:50:33 +0000</lastBuildDate>
+    <pubDate>Wed, 27 May 2026 11:50:33 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: Enva Cork - Environmental Noise 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0145/compliance/return/3d42c63c-5200-f111-a37c-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-05-25T00:00:00+00:00</description>
-        <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0145/compliance/return/3d42c63c-5200-f111-a37c-0050568a2d1a</guid>
+        <title>Monitoring Returns: March 2026 Monthly Return for P0818-05, Air Emission Points</title>
+        <link>https://leap.epa.ie/licence-profile/P0818/compliance/return/193b5bb1-6f3a-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-05-26T00:00:00+00:00</description>
+        <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0818/compliance/return/193b5bb1-6f3a-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Requests for Approval and Site Reports: ambient monitoring requirement request</title>
-        <link>https://leap.epa.ie/licence-profile/P0393/compliance/return/4e8eeae7-daeb-f011-a37b-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-05-25T00:00:00+00:00</description>
-        <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0393/compliance/return/4e8eeae7-daeb-f011-a37b-0050568a2d1a</guid>
+        <title>Monitoring Returns: Annual Dust Monitoring Report - W0240-02</title>
+        <link>https://leap.epa.ie/licence-profile/W0240/compliance/return/2247f206-1516-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-05-26T00:00:00+00:00</description>
+        <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0240/compliance/return/2247f206-1516-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Groundwater COD Results February 2026</title>
-        <link>https://leap.epa.ie/licence-profile/W0145/compliance/return/5af4468c-5416-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-05-25T00:00:00+00:00</description>
-        <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0145/compliance/return/5af4468c-5416-f111-a37d-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Updated Site Service Map</title>
+        <link>https://leap.epa.ie/licence-profile/P1188/compliance/return/39e315d5-0129-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-05-26T00:00:00+00:00</description>
+        <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1188/compliance/return/39e315d5-0129-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Chemicals Survey EPA043634</title>
-        <link>https://leap.epa.ie/licence-profile/P0030/compliance/return/6248cceb-36ea-f011-a37b-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-05-25T00:00:00+00:00</description>
-        <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0030/compliance/return/6248cceb-36ea-f011-a37b-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Corrective Action Implementation &amp; Verification Report</title>
-        <link>https://leap.epa.ie/licence-profile/P0059/compliance/return/7f1488f3-7f21-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-05-25T00:00:00+00:00</description>
-        <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0059/compliance/return/7f1488f3-7f21-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Enva Cork Groundwater 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0145/compliance/return/b2a5c59e-5200-f111-a37c-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-05-25T00:00:00+00:00</description>
-        <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0145/compliance/return/b2a5c59e-5200-f111-a37c-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV34515</title>
-        <link>https://leap.epa.ie/licence-profile/P0807/compliance/return/b8717613-c84a-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-05-25T00:00:00+00:00</description>
-        <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0807/compliance/return/b8717613-c84a-f111-8ed8-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Littleton Bogs Rehabilitation Plan Reviews Jan 2026</title>
-        <link>https://leap.epa.ie/licence-profile/P0499/compliance/return/c208de15-f316-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-05-25T00:00:00+00:00</description>
-        <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0499/compliance/return/c208de15-f316-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Dust Report 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0255/compliance/return/ffd2bb0a-a82d-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-05-25T00:00:00+00:00</description>
-        <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0255/compliance/return/ffd2bb0a-a82d-f111-a37d-0050568a2d1a</guid>
+        <title>Monitoring Returns: March 2026 Monthly Return for P0818-05, Effluent SE-01</title>
+        <link>https://leap.epa.ie/licence-profile/P0818/compliance/return/896a7574-6f3a-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-05-26T00:00:00+00:00</description>
+        <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0818/compliance/return/896a7574-6f3a-f111-a37d-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
