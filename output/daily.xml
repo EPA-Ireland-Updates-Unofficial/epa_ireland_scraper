@@ -3,64 +3,15 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-05-28.csv)</description>
-    <lastBuildDate>Thu, 28 May 2026 04:28:28 +0000</lastBuildDate>
-    <pubDate>Thu, 28 May 2026 04:28:28 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-05-29.csv)</description>
+    <lastBuildDate>Fri, 29 May 2026 05:30:13 +0000</lastBuildDate>
+    <pubDate>Fri, 29 May 2026 05:30:13 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Waste Storage Plan Update for 2026</title>
-        <link>https://leap.epa.ie/licence-profile/W0205/compliance/return/0b4f7391-1337-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-05-27T00:00:00+00:00</description>
-        <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0205/compliance/return/0b4f7391-1337-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Submission of holding note for return on site Report SV35028</title>
-        <link>https://leap.epa.ie/licence-profile/W0185/compliance/return/297b0105-5b33-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-05-27T00:00:00+00:00</description>
-        <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0185/compliance/return/297b0105-5b33-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: W0003-03 2026 Q1 Tonnage Returns</title>
-        <link>https://leap.epa.ie/licence-profile/W0003/compliance/return/2d35c80f-1a34-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-05-27T00:00:00+00:00</description>
-        <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0003/compliance/return/2d35c80f-1a34-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Incident INCI1032165 -Updated</title>
-        <link>https://leap.epa.ie/licence-profile/P0349/compliance/return/46512c63-5c3e-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-05-27T00:00:00+00:00</description>
-        <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0349/compliance/return/46512c63-5c3e-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Update to EPA – Bund Integrity Test Report</title>
-        <link>https://leap.epa.ie/licence-profile/W0205/compliance/return/51d55bf2-2534-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-05-27T00:00:00+00:00</description>
-        <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0205/compliance/return/51d55bf2-2534-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Incident INCI1032165-Updated</title>
-        <link>https://leap.epa.ie/licence-profile/P0349/compliance/return/97fcc1ce-5c3e-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-05-27T00:00:00+00:00</description>
-        <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0349/compliance/return/97fcc1ce-5c3e-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: P1189-01: Updated response to SV33067</title>
-        <link>https://leap.epa.ie/licence-profile/P1189/compliance/return/a99a2bbd-11b0-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-05-27T00:00:00+00:00</description>
-        <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1189/compliance/return/a99a2bbd-11b0-f011-a377-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Effluent disposal Q4 2025 Q1 2026</title>
-        <link>https://leap.epa.ie/licence-profile/P1011/compliance/return/bc3d80c5-5f33-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-05-27T00:00:00+00:00</description>
-        <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1011/compliance/return/bc3d80c5-5f33-f111-a37d-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: BESS2 Integrity Testing</title>
+        <link>https://leap.epa.ie/licence-profile/P0561/compliance/return/aef6ae19-ca22-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-05-28T00:00:00+00:00</description>
+        <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0561/compliance/return/aef6ae19-ca22-f111-a37d-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
