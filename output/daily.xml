@@ -3,15 +3,57 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-05-29.csv)</description>
-    <lastBuildDate>Fri, 29 May 2026 05:30:13 +0000</lastBuildDate>
-    <pubDate>Fri, 29 May 2026 05:30:13 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-05-30.csv)</description>
+    <lastBuildDate>Sat, 30 May 2026 04:26:34 +0000</lastBuildDate>
+    <pubDate>Sat, 30 May 2026 04:26:34 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: BESS2 Integrity Testing</title>
-        <link>https://leap.epa.ie/licence-profile/P0561/compliance/return/aef6ae19-ca22-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-05-28T00:00:00+00:00</description>
-        <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0561/compliance/return/aef6ae19-ca22-f111-a37d-0050568a2d1a</guid>
+        <title>Complaint: P0404, 29/04/2026, Dust</title>
+        <link>https://leap.epa.ie/licence-profile/P0404/compliance/complaint/2080f5cb-da43-f111-8ed8-005056be4ac2</link>
+        <description>Type: Complaint<br>Date: 2026-05-29T00:00:00+00:00</description>
+        <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0404/compliance/complaint/2080f5cb-da43-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Public Awareness &amp; Communications Plan</title>
+        <link>https://leap.epa.ie/licence-profile/P0301/compliance/return/19a38cc4-b4f7-f011-a37b-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-05-29T00:00:00+00:00</description>
+        <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0301/compliance/return/19a38cc4-b4f7-f011-a37b-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Updated Report on New Product Introduction April 2026</title>
+        <link>https://leap.epa.ie/licence-profile/P1073/compliance/return/442a2b3d-f93e-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-05-29T00:00:00+00:00</description>
+        <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1073/compliance/return/442a2b3d-f93e-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: 191212 Testing Notification</title>
+        <link>https://leap.epa.ie/licence-profile/P0029/compliance/return/62fd26bb-c62d-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-05-29T00:00:00+00:00</description>
+        <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0029/compliance/return/62fd26bb-c62d-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: 2025 annual surface water report</title>
+        <link>https://leap.epa.ie/licence-profile/W0170/compliance/return/c2699d62-7827-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-05-29T00:00:00+00:00</description>
+        <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0170/compliance/return/c2699d62-7827-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Licensee Public Response - SV35095</title>
+        <link>https://leap.epa.ie/licence-profile/P0831/compliance/return/d8cdbd04-575b-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-05-29T00:00:00+00:00</description>
+        <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0831/compliance/return/d8cdbd04-575b-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: P1189-01 Response to INCI032612</title>
+        <link>https://leap.epa.ie/licence-profile/P1189/compliance/return/b9507dd7-ce43-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-05-27T00:00:00+00:00</description>
+        <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1189/compliance/return/b9507dd7-ce43-f111-8ed8-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
