@@ -3,22 +3,92 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-06-14.csv)</description>
-    <lastBuildDate>Mon, 15 Jun 2026 03:22:00 +0000</lastBuildDate>
-    <pubDate>Mon, 15 Jun 2026 03:22:00 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-06-16.csv)</description>
+    <lastBuildDate>Tue, 16 Jun 2026 03:16:20 +0000</lastBuildDate>
+    <pubDate>Tue, 16 Jun 2026 03:16:20 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: W0238-01 Extension on ODS &amp; F-Gas Letter</title>
-        <link>https://leap.epa.ie/licence-profile/W0238/compliance/return/6ebf2a2d-b034-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-06-13T00:00:00+00:00</description>
-        <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0238/compliance/return/6ebf2a2d-b034-f111-a37d-0050568a2d1a</guid>
+        <title>Monitoring Returns: Annual Leachate Monitoring Report 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0017/compliance/return/1daff3fb-93d6-f011-a37a-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-06-15T00:00:00+00:00</description>
+        <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0017/compliance/return/1daff3fb-93d6-f011-a37a-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Air Monitoring Reports 2026 (Round 1)</title>
-        <link>https://leap.epa.ie/licence-profile/P0791/compliance/return/0aa27875-a64f-f111-8ed8-005056be4ac2</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-06-12T00:00:00+00:00</description>
-        <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0791/compliance/return/0aa27875-a64f-f111-8ed8-005056be4ac2</guid>
+        <title>Monitoring Returns: Q1, 2026 Quarterly Report (Air) &amp; Cover Letter</title>
+        <link>https://leap.epa.ie/licence-profile/P0266/compliance/return/222e670e-6944-f111-8ed8-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-06-15T00:00:00+00:00</description>
+        <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0266/compliance/return/222e670e-6944-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Annual Environmental Report: Annual Environmental Report 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0165/compliance/return/2e70d996-112d-f111-a37d-0050568a2d1a</link>
+        <description>Type: Annual Environmental Report<br>Date: 2026-06-15T00:00:00+00:00</description>
+        <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0165/compliance/return/2e70d996-112d-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Q1, 2026 Quarterly Report (Water)</title>
+        <link>https://leap.epa.ie/licence-profile/P0266/compliance/return/41d44f69-6944-f111-8ed8-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-06-15T00:00:00+00:00</description>
+        <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0266/compliance/return/41d44f69-6944-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Q4, 2025 Quarterly Report (Air) &amp; Cover Letter</title>
+        <link>https://leap.epa.ie/licence-profile/P0266/compliance/return/45c114c9-e701-f111-a37c-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-06-15T00:00:00+00:00</description>
+        <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0266/compliance/return/45c114c9-e701-f111-a37c-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Response to site visit report SV33569</title>
+        <link>https://leap.epa.ie/licence-profile/P0778/compliance/return/5e5c964d-b134-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-06-15T00:00:00+00:00</description>
+        <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0778/compliance/return/5e5c964d-b134-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Annual Noise Monitoring Report 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0017/compliance/return/65c1d92f-94d6-f011-a37a-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-06-15T00:00:00+00:00</description>
+        <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0017/compliance/return/65c1d92f-94d6-f011-a37a-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Annual Groundwater Private Well Report 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0017/compliance/return/b5da16da-92d6-f011-a37a-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-06-15T00:00:00+00:00</description>
+        <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0017/compliance/return/b5da16da-92d6-f011-a37a-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Annual Environmental Report: AER 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0151/compliance/return/c79f46a6-fd2c-f111-a37d-0050568a2d1a</link>
+        <description>Type: Annual Environmental Report<br>Date: 2026-06-15T00:00:00+00:00</description>
+        <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0151/compliance/return/c79f46a6-fd2c-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Q4, 2025 Quarterly Report (Water)</title>
+        <link>https://leap.epa.ie/licence-profile/P0266/compliance/return/d24336df-e701-f111-a37c-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-06-15T00:00:00+00:00</description>
+        <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0266/compliance/return/d24336df-e701-f111-a37c-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Annual Environmental Report: W0081 2025 AER</title>
+        <link>https://leap.epa.ie/licence-profile/W0081/compliance/return/d7e02daf-132d-f111-a37d-0050568a2d1a</link>
+        <description>Type: Annual Environmental Report<br>Date: 2026-06-15T00:00:00+00:00</description>
+        <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0081/compliance/return/d7e02daf-132d-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Annual Biological Surface Water Monitoring Report 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0017/compliance/return/f96ca0bb-93d6-f011-a37a-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-06-15T00:00:00+00:00</description>
+        <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0017/compliance/return/f96ca0bb-93d6-f011-a37a-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
