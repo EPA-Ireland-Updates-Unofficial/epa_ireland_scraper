@@ -3,57 +3,36 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-06-18.csv)</description>
-    <lastBuildDate>Thu, 18 Jun 2026 04:10:45 +0000</lastBuildDate>
-    <pubDate>Thu, 18 Jun 2026 04:10:45 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-06-19.csv)</description>
+    <lastBuildDate>Fri, 19 Jun 2026 04:17:07 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Jun 2026 04:17:07 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV32220</title>
-        <link>https://leap.epa.ie/licence-profile/P1188/compliance/return/308cff08-0129-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-06-17T00:00:00+00:00</description>
-        <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1188/compliance/return/308cff08-0129-f111-a37d-0050568a2d1a</guid>
+        <title>Monitoring Returns: Noise Report 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0255/compliance/return/1b9947e7-aa2d-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-06-18T00:00:00+00:00</description>
+        <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0255/compliance/return/1b9947e7-aa2d-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Stack emissions monitoring 2026</title>
-        <link>https://leap.epa.ie/licence-profile/P0988/compliance/return/3c73c052-6528-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-06-17T00:00:00+00:00</description>
-        <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0988/compliance/return/3c73c052-6528-f111-a37d-0050568a2d1a</guid>
+        <title>Monitoring Returns: Q1 2026 Galco Cork GW Monitoring</title>
+        <link>https://leap.epa.ie/licence-profile/P0391/compliance/return/64811291-0e4a-f111-8ed8-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-06-18T00:00:00+00:00</description>
+        <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0391/compliance/return/64811291-0e4a-f111-8ed8-005056be4ac2</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: 2025 water Monitoring Data</title>
-        <link>https://leap.epa.ie/licence-profile/P0738/compliance/return/65b2dcd1-4e28-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-06-17T00:00:00+00:00</description>
-        <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0738/compliance/return/65b2dcd1-4e28-f111-a37d-0050568a2d1a</guid>
+        <title>Monitoring Returns: 2025 Annual Gas Monitoring Report</title>
+        <link>https://leap.epa.ie/licence-profile/W0070/compliance/return/d78dfb66-f5fd-f011-a37c-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-06-18T00:00:00+00:00</description>
+        <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0070/compliance/return/d78dfb66-f5fd-f011-a37c-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Stack emissions monitoring 2026</title>
-        <link>https://leap.epa.ie/licence-profile/P0988/compliance/return/7f8e2961-6528-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-06-17T00:00:00+00:00</description>
-        <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0988/compliance/return/7f8e2961-6528-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Public awareness and communications programme</title>
-        <link>https://leap.epa.ie/licence-profile/P0804/compliance/return/a1048f52-8e11-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-06-17T00:00:00+00:00</description>
-        <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0804/compliance/return/a1048f52-8e11-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Q3 Ploughing commencement notice</title>
-        <link>https://leap.epa.ie/licence-profile/S0012/compliance/return/c51f5b0a-5c6a-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-06-17T00:00:00+00:00</description>
-        <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0012/compliance/return/c51f5b0a-5c6a-f111-8ed8-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Response to NC033587, NC003588 &amp; NC003589</title>
-        <link>https://leap.epa.ie/licence-profile/P1198/compliance/return/c5e77cad-5fd7-f011-a37a-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-06-17T00:00:00+00:00</description>
-        <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1198/compliance/return/c5e77cad-5fd7-f011-a37a-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Planned Carbon Change</title>
+        <link>https://leap.epa.ie/licence-profile/W0003/compliance/return/63437f03-7b53-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-06-16T00:00:00+00:00</description>
+        <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0003/compliance/return/63437f03-7b53-f111-8ed8-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
