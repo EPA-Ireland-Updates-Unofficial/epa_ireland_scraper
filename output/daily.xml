@@ -3,36 +3,36 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-06-19.csv)</description>
-    <lastBuildDate>Fri, 19 Jun 2026 04:17:07 +0000</lastBuildDate>
-    <pubDate>Fri, 19 Jun 2026 04:17:07 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-06-20.csv)</description>
+    <lastBuildDate>Sat, 20 Jun 2026 04:11:21 +0000</lastBuildDate>
+    <pubDate>Sat, 20 Jun 2026 04:11:21 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: Noise Report 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0255/compliance/return/1b9947e7-aa2d-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-06-18T00:00:00+00:00</description>
-        <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0255/compliance/return/1b9947e7-aa2d-f111-a37d-0050568a2d1a</guid>
+        <title>Requests for Approval and Site Reports: Orthophosphate analysis</title>
+        <link>https://leap.epa.ie/licence-profile/W0293/compliance/return/3384d5fd-fe1e-f111-a37d-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-06-19T00:00:00+00:00</description>
+        <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0293/compliance/return/3384d5fd-fe1e-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Q1 2026 Galco Cork GW Monitoring</title>
-        <link>https://leap.epa.ie/licence-profile/P0391/compliance/return/64811291-0e4a-f111-8ed8-005056be4ac2</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-06-18T00:00:00+00:00</description>
-        <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0391/compliance/return/64811291-0e4a-f111-8ed8-005056be4ac2</guid>
+        <title>Requests for Approval and Site Reports: Unsolicited letter to the EPA regarding monitoring on this site</title>
+        <link>https://leap.epa.ie/licence-profile/P0310/compliance/return/84bd4643-412c-f111-a37d-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-06-19T00:00:00+00:00</description>
+        <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0310/compliance/return/84bd4643-412c-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: 2025 Annual Gas Monitoring Report</title>
-        <link>https://leap.epa.ie/licence-profile/W0070/compliance/return/d78dfb66-f5fd-f011-a37c-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-06-18T00:00:00+00:00</description>
-        <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0070/compliance/return/d78dfb66-f5fd-f011-a37c-0050568a2d1a</guid>
+        <title>Requests for Approval and Site Reports: ESB Dublin Bay QAL2 Report November 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P0486/compliance/return/a33a394e-4617-f111-a37d-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-06-19T00:00:00+00:00</description>
+        <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0486/compliance/return/a33a394e-4617-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Planned Carbon Change</title>
-        <link>https://leap.epa.ie/licence-profile/W0003/compliance/return/63437f03-7b53-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-06-16T00:00:00+00:00</description>
-        <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0003/compliance/return/63437f03-7b53-f111-8ed8-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Letter re near miss and NC033707</title>
+        <link>https://leap.epa.ie/licence-profile/P0037/compliance/return/fb45d517-a8d0-f011-a378-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-06-19T00:00:00+00:00</description>
+        <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0037/compliance/return/fb45d517-a8d0-f011-a378-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
