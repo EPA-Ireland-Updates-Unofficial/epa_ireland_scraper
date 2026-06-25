@@ -3,50 +3,127 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-06-23.csv)</description>
-    <lastBuildDate>Wed, 24 Jun 2026 04:06:15 +0000</lastBuildDate>
-    <pubDate>Wed, 24 Jun 2026 04:06:15 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-06-25.csv)</description>
+    <lastBuildDate>Thu, 25 Jun 2026 04:05:07 +0000</lastBuildDate>
+    <pubDate>Thu, 25 Jun 2026 04:05:07 +0000</pubDate>
     <item>
-        <title>Incident: Breach of ELV</title>
-        <link>https://leap.epa.ie/licence-profile/P1166/compliance/incident/9f6a5922-f355-f111-8ed8-005056be4ac2</link>
-        <description>Type: Incident<br>Date: 2026-06-22T00:00:00+00:00</description>
-        <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1166/compliance/incident/9f6a5922-f355-f111-8ed8-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Poolbeg 220kV GIS Substation Site Investigation works</title>
+        <link>https://leap.epa.ie/licence-profile/P0577/compliance/return/018d467b-a54a-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-06-24T00:00:00+00:00</description>
+        <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0577/compliance/return/018d467b-a54a-f111-8ed8-005056be4ac2</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: LR102148: Submitted in error</title>
-        <link>https://leap.epa.ie/licence-profile/P0079/compliance/return/54561258-4821-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-06-22T00:00:00+00:00</description>
-        <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0079/compliance/return/54561258-4821-f111-a37d-0050568a2d1a</guid>
+        <title>Monitoring Returns: Qtr 4 2025 Storm Water Diverts <30mins</title>
+        <link>https://leap.epa.ie/licence-profile/P0010/compliance/return/33b76ac7-3d1d-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-06-24T00:00:00+00:00</description>
+        <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0010/compliance/return/33b76ac7-3d1d-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Ballymurtagh Annual VOC Surface Monitoring 2026</title>
-        <link>https://leap.epa.ie/licence-profile/W0011/compliance/return/6d4bae5f-0638-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-06-22T00:00:00+00:00</description>
-        <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0011/compliance/return/6d4bae5f-0638-f111-a37d-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: 2026 Q2 RTO run schedule</title>
+        <link>https://leap.epa.ie/licence-profile/P0306/compliance/return/396891aa-643e-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-06-24T00:00:00+00:00</description>
+        <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0306/compliance/return/396891aa-643e-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Derryclure Landfill Projects Schedule 08/05/2026</title>
-        <link>https://leap.epa.ie/licence-profile/W0029/compliance/return/6e7ef7ef-c04a-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-06-22T00:00:00+00:00</description>
-        <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0029/compliance/return/6e7ef7ef-c04a-f111-8ed8-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Effluent Plant Continuous Monitoring Disruption</title>
+        <link>https://leap.epa.ie/licence-profile/P0306/compliance/return/4285bb6a-643e-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-06-24T00:00:00+00:00</description>
+        <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0306/compliance/return/4285bb6a-643e-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Flare emission monitoring 2026</title>
-        <link>https://leap.epa.ie/licence-profile/W0033/compliance/return/aa2351cb-cb43-f111-8ed8-005056be4ac2</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-06-22T00:00:00+00:00</description>
-        <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0033/compliance/return/aa2351cb-cb43-f111-8ed8-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Method Statement- Sludge/Reed Drying Beds Project</title>
+        <link>https://leap.epa.ie/licence-profile/D0463/compliance/return/462a6fd5-580e-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-06-24T00:00:00+00:00</description>
+        <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0463/compliance/return/462a6fd5-580e-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Derryclure Landfill Project Schedule 08/05/2026</title>
-        <link>https://leap.epa.ie/licence-profile/W0029/compliance/return/fb64a9f0-c34a-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-06-22T00:00:00+00:00</description>
-        <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0029/compliance/return/fb64a9f0-c34a-f111-8ed8-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Method Statement- Sludge/Reed Drying Beds Project</title>
+        <link>https://leap.epa.ie/licence-profile/D0463/compliance/return/58761dc8-580e-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-06-24T00:00:00+00:00</description>
+        <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0463/compliance/return/58761dc8-580e-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Q1 2026 Emissions to Sewer &amp; Surface water Quarterly summary report</title>
+        <link>https://leap.epa.ie/licence-profile/P1030/compliance/return/64f6359e-c643-f111-8ed8-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-06-24T00:00:00+00:00</description>
+        <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1030/compliance/return/64f6359e-c643-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Site Visit SV34432 10.02.26 - RESPONSE</title>
+        <link>https://leap.epa.ie/licence-profile/P0058/compliance/return/67019c80-d32c-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-06-24T00:00:00+00:00</description>
+        <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0058/compliance/return/67019c80-d32c-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Sludge/Reed Drying Beds - Desludging Project</title>
+        <link>https://leap.epa.ie/licence-profile/D0496/compliance/return/7b45d50c-590e-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-06-24T00:00:00+00:00</description>
+        <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0496/compliance/return/7b45d50c-590e-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Sludge/Reed Drying Beds- Desludging Project</title>
+        <link>https://leap.epa.ie/licence-profile/A0297/compliance/return/a12dce89-580e-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-06-24T00:00:00+00:00</description>
+        <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/A0297/compliance/return/a12dce89-580e-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Notice or works</title>
+        <link>https://leap.epa.ie/licence-profile/D0501/compliance/return/b73ffb4c-9844-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-06-24T00:00:00+00:00</description>
+        <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0501/compliance/return/b73ffb4c-9844-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Quarter 1 2026 Bypass Log</title>
+        <link>https://leap.epa.ie/licence-profile/P0057/compliance/return/c2624c74-f234-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-06-24T00:00:00+00:00</description>
+        <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0057/compliance/return/c2624c74-f234-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Notice of Works</title>
+        <link>https://leap.epa.ie/licence-profile/D0500/compliance/return/c31bfa98-9844-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-06-24T00:00:00+00:00</description>
+        <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0500/compliance/return/c31bfa98-9844-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Sludge/Reed Drying Beds Project</title>
+        <link>https://leap.epa.ie/licence-profile/D0253/compliance/return/d5e004ca-f612-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-06-24T00:00:00+00:00</description>
+        <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0253/compliance/return/d5e004ca-f612-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: SV34432 Section 3.7</title>
+        <link>https://leap.epa.ie/licence-profile/P0058/compliance/return/e717cab8-782e-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-06-24T00:00:00+00:00</description>
+        <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0058/compliance/return/e717cab8-782e-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: SV33013-Supporting information additional request 2026</title>
+        <link>https://leap.epa.ie/licence-profile/D0252/compliance/return/eeb46c10-3f4d-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-06-24T00:00:00+00:00</description>
+        <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0252/compliance/return/eeb46c10-3f4d-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Effluent Plant Continuous Monitoring Disruption</title>
+        <link>https://leap.epa.ie/licence-profile/P0306/compliance/return/f0e36b61-643e-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-06-24T00:00:00+00:00</description>
+        <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0306/compliance/return/f0e36b61-643e-f111-a37d-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
