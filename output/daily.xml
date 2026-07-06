@@ -3,57 +3,15 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-07-04.csv)</description>
-    <lastBuildDate>Sun, 05 Jul 2026 05:18:59 +0000</lastBuildDate>
-    <pubDate>Sun, 05 Jul 2026 05:18:59 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-07-06.csv)</description>
+    <lastBuildDate>Mon, 06 Jul 2026 04:20:31 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Jul 2026 04:20:31 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: Feb-Apr 26 SW Results</title>
-        <link>https://leap.epa.ie/licence-profile/P0650/compliance/return/0db9683f-ee51-f111-8ed8-005056be4ac2</link>
+        <title>Monitoring Returns: R2 Groundwater Summary Resubmission</title>
+        <link>https://leap.epa.ie/licence-profile/P0813/compliance/return/3f7a8145-f260-f111-8ed8-005056be4ac2</link>
         <description>Type: Monitoring Returns<br>Date: 2026-07-03T00:00:00+00:00</description>
         <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0650/compliance/return/0db9683f-ee51-f111-8ed8-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: R1 Groundwater 2025 Resubmission</title>
-        <link>https://leap.epa.ie/licence-profile/P0813/compliance/return/0fedd330-465f-f111-8ed8-005056be4ac2</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-07-03T00:00:00+00:00</description>
-        <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0813/compliance/return/0fedd330-465f-f111-8ed8-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV35294</title>
-        <link>https://leap.epa.ie/licence-profile/P0652/compliance/return/595b8628-4675-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-07-03T00:00:00+00:00</description>
-        <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0652/compliance/return/595b8628-4675-f111-8ed8-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV34457</title>
-        <link>https://leap.epa.ie/licence-profile/W0044/compliance/return/7499aab8-d555-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-07-03T00:00:00+00:00</description>
-        <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0044/compliance/return/7499aab8-d555-f111-8ed8-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Decommissioning records 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0047/compliance/return/94c68541-ce34-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-07-03T00:00:00+00:00</description>
-        <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0047/compliance/return/94c68541-ce34-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV34265</title>
-        <link>https://leap.epa.ie/licence-profile/P0813/compliance/return/a45ceb9a-bf68-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-07-03T00:00:00+00:00</description>
-        <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0813/compliance/return/a45ceb9a-bf68-f111-8ed8-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: LS Rejection Notice - LR100240</title>
-        <link>https://leap.epa.ie/licence-profile/P0813/compliance/return/fbadf866-425f-f111-8ed8-005056be4ac2</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-07-03T00:00:00+00:00</description>
-        <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0813/compliance/return/fbadf866-425f-f111-8ed8-005056be4ac2</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0813/compliance/return/3f7a8145-f260-f111-8ed8-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
