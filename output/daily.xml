@@ -3,15 +3,29 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-07-06.csv)</description>
-    <lastBuildDate>Mon, 06 Jul 2026 04:20:31 +0000</lastBuildDate>
-    <pubDate>Mon, 06 Jul 2026 04:20:31 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-07-07.csv)</description>
+    <lastBuildDate>Tue, 07 Jul 2026 04:19:37 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 04:19:37 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: R2 Groundwater Summary Resubmission</title>
-        <link>https://leap.epa.ie/licence-profile/P0813/compliance/return/3f7a8145-f260-f111-8ed8-005056be4ac2</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-07-03T00:00:00+00:00</description>
-        <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0813/compliance/return/3f7a8145-f260-f111-8ed8-005056be4ac2</guid>
+        <title>Monitoring Returns: Landfill Gas Utilisation Plant Emissions to Air 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0017/compliance/return/1c09ca5c-95d6-f011-a37a-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-07-06T00:00:00+00:00</description>
+        <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0017/compliance/return/1c09ca5c-95d6-f011-a37a-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: Waste Storage PLan</title>
+        <link>https://leap.epa.ie/licence-profile/P1136/compliance/return/71da52c9-bc38-f111-a37d-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-07-06T00:00:00+00:00</description>
+        <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1136/compliance/return/71da52c9-bc38-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Q1 2026 GW Test Results</title>
+        <link>https://leap.epa.ie/licence-profile/P0795/compliance/return/748203a7-0b4a-f111-8ed8-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-07-06T00:00:00+00:00</description>
+        <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0795/compliance/return/748203a7-0b4a-f111-8ed8-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
