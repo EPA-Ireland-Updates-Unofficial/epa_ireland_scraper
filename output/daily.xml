@@ -3,29 +3,22 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-07-11.csv)</description>
-    <lastBuildDate>Sat, 11 Jul 2026 03:17:10 +0000</lastBuildDate>
-    <pubDate>Sat, 11 Jul 2026 03:17:10 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-07-12.csv)</description>
+    <lastBuildDate>Sun, 12 Jul 2026 03:14:34 +0000</lastBuildDate>
+    <pubDate>Sun, 12 Jul 2026 03:14:34 +0000</pubDate>
     <item>
-        <title>Annual Environmental Report: 2025 AER</title>
-        <link>https://leap.epa.ie/licence-profile/W0030/compliance/return/0acc3fc2-0d4e-f111-8ed8-005056be4ac2</link>
-        <description>Type: Annual Environmental Report<br>Date: 2026-07-10T00:00:00+00:00</description>
+        <title>Incident: Uncontrolled Release</title>
+        <link>https://leap.epa.ie/licence-profile/D0034/compliance/incident/5f6efc8a-ac65-f111-8ed8-005056be4ac2</link>
+        <description>Type: Incident<br>Date: 2026-07-10T00:00:00+00:00</description>
         <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0030/compliance/return/0acc3fc2-0d4e-f111-8ed8-005056be4ac2</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0034/compliance/incident/5f6efc8a-ac65-f111-8ed8-005056be4ac2</guid>
     </item>
     <item>
-        <title>Annual Environmental Report: AER 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0986/compliance/return/6b41b62f-e464-f111-8ed8-005056be4ac2</link>
-        <description>Type: Annual Environmental Report<br>Date: 2026-07-10T00:00:00+00:00</description>
+        <title>Requests for Approval and Site Reports: Replacement Flare AF-2 2026</title>
+        <link>https://leap.epa.ie/licence-profile/W0146/compliance/return/3351e910-7f65-f111-8ed8-005056be4ac2</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-07-10T00:00:00+00:00</description>
         <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0986/compliance/return/6b41b62f-e464-f111-8ed8-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: OxyMem Site Visit Report</title>
-        <link>https://leap.epa.ie/licence-profile/P0738/compliance/return/b330574e-a164-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-07-08T00:00:00+00:00</description>
-        <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0738/compliance/return/b330574e-a164-f111-8ed8-005056be4ac2</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0146/compliance/return/3351e910-7f65-f111-8ed8-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
