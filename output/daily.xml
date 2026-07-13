@@ -3,22 +3,29 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-07-12.csv)</description>
-    <lastBuildDate>Sun, 12 Jul 2026 03:14:34 +0000</lastBuildDate>
-    <pubDate>Sun, 12 Jul 2026 03:14:34 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-07-13.csv)</description>
+    <lastBuildDate>Mon, 13 Jul 2026 03:14:51 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2026 03:14:51 +0000</pubDate>
     <item>
         <title>Incident: Uncontrolled Release</title>
-        <link>https://leap.epa.ie/licence-profile/D0034/compliance/incident/5f6efc8a-ac65-f111-8ed8-005056be4ac2</link>
+        <link>https://leap.epa.ie/licence-profile/D0034/compliance/incident/7abb13ca-5266-f111-8ed8-005056be4ac2</link>
         <description>Type: Incident<br>Date: 2026-07-10T00:00:00+00:00</description>
         <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0034/compliance/incident/5f6efc8a-ac65-f111-8ed8-005056be4ac2</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0034/compliance/incident/7abb13ca-5266-f111-8ed8-005056be4ac2</guid>
     </item>
     <item>
-        <title>Requests for Approval and Site Reports: Replacement Flare AF-2 2026</title>
-        <link>https://leap.epa.ie/licence-profile/W0146/compliance/return/3351e910-7f65-f111-8ed8-005056be4ac2</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-07-10T00:00:00+00:00</description>
+        <title>Incident: Uncontrolled Release</title>
+        <link>https://leap.epa.ie/licence-profile/D0034/compliance/incident/9539f26d-3d66-f111-8ed8-005056be4ac2</link>
+        <description>Type: Incident<br>Date: 2026-07-10T00:00:00+00:00</description>
         <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0146/compliance/return/3351e910-7f65-f111-8ed8-005056be4ac2</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0034/compliance/incident/9539f26d-3d66-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Incident: Uncontrolled Release</title>
+        <link>https://leap.epa.ie/licence-profile/D0034/compliance/incident/f554b5cc-3a66-f111-8ed8-005056be4ac2</link>
+        <description>Type: Incident<br>Date: 2026-07-10T00:00:00+00:00</description>
+        <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0034/compliance/incident/f554b5cc-3a66-f111-8ed8-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
