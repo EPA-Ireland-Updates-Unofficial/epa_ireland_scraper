@@ -3,29 +3,43 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-07-13.csv)</description>
-    <lastBuildDate>Mon, 13 Jul 2026 03:14:51 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Jul 2026 03:14:51 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-07-14.csv)</description>
+    <lastBuildDate>Tue, 14 Jul 2026 03:17:59 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Jul 2026 03:17:59 +0000</pubDate>
     <item>
-        <title>Incident: Uncontrolled Release</title>
-        <link>https://leap.epa.ie/licence-profile/D0034/compliance/incident/7abb13ca-5266-f111-8ed8-005056be4ac2</link>
-        <description>Type: Incident<br>Date: 2026-07-10T00:00:00+00:00</description>
-        <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0034/compliance/incident/7abb13ca-5266-f111-8ed8-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Licensee Public Response - SV35192</title>
+        <link>https://leap.epa.ie/licence-profile/P0836/compliance/return/01be44d2-c56b-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-07-13T00:00:00+00:00</description>
+        <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0836/compliance/return/01be44d2-c56b-f111-8ed8-005056be4ac2</guid>
     </item>
     <item>
-        <title>Incident: Uncontrolled Release</title>
-        <link>https://leap.epa.ie/licence-profile/D0034/compliance/incident/9539f26d-3d66-f111-8ed8-005056be4ac2</link>
-        <description>Type: Incident<br>Date: 2026-07-10T00:00:00+00:00</description>
-        <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0034/compliance/incident/9539f26d-3d66-f111-8ed8-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Licensee Public Response - SV33828</title>
+        <link>https://leap.epa.ie/licence-profile/P0355/compliance/return/56dd91ee-3b75-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-07-13T00:00:00+00:00</description>
+        <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0355/compliance/return/56dd91ee-3b75-f111-8ed8-005056be4ac2</guid>
     </item>
     <item>
-        <title>Incident: Uncontrolled Release</title>
-        <link>https://leap.epa.ie/licence-profile/D0034/compliance/incident/f554b5cc-3a66-f111-8ed8-005056be4ac2</link>
-        <description>Type: Incident<br>Date: 2026-07-10T00:00:00+00:00</description>
-        <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0034/compliance/incident/f554b5cc-3a66-f111-8ed8-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Heraeus Bunding register and Ground map</title>
+        <link>https://leap.epa.ie/licence-profile/P0145/compliance/return/c42fc335-4250-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-07-13T00:00:00+00:00</description>
+        <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0145/compliance/return/c42fc335-4250-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Licensee Public Response - SV35263</title>
+        <link>https://leap.epa.ie/licence-profile/W0147/compliance/return/da15daa9-dc64-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-07-13T00:00:00+00:00</description>
+        <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0147/compliance/return/da15daa9-dc64-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Annual Environmental Report: AER 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0029/compliance/return/ec65fcb6-eb4a-f111-8ed8-005056be4ac2</link>
+        <description>Type: Annual Environmental Report<br>Date: 2026-07-13T00:00:00+00:00</description>
+        <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0029/compliance/return/ec65fcb6-eb4a-f111-8ed8-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
