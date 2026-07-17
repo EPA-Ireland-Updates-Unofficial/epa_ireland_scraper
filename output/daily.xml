@@ -3,64 +3,22 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-07-16.csv)</description>
-    <lastBuildDate>Thu, 16 Jul 2026 03:15:57 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Jul 2026 03:15:57 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-07-17.csv)</description>
+    <lastBuildDate>Fri, 17 Jul 2026 03:20:09 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 03:20:09 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: 2025 Ballaghveny Landfill Surface Water Report.</title>
-        <link>https://leap.epa.ie/licence-profile/W0078/compliance/return/01f22e75-29fd-f011-a37b-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-07-15T00:00:00+00:00</description>
-        <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0078/compliance/return/01f22e75-29fd-f011-a37b-0050568a2d1a</guid>
+        <title>Incident: Spillage</title>
+        <link>https://leap.epa.ie/licence-profile/D0391/compliance/incident/db27fae4-6469-f111-8ed8-005056be4ac2</link>
+        <description>Type: Incident<br>Date: 2026-07-16T00:00:00+00:00</description>
+        <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0391/compliance/incident/db27fae4-6469-f111-8ed8-005056be4ac2</guid>
     </item>
     <item>
-        <title>Requests for Approval and Site Reports: Waste Storage Plan</title>
-        <link>https://leap.epa.ie/licence-profile/W0082/compliance/return/369bf428-9448-f111-8ed8-005056be4ac2</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-07-15T00:00:00+00:00</description>
-        <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0082/compliance/return/369bf428-9448-f111-8ed8-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: 2025 Flare Emissions Reports for Scotch Corner Landfill W0020-02</title>
-        <link>https://leap.epa.ie/licence-profile/W0020/compliance/return/4d05b9db-3316-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-07-15T00:00:00+00:00</description>
-        <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0020/compliance/return/4d05b9db-3316-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Annual Foul Water Monitoring Report 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0069/compliance/return/694b362c-c7fd-f011-a37c-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-07-15T00:00:00+00:00</description>
-        <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0069/compliance/return/694b362c-c7fd-f011-a37c-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: 2025 Ballaghveny Landfill Leachate Report.</title>
-        <link>https://leap.epa.ie/licence-profile/W0078/compliance/return/8b14ecd9-29fd-f011-a37b-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-07-15T00:00:00+00:00</description>
-        <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0078/compliance/return/8b14ecd9-29fd-f011-a37b-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Annual Surface Water Monitoring Report 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0069/compliance/return/8bf7fba4-c7fd-f011-a37c-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-07-15T00:00:00+00:00</description>
-        <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0069/compliance/return/8bf7fba4-c7fd-f011-a37c-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: 2025 Quarterly Groundwater Reports for Ballaghveny Landfill</title>
-        <link>https://leap.epa.ie/licence-profile/W0078/compliance/return/c6bf7c16-29fd-f011-a37b-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-07-15T00:00:00+00:00</description>
-        <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0078/compliance/return/c6bf7c16-29fd-f011-a37b-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: SWM data in EPA format for Feb &amp; March 2026</title>
-        <link>https://leap.epa.ie/licence-profile/P0325/compliance/return/03282a42-c768-f111-8ed8-005056be4ac2</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-07-14T00:00:00+00:00</description>
-        <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0325/compliance/return/03282a42-c768-f111-8ed8-005056be4ac2</guid>
+        <title>Site Updates/Notifications: RTO Data for 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P0886/compliance/return/776dbc27-5163-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-07-16T00:00:00+00:00</description>
+        <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0886/compliance/return/776dbc27-5163-f111-8ed8-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
