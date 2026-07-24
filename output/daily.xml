@@ -3,92 +3,29 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-07-23.csv)</description>
-    <lastBuildDate>Thu, 23 Jul 2026 03:21:26 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Jul 2026 03:21:26 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-07-24.csv)</description>
+    <lastBuildDate>Fri, 24 Jul 2026 04:19:28 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Jul 2026 04:19:28 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: Soil and Groundwater Report P1191-01 MSFT Grange Castle</title>
-        <link>https://leap.epa.ie/licence-profile/P1191/compliance/return/0aff804e-266b-f111-8ed8-005056be4ac2</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-07-22T00:00:00+00:00</description>
-        <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1191/compliance/return/0aff804e-266b-f111-8ed8-005056be4ac2</guid>
+        <title>Incident: Abatement equipment off-line</title>
+        <link>https://leap.epa.ie/licence-profile/D0243/compliance/incident/846c23d8-ea6e-f111-8ed8-005056be4ac2</link>
+        <description>Type: Incident<br>Date: 2026-07-23T00:00:00+00:00</description>
+        <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0243/compliance/incident/846c23d8-ea6e-f111-8ed8-005056be4ac2</guid>
     </item>
     <item>
-        <title>Requests for Approval and Site Reports: RFA Change to scope and frequency of monitoring following cessation of licence activity</title>
-        <link>https://leap.epa.ie/licence-profile/P0019/compliance/return/181b7dc2-935e-f111-8ed8-005056be4ac2</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-07-22T00:00:00+00:00</description>
-        <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0019/compliance/return/181b7dc2-935e-f111-8ed8-005056be4ac2</guid>
+        <title>Monitoring Returns: 2026 Q1 Leachate monitoring</title>
+        <link>https://leap.epa.ie/licence-profile/W0018/compliance/return/1f632e96-7a2e-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-07-23T00:00:00+00:00</description>
+        <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0018/compliance/return/1f632e96-7a2e-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Closure and Surrender: ICA - 2026 update</title>
-        <link>https://leap.epa.ie/licence-profile/P0275/compliance/return/3ed1eccd-b143-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Closure and Surrender<br>Date: 2026-07-22T00:00:00+00:00</description>
-        <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0275/compliance/return/3ed1eccd-b143-f111-8ed8-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Soil and Groundwater Report P1190-01 MSFT Grange Castle</title>
-        <link>https://leap.epa.ie/licence-profile/P1190/compliance/return/44667920-266b-f111-8ed8-005056be4ac2</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-07-22T00:00:00+00:00</description>
-        <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1190/compliance/return/44667920-266b-f111-8ed8-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: SVR Response</title>
-        <link>https://leap.epa.ie/licence-profile/P0431/compliance/return/473bf201-0a5b-ef11-a368-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-07-22T00:00:00+00:00</description>
-        <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0431/compliance/return/473bf201-0a5b-ef11-a368-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Site update- resumed operations</title>
-        <link>https://leap.epa.ie/licence-profile/P1014/compliance/return/4eb5cc76-4258-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-07-22T00:00:00+00:00</description>
-        <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1014/compliance/return/4eb5cc76-4258-f111-8ed8-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV34530</title>
-        <link>https://leap.epa.ie/licence-profile/W0206/compliance/return/7e25c1ac-895e-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-07-22T00:00:00+00:00</description>
-        <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0206/compliance/return/7e25c1ac-895e-f111-8ed8-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV33411</title>
-        <link>https://leap.epa.ie/licence-profile/P0510/compliance/return/a78f1e7e-c21e-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-07-22T00:00:00+00:00</description>
-        <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0510/compliance/return/a78f1e7e-c21e-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: 2025 Annual Hydro-environmental Monitoring Report at the TSF</title>
-        <link>https://leap.epa.ie/licence-profile/P0516/compliance/return/a82822ab-263f-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-07-22T00:00:00+00:00</description>
-        <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0516/compliance/return/a82822ab-263f-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Missed Sampling January/February 2026</title>
-        <link>https://leap.epa.ie/licence-profile/P0803/compliance/return/d874ec01-8732-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-07-22T00:00:00+00:00</description>
-        <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0803/compliance/return/d874ec01-8732-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Soil and Groundwater Report P1187-01 MSFT Grange Castle</title>
-        <link>https://leap.epa.ie/licence-profile/P1187/compliance/return/f644e4e9-256b-f111-8ed8-005056be4ac2</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-07-22T00:00:00+00:00</description>
-        <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1187/compliance/return/f644e4e9-256b-f111-8ed8-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Incident: Breach of ELV</title>
-        <link>https://leap.epa.ie/licence-profile/P0294/compliance/incident/30807b10-0b6e-f111-8ed8-005056be4ac2</link>
-        <description>Type: Incident<br>Date: 2026-07-20T00:00:00+00:00</description>
-        <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0294/compliance/incident/30807b10-0b6e-f111-8ed8-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Re SOCOTEC visit (SV30819)</title>
+        <link>https://leap.epa.ie/licence-profile/P0037/compliance/return/b2bd8dcb-5da5-f011-a377-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-07-23T00:00:00+00:00</description>
+        <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0037/compliance/return/b2bd8dcb-5da5-f011-a377-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
