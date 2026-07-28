@@ -3,29 +3,36 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-07-25.csv)</description>
-    <lastBuildDate>Mon, 27 Jul 2026 03:15:25 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Jul 2026 03:15:25 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-07-28.csv)</description>
+    <lastBuildDate>Tue, 28 Jul 2026 03:17:06 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 03:17:06 +0000</pubDate>
     <item>
-        <title>Complaint: P1074-01, 08/06/2026, Noise</title>
-        <link>https://leap.epa.ie/licence-profile/P1074/compliance/complaint/38d46dfd-b76f-f111-8ed8-005056be4ac2</link>
-        <description>Type: Complaint<br>Date: 2026-07-24T00:00:00+00:00</description>
-        <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1074/compliance/complaint/38d46dfd-b76f-f111-8ed8-005056be4ac2</guid>
+        <title>Monitoring Returns: QAL2 for Volumetric Flow for P0483-04</title>
+        <link>https://leap.epa.ie/licence-profile/P0483/compliance/return/5bc371fc-8c70-f111-8ed8-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-07-27T00:00:00+00:00</description>
+        <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0483/compliance/return/5bc371fc-8c70-f111-8ed8-005056be4ac2</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Site Update</title>
-        <link>https://leap.epa.ie/licence-profile/W0136/compliance/return/245ce04e-124d-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-07-24T00:00:00+00:00</description>
-        <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0136/compliance/return/245ce04e-124d-f111-8ed8-005056be4ac2</guid>
+        <title>Monitoring Returns: W0055-02 Emmissions to Air 2025</title>
+        <link>https://leap.epa.ie/licence-profile/W0055/compliance/return/76d89490-ae0d-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-07-27T00:00:00+00:00</description>
+        <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0055/compliance/return/76d89490-ae0d-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Requests for Approval and Site Reports: ODS and F-Gas Maintenance and Leak Check Records</title>
-        <link>https://leap.epa.ie/licence-profile/P0725/compliance/return/7a15c1f0-1929-f111-a37d-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-07-24T00:00:00+00:00</description>
-        <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0725/compliance/return/7a15c1f0-1929-f111-a37d-0050568a2d1a</guid>
+        <title>Monitoring Returns: Q1 2026 Surface Water Monitoring</title>
+        <link>https://leap.epa.ie/licence-profile/W0018/compliance/return/85f9df5e-7b2e-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-07-27T00:00:00+00:00</description>
+        <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0018/compliance/return/85f9df5e-7b2e-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: Noise Management Plan Updated 2026</title>
+        <link>https://leap.epa.ie/licence-profile/P1170/compliance/return/e366bef5-c159-f111-8ed8-005056be4ac2</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-07-27T00:00:00+00:00</description>
+        <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1170/compliance/return/e366bef5-c159-f111-8ed8-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
