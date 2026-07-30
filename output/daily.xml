@@ -3,36 +3,15 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-07-28.csv)</description>
-    <lastBuildDate>Wed, 29 Jul 2026 03:17:06 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Jul 2026 03:17:06 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-07-30.csv)</description>
+    <lastBuildDate>Thu, 30 Jul 2026 03:22:28 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2026 03:22:28 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: QAL2 for Volumetric Flow for P0483-04</title>
-        <link>https://leap.epa.ie/licence-profile/P0483/compliance/return/5bc371fc-8c70-f111-8ed8-005056be4ac2</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-07-27T00:00:00+00:00</description>
-        <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0483/compliance/return/5bc371fc-8c70-f111-8ed8-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: W0055-02 Emmissions to Air 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0055/compliance/return/76d89490-ae0d-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-07-27T00:00:00+00:00</description>
-        <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0055/compliance/return/76d89490-ae0d-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Q1 2026 Surface Water Monitoring</title>
-        <link>https://leap.epa.ie/licence-profile/W0018/compliance/return/85f9df5e-7b2e-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-07-27T00:00:00+00:00</description>
-        <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0018/compliance/return/85f9df5e-7b2e-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Requests for Approval and Site Reports: Noise Management Plan Updated 2026</title>
-        <link>https://leap.epa.ie/licence-profile/P1170/compliance/return/e366bef5-c159-f111-8ed8-005056be4ac2</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-07-27T00:00:00+00:00</description>
-        <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1170/compliance/return/e366bef5-c159-f111-8ed8-005056be4ac2</guid>
+        <title>Monitoring Returns: Second Quarter Monitoring Returns 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P0093/compliance/return/22ff3bc6-08fd-f011-a37b-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-07-28T00:00:00+00:00</description>
+        <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0093/compliance/return/22ff3bc6-08fd-f011-a37b-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
