@@ -3,15 +3,43 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-07-30.csv)</description>
-    <lastBuildDate>Thu, 30 Jul 2026 03:22:28 +0000</lastBuildDate>
-    <pubDate>Thu, 30 Jul 2026 03:22:28 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-07-31.csv)</description>
+    <lastBuildDate>Fri, 31 Jul 2026 03:18:20 +0000</lastBuildDate>
+    <pubDate>Fri, 31 Jul 2026 03:18:20 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: Second Quarter Monitoring Returns 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0093/compliance/return/22ff3bc6-08fd-f011-a37b-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-07-28T00:00:00+00:00</description>
+        <title>Incident: Abatement equipment off-line</title>
+        <link>https://leap.epa.ie/licence-profile/A0064/compliance/incident/840b174b-5c74-f111-8ed8-005056be4ac2</link>
+        <description>Type: Incident<br>Date: 2026-07-30T00:00:00+00:00</description>
+        <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/A0064/compliance/incident/840b174b-5c74-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: ICA - Independent closure audit proposed scope</title>
+        <link>https://leap.epa.ie/licence-profile/P0784/compliance/return/28f1b34f-6f48-f111-8ed8-005056be4ac2</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-07-30T00:00:00+00:00</description>
+        <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0784/compliance/return/28f1b34f-6f48-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Licence Surrender Application Revision 2</title>
+        <link>https://leap.epa.ie/licence-profile/P0784/compliance/return/54f28005-154e-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-07-30T00:00:00+00:00</description>
+        <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0784/compliance/return/54f28005-154e-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: 1.7 Reply to Site Visit SV34546</title>
+        <link>https://leap.epa.ie/licence-profile/P0793/compliance/return/cab31ab7-9a74-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-07-30T00:00:00+00:00</description>
+        <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0793/compliance/return/cab31ab7-9a74-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: SEW - WHEELWASH</title>
+        <link>https://leap.epa.ie/licence-profile/W0272/compliance/return/35c4d1f9-9b74-f111-8ed8-005056be4ac2</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-07-28T00:00:00+00:00</description>
         <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0093/compliance/return/22ff3bc6-08fd-f011-a37b-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0272/compliance/return/35c4d1f9-9b74-f111-8ed8-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
