@@ -3,15 +3,15 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-08-01.csv)</description>
-    <lastBuildDate>Sat, 01 Aug 2026 03:16:36 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Aug 2026 03:16:36 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-08-02.csv)</description>
+    <lastBuildDate>Sun, 02 Aug 2026 03:09:40 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Aug 2026 03:09:40 +0000</pubDate>
     <item>
-        <title>Non Compliance: </title>
-        <link>https://leap.epa.ie/licence-profile/P0014/compliance/non-compliance/f393a4d2-07dd-f011-a37b-0050568a2d1a</link>
-        <description>Type: Non Compliance<br>Date: 2026-08-01T00:00:00+00:00</description>
-        <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0014/compliance/non-compliance/f393a4d2-07dd-f011-a37b-0050568a2d1a</guid>
+        <title>Complaint: Uncontrolled release from Maynooth Pump Station</title>
+        <link>https://leap.epa.ie/licence-profile/D0004/compliance/complaint/cf3448c4-e276-f111-8ed8-005056be4ac2</link>
+        <description>Type: Complaint<br>Date: 2026-07-31T00:00:00+00:00</description>
+        <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0004/compliance/complaint/cf3448c4-e276-f111-8ed8-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
