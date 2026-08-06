@@ -3,15 +3,36 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-08-02.csv)</description>
-    <lastBuildDate>Wed, 05 Aug 2026 03:14:30 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Aug 2026 03:14:30 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-08-06.csv)</description>
+    <lastBuildDate>Thu, 06 Aug 2026 03:11:43 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Aug 2026 03:11:43 +0000</pubDate>
     <item>
-        <title>Complaint: Uncontrolled release from Maynooth Pump Station</title>
-        <link>https://leap.epa.ie/licence-profile/D0004/compliance/complaint/cf3448c4-e276-f111-8ed8-005056be4ac2</link>
-        <description>Type: Complaint<br>Date: 2026-07-31T00:00:00+00:00</description>
-        <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0004/compliance/complaint/cf3448c4-e276-f111-8ed8-005056be4ac2</guid>
+        <title>Incident: Noise compliant</title>
+        <link>https://leap.epa.ie/licence-profile/P0859/compliance/incident/a405fefd-4179-f111-8ed8-005056be4ac2</link>
+        <description>Type: Incident<br>Date: 2026-08-05T00:00:00+00:00</description>
+        <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0859/compliance/incident/a405fefd-4179-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Biannual Groundwater Abstraction Report December 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P0442/compliance/return/172cfab6-a318-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-08-05T00:00:00+00:00</description>
+        <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0442/compliance/return/172cfab6-a318-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Air Monitoring A1-01 &amp; A1-02</title>
+        <link>https://leap.epa.ie/licence-profile/P1052/compliance/return/175ac4dc-6694-f011-a377-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-08-05T00:00:00+00:00</description>
+        <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1052/compliance/return/175ac4dc-6694-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: EPR Correction</title>
+        <link>https://leap.epa.ie/licence-profile/P0533/compliance/return/92391b30-b638-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-08-05T00:00:00+00:00</description>
+        <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0533/compliance/return/92391b30-b638-f111-a37d-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
