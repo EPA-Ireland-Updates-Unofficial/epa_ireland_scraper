@@ -3,29 +3,50 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-08-07.csv)</description>
-    <lastBuildDate>Fri, 07 Aug 2026 03:12:04 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Aug 2026 03:12:04 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-08-08.csv)</description>
+    <lastBuildDate>Sat, 08 Aug 2026 03:10:40 +0000</lastBuildDate>
+    <pubDate>Sat, 08 Aug 2026 03:10:40 +0000</pubDate>
     <item>
-        <title>Requests for Approval and Site Reports: 6 month List Feb 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0050/compliance/return/27462836-0ef5-ef11-a373-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-08-06T00:00:00+00:00</description>
-        <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0050/compliance/return/27462836-0ef5-ef11-a373-0050568a2d1a</guid>
+        <title>Requests for Approval and Site Reports: Alteration of Monitoring Location</title>
+        <link>https://leap.epa.ie/licence-profile/P1199/compliance/return/56e9dbfb-e760-f111-8ed8-005056be4ac2</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-08-07T00:00:00+00:00</description>
+        <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1199/compliance/return/56e9dbfb-e760-f111-8ed8-005056be4ac2</guid>
     </item>
     <item>
-        <title>Requests for Approval and Site Reports: Condition 8.27 of the IEL P0037-04</title>
-        <link>https://leap.epa.ie/licence-profile/P0037/compliance/return/662de1be-59df-f011-a37b-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-08-06T00:00:00+00:00</description>
-        <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0037/compliance/return/662de1be-59df-f011-a37b-0050568a2d1a</guid>
+        <title>Requests for Approval and Site Reports: Fire Risk Assessment</title>
+        <link>https://leap.epa.ie/licence-profile/W0082/compliance/return/796299c0-b065-f111-8ed8-005056be4ac2</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-08-07T00:00:00+00:00</description>
+        <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0082/compliance/return/796299c0-b065-f111-8ed8-005056be4ac2</guid>
     </item>
     <item>
-        <title>Requests for Approval and Site Reports: 6 month list April 2025</title>
-        <link>https://leap.epa.ie/licence-profile/W0050/compliance/return/e4f2da00-6e26-f011-a373-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-08-06T00:00:00+00:00</description>
-        <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0050/compliance/return/e4f2da00-6e26-f011-a373-0050568a2d1a</guid>
+        <title>Monitoring Returns: Ambient Air Quality Report 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P1172/compliance/return/855a4aaa-f81d-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-08-07T00:00:00+00:00</description>
+        <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1172/compliance/return/855a4aaa-f81d-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Notification of commencement of Loading and Dumping</title>
+        <link>https://leap.epa.ie/licence-profile/S0004/compliance/return/8e370807-4992-f111-8ed9-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-08-07T00:00:00+00:00</description>
+        <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0004/compliance/return/8e370807-4992-f111-8ed9-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Ambient Air Quality Report 2024</title>
+        <link>https://leap.epa.ie/licence-profile/P1172/compliance/return/e9e677b8-c11b-f011-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-08-07T00:00:00+00:00</description>
+        <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1172/compliance/return/e9e677b8-c11b-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: Updated FRA</title>
+        <link>https://leap.epa.ie/licence-profile/W0249/compliance/return/edadfd05-17d1-f011-a378-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-08-07T00:00:00+00:00</description>
+        <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0249/compliance/return/edadfd05-17d1-f011-a378-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
