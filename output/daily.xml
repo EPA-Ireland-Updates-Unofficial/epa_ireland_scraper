@@ -3,15 +3,57 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-08-09.csv)</description>
-    <lastBuildDate>Mon, 10 Aug 2026 03:10:51 +0000</lastBuildDate>
-    <pubDate>Mon, 10 Aug 2026 03:10:51 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-08-11.csv)</description>
+    <lastBuildDate>Tue, 11 Aug 2026 03:09:59 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2026 03:09:59 +0000</pubDate>
     <item>
-        <title>Requests for Approval and Site Reports: Odour Management Plan</title>
-        <link>https://leap.epa.ie/licence-profile/P1014/compliance/return/c0487889-b27b-f111-8ed8-005056be4ac2</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-08-06T00:00:00+00:00</description>
-        <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1014/compliance/return/c0487889-b27b-f111-8ed8-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Maintenance Shutdown</title>
+        <link>https://leap.epa.ie/licence-profile/P0378/compliance/return/3e77e652-a16f-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-08-10T00:00:00+00:00</description>
+        <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0378/compliance/return/3e77e652-a16f-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Qtr 2 2026 RTO Scrubber Abatement Bypass Log</title>
+        <link>https://leap.epa.ie/licence-profile/P0057/compliance/return/85e78b87-2777-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-08-10T00:00:00+00:00</description>
+        <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0057/compliance/return/85e78b87-2777-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: Request to replace Volumetric Flow Validation QAL2 with AST plus Audit</title>
+        <link>https://leap.epa.ie/licence-profile/P0777/compliance/return/a3cf199e-146b-f111-8ed8-005056be4ac2</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-08-10T00:00:00+00:00</description>
+        <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0777/compliance/return/a3cf199e-146b-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: Fire Risk Assessment</title>
+        <link>https://leap.epa.ie/licence-profile/W0044/compliance/return/ac87aa06-d32d-f111-a37d-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-08-10T00:00:00+00:00</description>
+        <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0044/compliance/return/ac87aa06-d32d-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: Response to Site Visit Report Ref. No.: SV31479</title>
+        <link>https://leap.epa.ie/licence-profile/W0296/compliance/return/ae4a08e6-182d-f111-a37d-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-08-10T00:00:00+00:00</description>
+        <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0296/compliance/return/ae4a08e6-182d-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: Withdrawal of Licence Surrender Application</title>
+        <link>https://leap.epa.ie/licence-profile/W0262/compliance/return/e598777b-aacb-f011-a378-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-08-10T00:00:00+00:00</description>
+        <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0262/compliance/return/e598777b-aacb-f011-a378-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: Request to replace Volumetric Flow Validation QAL2 with AST plus Audit</title>
+        <link>https://leap.epa.ie/licence-profile/P0483/compliance/return/e5f87dbc-156b-f111-8ed8-005056be4ac2</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-08-10T00:00:00+00:00</description>
+        <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0483/compliance/return/e5f87dbc-156b-f111-8ed8-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
