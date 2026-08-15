@@ -3,99 +3,15 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-08-14.csv)</description>
-    <lastBuildDate>Fri, 14 Aug 2026 03:15:23 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 03:15:23 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-08-15.csv)</description>
+    <lastBuildDate>Sat, 15 Aug 2026 03:10:29 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Aug 2026 03:10:29 +0000</pubDate>
     <item>
-        <title>Requests for Approval and Site Reports: Hydraulic testing of the Bunded Sewer Network 2026</title>
-        <link>https://leap.epa.ie/licence-profile/P0006/compliance/return/2cd54fbe-256e-f111-8ed8-005056be4ac2</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-08-13T00:00:00+00:00</description>
-        <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0006/compliance/return/2cd54fbe-256e-f111-8ed8-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV35431</title>
-        <link>https://leap.epa.ie/licence-profile/P0404/compliance/return/987f4f4c-5d80-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-08-13T00:00:00+00:00</description>
-        <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0404/compliance/return/987f4f4c-5d80-f111-8ed8-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Use of Liquid Nitrogen on site</title>
-        <link>https://leap.epa.ie/licence-profile/P0918/compliance/return/d2d0dd2c-456e-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-08-13T00:00:00+00:00</description>
-        <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0918/compliance/return/d2d0dd2c-456e-f111-8ed8-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Quarter 1 2026 Landfill Gas Monitoring Report</title>
-        <link>https://leap.epa.ie/licence-profile/W0201/compliance/return/327d4ef1-2649-f111-8ed8-005056be4ac2</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-08-12T00:00:00+00:00</description>
-        <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0201/compliance/return/327d4ef1-2649-f111-8ed8-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: WMA S18 Notice</title>
-        <link>https://leap.epa.ie/licence-profile/W0206/compliance/return/393c06dc-fa7e-f111-8ed8-005056be4ac2</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-08-12T00:00:00+00:00</description>
-        <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0206/compliance/return/393c06dc-fa7e-f111-8ed8-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: WMA S18 Notice</title>
-        <link>https://leap.epa.ie/licence-profile/P1014/compliance/return/62bfd7be-fb7e-f111-8ed8-005056be4ac2</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-08-12T00:00:00+00:00</description>
-        <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1014/compliance/return/62bfd7be-fb7e-f111-8ed8-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: WMA S18 Notice</title>
-        <link>https://leap.epa.ie/licence-profile/W0205/compliance/return/fbc647f5-ad7f-f111-8ed8-005056be4ac2</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-08-12T00:00:00+00:00</description>
-        <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0205/compliance/return/fbc647f5-ad7f-f111-8ed8-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV34281</title>
-        <link>https://leap.epa.ie/licence-profile/W0229/compliance/return/151c4791-c448-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-08-11T00:00:00+00:00</description>
-        <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0229/compliance/return/151c4791-c448-f111-8ed8-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Annual Monitoring Return Surface Water</title>
-        <link>https://leap.epa.ie/licence-profile/P1009/compliance/return/28809e38-5d2c-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-08-11T00:00:00+00:00</description>
-        <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1009/compliance/return/28809e38-5d2c-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Air Emissions Monitoring Report - Bi-annual 1 2026</title>
-        <link>https://leap.epa.ie/licence-profile/P0983/compliance/return/2f008fde-dd75-f111-8ed8-005056be4ac2</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-08-11T00:00:00+00:00</description>
-        <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0983/compliance/return/2f008fde-dd75-f111-8ed8-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Annual Monitoring Return Dust</title>
-        <link>https://leap.epa.ie/licence-profile/P1009/compliance/return/8490c6da-5e2c-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-08-11T00:00:00+00:00</description>
-        <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1009/compliance/return/8490c6da-5e2c-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV34248</title>
-        <link>https://leap.epa.ie/licence-profile/P0141/compliance/return/9fcdc09f-e958-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-08-11T00:00:00+00:00</description>
-        <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0141/compliance/return/9fcdc09f-e958-f111-8ed8-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Requests for Approval and Site Reports: Increase daily raw material volumes 2026</title>
-        <link>https://leap.epa.ie/licence-profile/P0040/compliance/return/ffb82cd6-8cf7-f011-a37b-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-08-11T00:00:00+00:00</description>
-        <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0040/compliance/return/ffb82cd6-8cf7-f011-a37b-0050568a2d1a</guid>
+        <title>Monitoring Returns: Annual Groundwater Report 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P0997/compliance/return/56779f69-0d2a-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-08-14T00:00:00+00:00</description>
+        <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0997/compliance/return/56779f69-0d2a-f111-a37d-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
