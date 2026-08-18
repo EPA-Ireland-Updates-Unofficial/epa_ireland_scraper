@@ -3,15 +3,120 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-08-15.csv)</description>
-    <lastBuildDate>Mon, 17 Aug 2026 04:00:45 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Aug 2026 04:00:45 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-08-18.csv)</description>
+    <lastBuildDate>Tue, 18 Aug 2026 03:58:33 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 03:58:33 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: Annual Groundwater Report 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P0997/compliance/return/56779f69-0d2a-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-08-14T00:00:00+00:00</description>
-        <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0997/compliance/return/56779f69-0d2a-f111-a37d-0050568a2d1a</guid>
+        <title>Monitoring Returns: Contaminated water from oil interceptors</title>
+        <link>https://leap.epa.ie/licence-profile/P0977/compliance/return/1be96b7f-a873-f111-8ed8-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-08-17T00:00:00+00:00</description>
+        <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0977/compliance/return/1be96b7f-a873-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Beyond Compliance</title>
+        <link>https://leap.epa.ie/licence-profile/P0977/compliance/return/1d9deb0c-ef76-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-08-17T00:00:00+00:00</description>
+        <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0977/compliance/return/1d9deb0c-ef76-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: April storm water sample point H</title>
+        <link>https://leap.epa.ie/licence-profile/P0977/compliance/return/3324b696-ec6b-f111-8ed8-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-08-17T00:00:00+00:00</description>
+        <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0977/compliance/return/3324b696-ec6b-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Storm water monitoring</title>
+        <link>https://leap.epa.ie/licence-profile/P0977/compliance/return/51485b76-eb6b-f111-8ed8-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-08-17T00:00:00+00:00</description>
+        <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0977/compliance/return/51485b76-eb6b-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Construction of parting wall to help improves dust control</title>
+        <link>https://leap.epa.ie/licence-profile/P0977/compliance/return/55fd57bb-af73-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-08-17T00:00:00+00:00</description>
+        <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0977/compliance/return/55fd57bb-af73-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Notification of planned works</title>
+        <link>https://leap.epa.ie/licence-profile/D0532/compliance/return/9177d617-2d5f-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-08-17T00:00:00+00:00</description>
+        <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0532/compliance/return/9177d617-2d5f-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: Removing Sample Point from Atex Area 1000</title>
+        <link>https://leap.epa.ie/licence-profile/P1000/compliance/return/94fbee74-f06b-f111-8ed8-005056be4ac2</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-08-17T00:00:00+00:00</description>
+        <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1000/compliance/return/94fbee74-f06b-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: New chill installed with Zero F gases and 75% more efficient</title>
+        <link>https://leap.epa.ie/licence-profile/P1000/compliance/return/9a52c0d5-9274-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-08-17T00:00:00+00:00</description>
+        <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1000/compliance/return/9a52c0d5-9274-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Documentation submission Sligo MD Audit 08th June 2026</title>
+        <link>https://leap.epa.ie/licence-profile/D0014/compliance/return/a0d253d4-6969-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-08-17T00:00:00+00:00</description>
+        <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0014/compliance/return/a0d253d4-6969-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Cleaning and inspection of Septic Tank at Fahan</title>
+        <link>https://leap.epa.ie/licence-profile/D0535/compliance/return/a98b5239-7574-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-08-17T00:00:00+00:00</description>
+        <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0535/compliance/return/a98b5239-7574-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: P0806-01 Surface Water Q2 Certificate of Analysis</title>
+        <link>https://leap.epa.ie/licence-profile/P0806/compliance/return/ad1124bc-eb6e-f111-8ed8-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-08-17T00:00:00+00:00</description>
+        <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0806/compliance/return/ad1124bc-eb6e-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Notifications of Works Convoy Greenfields WWPS</title>
+        <link>https://leap.epa.ie/licence-profile/D0344/compliance/return/ad76e057-cd4e-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-08-17T00:00:00+00:00</description>
+        <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0344/compliance/return/ad76e057-cd4e-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Licensee Public Response - SV34565</title>
+        <link>https://leap.epa.ie/licence-profile/P0579/compliance/return/b118d177-cb31-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-08-17T00:00:00+00:00</description>
+        <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0579/compliance/return/b118d177-cb31-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Approval for collection of bottles and cans for Re-turn charity donation</title>
+        <link>https://leap.epa.ie/licence-profile/P0864/compliance/return/b9795f36-c6c3-f011-a378-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-08-17T00:00:00+00:00</description>
+        <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0864/compliance/return/b9795f36-c6c3-f011-a378-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: storm water sample taken June 2026</title>
+        <link>https://leap.epa.ie/licence-profile/P0977/compliance/return/dfa376ae-7674-f111-8ed8-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-08-17T00:00:00+00:00</description>
+        <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0977/compliance/return/dfa376ae-7674-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: STORM WATER SAMPLE RESULTS</title>
+        <link>https://leap.epa.ie/licence-profile/P0977/compliance/return/eb975dae-ed6b-f111-8ed8-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-08-17T00:00:00+00:00</description>
+        <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0977/compliance/return/eb975dae-ed6b-f111-8ed8-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
