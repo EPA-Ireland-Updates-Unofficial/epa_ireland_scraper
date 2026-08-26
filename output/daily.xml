@@ -3,71 +3,85 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-08-25.csv)</description>
-    <lastBuildDate>Tue, 25 Aug 2026 03:59:02 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Aug 2026 03:59:02 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-08-26.csv)</description>
+    <lastBuildDate>Wed, 26 Aug 2026 03:59:11 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Aug 2026 03:59:11 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: Bypass Log</title>
-        <link>https://leap.epa.ie/licence-profile/P1131/compliance/return/09a3989d-a07b-f111-8ed8-005056be4ac2</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-08-24T00:00:00+00:00</description>
-        <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1131/compliance/return/09a3989d-a07b-f111-8ed8-005056be4ac2</guid>
+        <title>Monitoring Returns: Air emissions complience Q2</title>
+        <link>https://leap.epa.ie/licence-profile/P0666/compliance/return/09a59f1f-fa84-f111-8ed8-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-08-25T00:00:00+00:00</description>
+        <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0666/compliance/return/09a59f1f-fa84-f111-8ed8-005056be4ac2</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Groundwater Monitoring Report 2024</title>
-        <link>https://leap.epa.ie/licence-profile/P0093/compliance/return/15cba00f-5d36-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-08-24T00:00:00+00:00</description>
-        <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0093/compliance/return/15cba00f-5d36-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Licensee Public Response - SV34823</title>
+        <link>https://leap.epa.ie/licence-profile/P0465/compliance/return/1f95c7a2-7ca0-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-08-25T00:00:00+00:00</description>
+        <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0465/compliance/return/1f95c7a2-7ca0-f111-8eda-005056be4ac2</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Response to EPA Report SV31713</title>
-        <link>https://leap.epa.ie/licence-profile/P0093/compliance/return/2c03bf4c-4569-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-08-24T00:00:00+00:00</description>
-        <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0093/compliance/return/2c03bf4c-4569-f011-a373-0050568a2d1a</guid>
+        <title>Requests for Approval and Site Reports: Request to include MCP within scope of licence</title>
+        <link>https://leap.epa.ie/licence-profile/P0007/compliance/return/25228862-1b4a-f111-8ed8-005056be4ac2</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-08-25T00:00:00+00:00</description>
+        <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0007/compliance/return/25228862-1b4a-f111-8ed8-005056be4ac2</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Change out of FID unit at A2-3 Air Emissions Monitoring Point</title>
-        <link>https://leap.epa.ie/licence-profile/P0818/compliance/return/6348a654-3181-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-08-24T00:00:00+00:00</description>
-        <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0818/compliance/return/6348a654-3181-f111-8ed8-005056be4ac2</guid>
+        <title>Monitoring Returns: Q1 2026 Slope Stability</title>
+        <link>https://leap.epa.ie/licence-profile/W0023/compliance/return/3262e999-e300-f111-a37c-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-08-25T00:00:00+00:00</description>
+        <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0023/compliance/return/3262e999-e300-f111-a37c-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: FAO Luke - Update on VOC and Flow Emissions</title>
-        <link>https://leap.epa.ie/licence-profile/W0055/compliance/return/84f06e6f-a17e-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-08-24T00:00:00+00:00</description>
-        <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0055/compliance/return/84f06e6f-a17e-f111-8ed8-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Licensee Public Response - SV33510</title>
+        <link>https://leap.epa.ie/licence-profile/P0023/compliance/return/6f4366fd-d185-f111-8ed9-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-08-25T00:00:00+00:00</description>
+        <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0023/compliance/return/6f4366fd-d185-f111-8ed9-005056be4ac2</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Q1 - 2026 Storm Water Monitoring</title>
-        <link>https://leap.epa.ie/licence-profile/P0058/compliance/return/8fc4ef1a-0376-f111-8ed8-005056be4ac2</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-08-24T00:00:00+00:00</description>
-        <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0058/compliance/return/8fc4ef1a-0376-f111-8ed8-005056be4ac2</guid>
+        <title>Monitoring Returns: Annual Surface monitoring</title>
+        <link>https://leap.epa.ie/licence-profile/W0068/compliance/return/b9239231-dafd-f011-a37c-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-08-25T00:00:00+00:00</description>
+        <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0068/compliance/return/b9239231-dafd-f011-a37c-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Air Emission Point Demolition</title>
-        <link>https://leap.epa.ie/licence-profile/P0023/compliance/return/c6adc584-3a87-f111-8ed9-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-08-24T00:00:00+00:00</description>
-        <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0023/compliance/return/c6adc584-3a87-f111-8ed9-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Aeration upgrade works</title>
+        <link>https://leap.epa.ie/licence-profile/D0384/compliance/return/c9b4c798-c434-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-08-25T00:00:00+00:00</description>
+        <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0384/compliance/return/c9b4c798-c434-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Site Update - Dublin Port Delays</title>
-        <link>https://leap.epa.ie/licence-profile/W0263/compliance/return/cb975857-e96b-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-08-24T00:00:00+00:00</description>
-        <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0263/compliance/return/cb975857-e96b-f111-8ed8-005056be4ac2</guid>
+        <title>Monitoring Returns: June 2026 Monthly Return for P0818-05, Storm Water</title>
+        <link>https://leap.epa.ie/licence-profile/P0818/compliance/return/cb92dc37-1084-f111-8ed8-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-08-25T00:00:00+00:00</description>
+        <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0818/compliance/return/cb92dc37-1084-f111-8ed8-005056be4ac2</guid>
     </item>
     <item>
-        <title>Monitoring Returns: June 2026 Monthly Return for P0818-05, Air Emission Points</title>
-        <link>https://leap.epa.ie/licence-profile/P0818/compliance/return/e601f1ed-0f84-f111-8ed8-005056be4ac2</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-08-24T00:00:00+00:00</description>
-        <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0818/compliance/return/e601f1ed-0f84-f111-8ed8-005056be4ac2</guid>
+        <title>Monitoring Returns: Bi annual 1</title>
+        <link>https://leap.epa.ie/licence-profile/P0666/compliance/return/f20dd9db-f884-f111-8ed8-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-08-25T00:00:00+00:00</description>
+        <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0666/compliance/return/f20dd9db-f884-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Draft Final validation Report &amp; Cert of Completion</title>
+        <link>https://leap.epa.ie/licence-profile/P0505/compliance/return/f75afe52-9d4f-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-08-25T00:00:00+00:00</description>
+        <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0505/compliance/return/f75afe52-9d4f-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: Boiler Replacement</title>
+        <link>https://leap.epa.ie/licence-profile/P0811/compliance/return/fc4d3087-753a-f111-a37d-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-08-25T00:00:00+00:00</description>
+        <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0811/compliance/return/fc4d3087-753a-f111-a37d-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
