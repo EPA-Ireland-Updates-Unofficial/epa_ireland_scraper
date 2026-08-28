@@ -3,22 +3,29 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-08-27.csv)</description>
-    <lastBuildDate>Thu, 27 Aug 2026 04:00:33 +0000</lastBuildDate>
-    <pubDate>Thu, 27 Aug 2026 04:00:33 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-08-28.csv)</description>
+    <lastBuildDate>Fri, 28 Aug 2026 04:09:24 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Aug 2026 04:09:24 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Planned Downtime — SEMP 1 Continuous Monitoring Station (Wednesday 29th July 2026)</title>
-        <link>https://leap.epa.ie/licence-profile/P0778/compliance/return/991e89c9-9b89-f111-8ed9-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-08-24T00:00:00+00:00</description>
-        <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0778/compliance/return/991e89c9-9b89-f111-8ed9-005056be4ac2</guid>
+        <title>Monitoring Returns: Hydrogeological Review 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P1112/compliance/return/09a0b64e-c189-f111-8ed9-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-08-27T00:00:00+00:00</description>
+        <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1112/compliance/return/09a0b64e-c189-f111-8ed9-005056be4ac2</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Results template Q2 2026</title>
-        <link>https://leap.epa.ie/licence-profile/W0024/compliance/return/a5cb75e1-c789-f111-8ed9-005056be4ac2</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-08-24T00:00:00+00:00</description>
-        <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0024/compliance/return/a5cb75e1-c789-f111-8ed9-005056be4ac2</guid>
+        <title>Monitoring Returns: Yellow River Mass Balance</title>
+        <link>https://leap.epa.ie/licence-profile/P0516/compliance/return/1576a500-213f-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-08-27T00:00:00+00:00</description>
+        <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0516/compliance/return/1576a500-213f-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Licensee Public Response - SV35319</title>
+        <link>https://leap.epa.ie/licence-profile/P0519/compliance/return/70cfad62-6080-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-08-27T00:00:00+00:00</description>
+        <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0519/compliance/return/70cfad62-6080-f111-8ed8-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
