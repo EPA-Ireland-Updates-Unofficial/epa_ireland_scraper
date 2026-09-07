@@ -3,43 +3,15 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-09-05.csv)</description>
-    <lastBuildDate>Sun, 06 Sep 2026 03:15:56 +0000</lastBuildDate>
-    <pubDate>Sun, 06 Sep 2026 03:15:56 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-09-07.csv)</description>
+    <lastBuildDate>Mon, 07 Sep 2026 03:18:28 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Sep 2026 03:18:28 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Firewater Risk Management Programme</title>
-        <link>https://leap.epa.ie/licence-profile/P0522/compliance/return/155eb080-1f2c-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-09-04T00:00:00+00:00</description>
+        <title>Complaint: Rochestown, Ronaynes court PS - odours</title>
+        <link>https://leap.epa.ie/licence-profile/D0033/compliance/complaint/0976c33a-6192-f111-8ed9-005056be4ac2</link>
+        <description>Type: Complaint<br>Date: 2026-09-04T00:00:00+00:00</description>
         <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0522/compliance/return/155eb080-1f2c-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Annualy leachate monitoring</title>
-        <link>https://leap.epa.ie/licence-profile/W0002/compliance/return/38d92254-d1fd-f011-a37c-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-09-04T00:00:00+00:00</description>
-        <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0002/compliance/return/38d92254-d1fd-f011-a37c-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Requests for Approval and Site Reports: OEE Approval under C1.4</title>
-        <link>https://leap.epa.ie/licence-profile/P1018/compliance/return/437dc8e2-9a11-f111-a37d-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-09-04T00:00:00+00:00</description>
-        <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1018/compliance/return/437dc8e2-9a11-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV34444</title>
-        <link>https://leap.epa.ie/licence-profile/P0826/compliance/return/5c0a40cc-d976-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-09-04T00:00:00+00:00</description>
-        <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0826/compliance/return/5c0a40cc-d976-f111-8ed8-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Q2 2026 Leachate Report</title>
-        <link>https://leap.epa.ie/licence-profile/W0031/compliance/return/c8e5045d-397c-f111-8ed8-005056be4ac2</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-09-04T00:00:00+00:00</description>
-        <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0031/compliance/return/c8e5045d-397c-f111-8ed8-005056be4ac2</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0033/compliance/complaint/0976c33a-6192-f111-8ed9-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
