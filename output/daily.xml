@@ -3,15 +3,50 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-09-07.csv)</description>
-    <lastBuildDate>Mon, 07 Sep 2026 03:18:28 +0000</lastBuildDate>
-    <pubDate>Mon, 07 Sep 2026 03:18:28 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-09-08.csv)</description>
+    <lastBuildDate>Tue, 08 Sep 2026 03:18:13 +0000</lastBuildDate>
+    <pubDate>Tue, 08 Sep 2026 03:18:13 +0000</pubDate>
     <item>
-        <title>Complaint: Rochestown, Ronaynes court PS - odours</title>
-        <link>https://leap.epa.ie/licence-profile/D0033/compliance/complaint/0976c33a-6192-f111-8ed9-005056be4ac2</link>
-        <description>Type: Complaint<br>Date: 2026-09-04T00:00:00+00:00</description>
-        <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0033/compliance/complaint/0976c33a-6192-f111-8ed9-005056be4ac2</guid>
+        <title>Site Updates/Notifications: 6 month list July 2026</title>
+        <link>https://leap.epa.ie/licence-profile/W0050/compliance/return/0a6e24ad-e481-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-07T00:00:00+00:00</description>
+        <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0050/compliance/return/0a6e24ad-e481-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: LR094645 CI002199</title>
+        <link>https://leap.epa.ie/licence-profile/W0214/compliance/return/1ed1c794-9d2a-f111-a37d-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-09-07T00:00:00+00:00</description>
+        <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0214/compliance/return/1ed1c794-9d2a-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: VOC Survey R1 2026</title>
+        <link>https://leap.epa.ie/licence-profile/W0068/compliance/return/42fb17a5-df4d-f111-8ed8-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-09-07T00:00:00+00:00</description>
+        <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0068/compliance/return/42fb17a5-df4d-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Request for Information</title>
+        <link>https://leap.epa.ie/licence-profile/W0136/compliance/return/674e8568-c57a-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-07T00:00:00+00:00</description>
+        <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0136/compliance/return/674e8568-c57a-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Surface Water COD Monitoring Quarterly 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P0925/compliance/return/d763992b-f090-f111-8ed9-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-09-07T00:00:00+00:00</description>
+        <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0925/compliance/return/d763992b-f090-f111-8ed9-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Annual Surface Water Monthly Report 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P0997/compliance/return/e990bbc1-0d2a-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-09-07T00:00:00+00:00</description>
+        <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0997/compliance/return/e990bbc1-0d2a-f111-a37d-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
