@@ -3,50 +3,43 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-09-11.csv)</description>
-    <lastBuildDate>Fri, 11 Sep 2026 03:15:46 +0000</lastBuildDate>
-    <pubDate>Fri, 11 Sep 2026 03:15:46 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-09-13.csv)</description>
+    <lastBuildDate>Sun, 13 Sep 2026 03:29:18 +0000</lastBuildDate>
+    <pubDate>Sun, 13 Sep 2026 03:29:18 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Proposal for investigation works at SW12</title>
-        <link>https://leap.epa.ie/licence-profile/W0031/compliance/return/4eb7be71-5c69-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-09-10T00:00:00+00:00</description>
-        <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0031/compliance/return/4eb7be71-5c69-f111-8ed8-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Licensee Public Response - SV33607</title>
+        <link>https://leap.epa.ie/licence-profile/W0287/compliance/return/228f8470-e9ad-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-11T00:00:00+00:00</description>
+        <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0287/compliance/return/228f8470-e9ad-f111-8eda-005056be4ac2</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV35527</title>
-        <link>https://leap.epa.ie/licence-profile/P0988/compliance/return/8dcddc1c-ceaa-f111-8eda-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-09-10T00:00:00+00:00</description>
-        <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0988/compliance/return/8dcddc1c-ceaa-f111-8eda-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Licensee Public Response - SV35444</title>
+        <link>https://leap.epa.ie/licence-profile/P1136/compliance/return/5df63844-b291-f111-8ed9-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-11T00:00:00+00:00</description>
+        <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1136/compliance/return/5df63844-b291-f111-8ed9-005056be4ac2</guid>
     </item>
     <item>
-        <title>Monitoring Returns: 2026 VOC Survey at Scotch Corner Landfill Site</title>
-        <link>https://leap.epa.ie/licence-profile/W0020/compliance/return/b862b483-e390-f111-8ed9-005056be4ac2</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-09-10T00:00:00+00:00</description>
-        <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0020/compliance/return/b862b483-e390-f111-8ed9-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Licensee Public Response - SV35337</title>
+        <link>https://leap.epa.ie/licence-profile/P1136/compliance/return/8ff66468-638b-f111-8ed9-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-11T00:00:00+00:00</description>
+        <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1136/compliance/return/8ff66468-638b-f111-8ed9-005056be4ac2</guid>
     </item>
     <item>
-        <title>Complaint: P0301-04, 29/07/2026, Noise</title>
-        <link>https://leap.epa.ie/licence-profile/P0301/compliance/complaint/8474f5d2-3c8b-f111-8ed9-005056be4ac2</link>
-        <description>Type: Complaint<br>Date: 2026-09-09T00:00:00+00:00</description>
-        <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0301/compliance/complaint/8474f5d2-3c8b-f111-8ed9-005056be4ac2</guid>
+        <title>Site Updates/Notifications: SV35444</title>
+        <link>https://leap.epa.ie/licence-profile/P1136/compliance/return/9560d9b8-5f92-f111-8ed9-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-11T00:00:00+00:00</description>
+        <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1136/compliance/return/9560d9b8-5f92-f111-8ed9-005056be4ac2</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV33847</title>
-        <link>https://leap.epa.ie/licence-profile/P0403/compliance/return/001b04ad-8e74-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-09-09T00:00:00+00:00</description>
-        <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0403/compliance/return/001b04ad-8e74-f111-8ed8-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Requests for Approval and Site Reports: Waste Sampling and Analysis Plan at Tradaree Point sludge disposal facility</title>
-        <link>https://leap.epa.ie/licence-profile/W0037/compliance/return/fedbaceb-8e26-f011-a373-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-09-09T00:00:00+00:00</description>
-        <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0037/compliance/return/fedbaceb-8e26-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: SV35337</title>
+        <link>https://leap.epa.ie/licence-profile/P1136/compliance/return/cb5edab9-648b-f111-8ed9-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-11T00:00:00+00:00</description>
+        <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1136/compliance/return/cb5edab9-648b-f111-8ed9-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
