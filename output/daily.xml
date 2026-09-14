@@ -3,43 +3,15 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-09-13.csv)</description>
-    <lastBuildDate>Sun, 13 Sep 2026 03:29:18 +0000</lastBuildDate>
-    <pubDate>Sun, 13 Sep 2026 03:29:18 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-09-14.csv)</description>
+    <lastBuildDate>Mon, 14 Sep 2026 03:22:15 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Sep 2026 03:22:15 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV33607</title>
-        <link>https://leap.epa.ie/licence-profile/W0287/compliance/return/228f8470-e9ad-f111-8eda-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-09-11T00:00:00+00:00</description>
+        <title>Complaint: COM023786 - Web Submission</title>
+        <link>https://leap.epa.ie/licence-profile/D0017/compliance/complaint/0101cc60-c997-f111-8ed9-005056be4ac2</link>
+        <description>Type: Complaint<br>Date: 2026-09-11T00:00:00+00:00</description>
         <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0287/compliance/return/228f8470-e9ad-f111-8eda-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV35444</title>
-        <link>https://leap.epa.ie/licence-profile/P1136/compliance/return/5df63844-b291-f111-8ed9-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-09-11T00:00:00+00:00</description>
-        <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1136/compliance/return/5df63844-b291-f111-8ed9-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV35337</title>
-        <link>https://leap.epa.ie/licence-profile/P1136/compliance/return/8ff66468-638b-f111-8ed9-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-09-11T00:00:00+00:00</description>
-        <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1136/compliance/return/8ff66468-638b-f111-8ed9-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: SV35444</title>
-        <link>https://leap.epa.ie/licence-profile/P1136/compliance/return/9560d9b8-5f92-f111-8ed9-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-09-11T00:00:00+00:00</description>
-        <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1136/compliance/return/9560d9b8-5f92-f111-8ed9-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: SV35337</title>
-        <link>https://leap.epa.ie/licence-profile/P1136/compliance/return/cb5edab9-648b-f111-8ed9-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-09-11T00:00:00+00:00</description>
-        <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1136/compliance/return/cb5edab9-648b-f111-8ed9-005056be4ac2</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0017/compliance/complaint/0101cc60-c997-f111-8ed9-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
