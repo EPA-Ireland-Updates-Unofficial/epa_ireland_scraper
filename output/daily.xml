@@ -3,15 +3,99 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-09-14.csv)</description>
-    <lastBuildDate>Mon, 14 Sep 2026 03:22:15 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Sep 2026 03:22:15 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-09-15.csv)</description>
+    <lastBuildDate>Tue, 15 Sep 2026 03:19:43 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2026 03:19:43 +0000</pubDate>
     <item>
-        <title>Complaint: COM023786 - Web Submission</title>
-        <link>https://leap.epa.ie/licence-profile/D0017/compliance/complaint/0101cc60-c997-f111-8ed9-005056be4ac2</link>
-        <description>Type: Complaint<br>Date: 2026-09-11T00:00:00+00:00</description>
-        <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0017/compliance/complaint/0101cc60-c997-f111-8ed9-005056be4ac2</guid>
+        <title>Monitoring Returns: Q3 GW Monitoring Report for Rampere</title>
+        <link>https://leap.epa.ie/licence-profile/W0066/compliance/return/08719690-b10d-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-09-14T00:00:00+00:00</description>
+        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0066/compliance/return/08719690-b10d-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Q1 2025 Leachate Report Rampere</title>
+        <link>https://leap.epa.ie/licence-profile/W0066/compliance/return/38a46ac3-b00d-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-09-14T00:00:00+00:00</description>
+        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0066/compliance/return/38a46ac3-b00d-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: Project Plan</title>
+        <link>https://leap.epa.ie/licence-profile/P1136/compliance/return/657b729f-638b-f111-8ed9-005056be4ac2</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-09-14T00:00:00+00:00</description>
+        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1136/compliance/return/657b729f-638b-f111-8ed9-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Q1 2025 GW Report</title>
+        <link>https://leap.epa.ie/licence-profile/W0066/compliance/return/676d682a-b00d-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-09-14T00:00:00+00:00</description>
+        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0066/compliance/return/676d682a-b00d-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Fire Water Risk Assessment-Report</title>
+        <link>https://leap.epa.ie/licence-profile/P1199/compliance/return/7530338c-a986-f111-8ed9-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-14T00:00:00+00:00</description>
+        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1199/compliance/return/7530338c-a986-f111-8ed9-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Air emissions reports</title>
+        <link>https://leap.epa.ie/licence-profile/P0015/compliance/return/80f80015-9910-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-09-14T00:00:00+00:00</description>
+        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0015/compliance/return/80f80015-9910-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Quarter 2 2026 Groundwater Monitoring Report</title>
+        <link>https://leap.epa.ie/licence-profile/W0201/compliance/return/874e7ca1-4a8b-f111-8ed9-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-09-14T00:00:00+00:00</description>
+        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0201/compliance/return/874e7ca1-4a8b-f111-8ed9-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: Condition 8.6 WEEE Waste Recovery</title>
+        <link>https://leap.epa.ie/licence-profile/P0015/compliance/return/8ac69e5a-5e95-f111-8ed9-005056be4ac2</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-09-14T00:00:00+00:00</description>
+        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0015/compliance/return/8ac69e5a-5e95-f111-8ed9-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: Project Plan SE-1</title>
+        <link>https://leap.epa.ie/licence-profile/P1136/compliance/return/af2ca3c8-638b-f111-8ed9-005056be4ac2</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-09-14T00:00:00+00:00</description>
+        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1136/compliance/return/af2ca3c8-638b-f111-8ed9-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: Site Visit Section 1.4 Waste Management</title>
+        <link>https://leap.epa.ie/licence-profile/P0566/compliance/return/b3bebf6e-4097-f111-8ed9-005056be4ac2</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-09-14T00:00:00+00:00</description>
+        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0566/compliance/return/b3bebf6e-4097-f111-8ed9-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: SV35337</title>
+        <link>https://leap.epa.ie/licence-profile/P1136/compliance/return/c8471d13-648b-f111-8ed9-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-14T00:00:00+00:00</description>
+        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1136/compliance/return/c8471d13-648b-f111-8ed9-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Q2 2025 GW Monitoring Report</title>
+        <link>https://leap.epa.ie/licence-profile/W0066/compliance/return/cccad4f6-b00d-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-09-14T00:00:00+00:00</description>
+        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0066/compliance/return/cccad4f6-b00d-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: Site Visit Section 1.3 Boundary reduction</title>
+        <link>https://leap.epa.ie/licence-profile/P0566/compliance/return/cfaf71c4-af91-f111-8ed9-005056be4ac2</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-09-14T00:00:00+00:00</description>
+        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0566/compliance/return/cfaf71c4-af91-f111-8ed9-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
