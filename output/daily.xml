@@ -3,36 +3,85 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-09-16.csv)</description>
-    <lastBuildDate>Thu, 17 Sep 2026 04:34:28 +0000</lastBuildDate>
-    <pubDate>Thu, 17 Sep 2026 04:34:28 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-09-18.csv)</description>
+    <lastBuildDate>Fri, 18 Sep 2026 03:24:27 +0000</lastBuildDate>
+    <pubDate>Fri, 18 Sep 2026 03:24:27 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: 2025_Leachate Monitoring Report</title>
-        <link>https://leap.epa.ie/licence-profile/W0053/compliance/return/0a10e4bd-c5fd-f011-a37c-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-09-15T00:00:00+00:00</description>
-        <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0053/compliance/return/0a10e4bd-c5fd-f011-a37c-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Tyrellspass SV34628- Information Requested</title>
+        <link>https://leap.epa.ie/licence-profile/D0099/compliance/return/0857c344-ea58-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-17T00:00:00+00:00</description>
+        <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0099/compliance/return/0857c344-ea58-f111-8ed8-005056be4ac2</guid>
     </item>
     <item>
-        <title>Monitoring Returns: 2025_Landfill Gas Monitoring</title>
-        <link>https://leap.epa.ie/licence-profile/W0053/compliance/return/bfd73549-c6fd-f011-a37c-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-09-15T00:00:00+00:00</description>
-        <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0053/compliance/return/bfd73549-c6fd-f011-a37c-0050568a2d1a</guid>
+        <title>Requests for Approval and Site Reports: Exfiltration test</title>
+        <link>https://leap.epa.ie/licence-profile/W0180/compliance/return/1a8ab867-7986-f111-8ed9-005056be4ac2</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-09-17T00:00:00+00:00</description>
+        <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0180/compliance/return/1a8ab867-7986-f111-8ed9-005056be4ac2</guid>
     </item>
     <item>
-        <title>Monitoring Returns: 2025_Dust Monitoring Report</title>
-        <link>https://leap.epa.ie/licence-profile/W0053/compliance/return/ca55ad0d-c6fd-f011-a37c-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-09-15T00:00:00+00:00</description>
-        <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0053/compliance/return/ca55ad0d-c6fd-f011-a37c-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Biomass Boiler decommissioning</title>
+        <link>https://leap.epa.ie/licence-profile/P0802/compliance/return/30db9f8b-e684-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-17T00:00:00+00:00</description>
+        <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0802/compliance/return/30db9f8b-e684-f111-8ed8-005056be4ac2</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Revised Independent Closure Audit-Greenway</title>
-        <link>https://leap.epa.ie/licence-profile/P0519/compliance/return/cd717f07-5c96-f111-8ed9-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-09-15T00:00:00+00:00</description>
-        <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0519/compliance/return/cd717f07-5c96-f111-8ed9-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Revised Management Structure</title>
+        <link>https://leap.epa.ie/licence-profile/W0289/compliance/return/34b8ba21-687c-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-17T00:00:00+00:00</description>
+        <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0289/compliance/return/34b8ba21-687c-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Dta Requested for SV34627 on 26/05/2026</title>
+        <link>https://leap.epa.ie/licence-profile/D0097/compliance/return/529c7bf5-e158-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-17T00:00:00+00:00</description>
+        <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0097/compliance/return/529c7bf5-e158-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: SV34630 Request - Pumping Station Info</title>
+        <link>https://leap.epa.ie/licence-profile/D0110/compliance/return/8fd5e3d7-ab7a-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-17T00:00:00+00:00</description>
+        <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0110/compliance/return/8fd5e3d7-ab7a-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Application for extension of Prescribed period.</title>
+        <link>https://leap.epa.ie/licence-profile/P1156/compliance/return/b9d88010-fd54-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-17T00:00:00+00:00</description>
+        <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1156/compliance/return/b9d88010-fd54-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Licensee Public Response - SV35259</title>
+        <link>https://leap.epa.ie/licence-profile/P1199/compliance/return/c83472a7-298c-f111-8ed9-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-17T00:00:00+00:00</description>
+        <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1199/compliance/return/c83472a7-298c-f111-8ed9-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: 14 day notification of commencement of dredging and dumping at sea at Foynes port</title>
+        <link>https://leap.epa.ie/licence-profile/S0009/compliance/return/ea7b28e7-7cb2-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-17T00:00:00+00:00</description>
+        <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0009/compliance/return/ea7b28e7-7cb2-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Diesel Tanks Bunding - Evidence</title>
+        <link>https://leap.epa.ie/licence-profile/W0240/compliance/return/fe1e4635-4e87-f111-8ed9-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-17T00:00:00+00:00</description>
+        <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0240/compliance/return/fe1e4635-4e87-f111-8ed9-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Commencement Notice for Loading and Dumping</title>
+        <link>https://leap.epa.ie/licence-profile/S0033/compliance/return/f006292e-c3b1-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-16T00:00:00+00:00</description>
+        <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0033/compliance/return/f006292e-c3b1-f111-8eda-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
