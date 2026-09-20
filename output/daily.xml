@@ -3,15 +3,15 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-09-19.csv)</description>
-    <lastBuildDate>Sat, 19 Sep 2026 04:01:10 +0000</lastBuildDate>
-    <pubDate>Sat, 19 Sep 2026 04:01:10 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-09-20.csv)</description>
+    <lastBuildDate>Sun, 20 Sep 2026 03:58:31 +0000</lastBuildDate>
+    <pubDate>Sun, 20 Sep 2026 03:58:31 +0000</pubDate>
     <item>
-        <title>Incident: Complaint from a member of the public to SDCC that the surface water discharge was discoloured.</title>
-        <link>https://leap.epa.ie/licence-profile/W0192/compliance/incident/ed69099d-c09b-f111-8ed9-005056be4ac2</link>
+        <title>Incident: Dust deposition limit 350 mg/m2/day Result 545.2 mg/m2/day at monitoring point D1 Non-complian</title>
+        <link>https://leap.epa.ie/licence-profile/W0131/compliance/incident/1977c75c-789c-f111-8ed9-005056be4ac2</link>
         <description>Type: Incident<br>Date: 2026-09-17T00:00:00+00:00</description>
         <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0192/compliance/incident/ed69099d-c09b-f111-8ed9-005056be4ac2</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0131/compliance/incident/1977c75c-789c-f111-8ed9-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
