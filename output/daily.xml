@@ -3,15 +3,64 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-09-20.csv)</description>
-    <lastBuildDate>Mon, 21 Sep 2026 03:58:44 +0000</lastBuildDate>
-    <pubDate>Mon, 21 Sep 2026 03:58:44 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-09-22.csv)</description>
+    <lastBuildDate>Tue, 22 Sep 2026 03:16:21 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Sep 2026 03:16:21 +0000</pubDate>
     <item>
-        <title>Incident: Dust deposition limit 350 mg/m2/day Result 545.2 mg/m2/day at monitoring point D1 Non-complian</title>
-        <link>https://leap.epa.ie/licence-profile/W0131/compliance/incident/1977c75c-789c-f111-8ed9-005056be4ac2</link>
-        <description>Type: Incident<br>Date: 2026-09-17T00:00:00+00:00</description>
-        <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0131/compliance/incident/1977c75c-789c-f111-8ed9-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Cladding remedial works</title>
+        <link>https://leap.epa.ie/licence-profile/W0188/compliance/return/3f5698f8-5779-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-21T00:00:00+00:00</description>
+        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0188/compliance/return/3f5698f8-5779-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Monthly Report to the EPA March 2026</title>
+        <link>https://leap.epa.ie/licence-profile/P0390/compliance/return/42aba99e-0534-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-09-21T00:00:00+00:00</description>
+        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0390/compliance/return/42aba99e-0534-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: SV35141 Response</title>
+        <link>https://leap.epa.ie/licence-profile/P0390/compliance/return/48d3c4e4-b17b-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-21T00:00:00+00:00</description>
+        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0390/compliance/return/48d3c4e4-b17b-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Monthly report to the EPA July 2026</title>
+        <link>https://leap.epa.ie/licence-profile/P0390/compliance/return/847af61f-1d90-f111-8ed9-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-09-21T00:00:00+00:00</description>
+        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0390/compliance/return/847af61f-1d90-f111-8ed9-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Request for SOP Documentation, Emergency Procedures &amp; SW1 Trigger Levels</title>
+        <link>https://leap.epa.ie/licence-profile/P0390/compliance/return/93713cca-a72e-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-21T00:00:00+00:00</description>
+        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0390/compliance/return/93713cca-a72e-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Licensee Public Response - SV35141</title>
+        <link>https://leap.epa.ie/licence-profile/P0390/compliance/return/b882a3e0-9073-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-21T00:00:00+00:00</description>
+        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0390/compliance/return/b882a3e0-9073-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Request for SOP Documentation, Emergency Procedures &amp; SW1 Trigger Levels</title>
+        <link>https://leap.epa.ie/licence-profile/P0390/compliance/return/d5270dd7-a72e-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-21T00:00:00+00:00</description>
+        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0390/compliance/return/d5270dd7-a72e-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Request for SOP Documentation, Emergency Procedures &amp; SW1 Trigger Levels</title>
+        <link>https://leap.epa.ie/licence-profile/P0390/compliance/return/da0806b4-a72e-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-21T00:00:00+00:00</description>
+        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0390/compliance/return/da0806b4-a72e-f111-a37d-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
