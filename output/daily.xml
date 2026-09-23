@@ -3,64 +3,204 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-09-22.csv)</description>
-    <lastBuildDate>Tue, 22 Sep 2026 03:16:21 +0000</lastBuildDate>
-    <pubDate>Tue, 22 Sep 2026 03:16:21 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-09-23.csv)</description>
+    <lastBuildDate>Wed, 23 Sep 2026 03:51:10 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Sep 2026 03:51:10 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Cladding remedial works</title>
-        <link>https://leap.epa.ie/licence-profile/W0188/compliance/return/3f5698f8-5779-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-09-21T00:00:00+00:00</description>
-        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0188/compliance/return/3f5698f8-5779-f111-8ed8-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Response to Site Specific Issue 1.3</title>
+        <link>https://leap.epa.ie/licence-profile/P0445/compliance/return/0d510669-c573-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-22T00:00:00+00:00</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0445/compliance/return/0d510669-c573-f111-8ed8-005056be4ac2</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Monthly Report to the EPA March 2026</title>
-        <link>https://leap.epa.ie/licence-profile/P0390/compliance/return/42aba99e-0534-f111-a37d-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-09-21T00:00:00+00:00</description>
-        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0390/compliance/return/42aba99e-0534-f111-a37d-0050568a2d1a</guid>
+        <title>Monitoring Returns: Schedule C: Control &amp; Monitoring C.4 Waste Monitoring</title>
+        <link>https://leap.epa.ie/licence-profile/P0010/compliance/return/157bc267-0f2d-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-09-22T00:00:00+00:00</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0010/compliance/return/157bc267-0f2d-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: SV35141 Response</title>
-        <link>https://leap.epa.ie/licence-profile/P0390/compliance/return/48d3c4e4-b17b-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-09-21T00:00:00+00:00</description>
-        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0390/compliance/return/48d3c4e4-b17b-f111-8ed8-005056be4ac2</guid>
+        <title>Monitoring Returns: storm water sample taken 19th June</title>
+        <link>https://leap.epa.ie/licence-profile/P1000/compliance/return/18f8e766-7b74-f111-8ed8-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-09-22T00:00:00+00:00</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1000/compliance/return/18f8e766-7b74-f111-8ed8-005056be4ac2</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Monthly report to the EPA July 2026</title>
-        <link>https://leap.epa.ie/licence-profile/P0390/compliance/return/847af61f-1d90-f111-8ed9-005056be4ac2</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-09-21T00:00:00+00:00</description>
-        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0390/compliance/return/847af61f-1d90-f111-8ed9-005056be4ac2</guid>
+        <title>Monitoring Returns: BORE HOLE SAMPLES TAKEN IN MAY 26</title>
+        <link>https://leap.epa.ie/licence-profile/P1000/compliance/return/1e3db375-ee6b-f111-8ed8-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-09-22T00:00:00+00:00</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1000/compliance/return/1e3db375-ee6b-f111-8ed8-005056be4ac2</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Request for SOP Documentation, Emergency Procedures &amp; SW1 Trigger Levels</title>
-        <link>https://leap.epa.ie/licence-profile/P0390/compliance/return/93713cca-a72e-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-09-21T00:00:00+00:00</description>
-        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0390/compliance/return/93713cca-a72e-f111-a37d-0050568a2d1a</guid>
+        <title>Monitoring Returns: Schedule C: Control &amp; Monitoring C1.1 Control of Emissions to Air (Boilers)</title>
+        <link>https://leap.epa.ie/licence-profile/P0010/compliance/return/2bb7030f-0d29-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-09-22T00:00:00+00:00</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0010/compliance/return/2bb7030f-0d29-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV35141</title>
-        <link>https://leap.epa.ie/licence-profile/P0390/compliance/return/b882a3e0-9073-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-09-21T00:00:00+00:00</description>
-        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0390/compliance/return/b882a3e0-9073-f111-8ed8-005056be4ac2</guid>
+        <title>Monitoring Returns: Storm water sample returns</title>
+        <link>https://leap.epa.ie/licence-profile/P1000/compliance/return/419d24b1-7b74-f111-8ed8-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-09-22T00:00:00+00:00</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1000/compliance/return/419d24b1-7b74-f111-8ed8-005056be4ac2</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Request for SOP Documentation, Emergency Procedures &amp; SW1 Trigger Levels</title>
-        <link>https://leap.epa.ie/licence-profile/P0390/compliance/return/d5270dd7-a72e-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-09-21T00:00:00+00:00</description>
-        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0390/compliance/return/d5270dd7-a72e-f111-a37d-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: EPA Site Visit Repsonse 19.02.2026</title>
+        <link>https://leap.epa.ie/licence-profile/P0445/compliance/return/45d16fdf-2855-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-22T00:00:00+00:00</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0445/compliance/return/45d16fdf-2855-f111-8ed8-005056be4ac2</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Request for SOP Documentation, Emergency Procedures &amp; SW1 Trigger Levels</title>
-        <link>https://leap.epa.ie/licence-profile/P0390/compliance/return/da0806b4-a72e-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-09-21T00:00:00+00:00</description>
-        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0390/compliance/return/da0806b4-a72e-f111-a37d-0050568a2d1a</guid>
+        <title>Monitoring Returns: Q2 2026 Effluent Daily and Monthly reports</title>
+        <link>https://leap.epa.ie/licence-profile/P0061/compliance/return/4a45e167-307c-f111-8ed8-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-09-22T00:00:00+00:00</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0061/compliance/return/4a45e167-307c-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Response to SV34503, Issue 1.3</title>
+        <link>https://leap.epa.ie/licence-profile/P0445/compliance/return/4adcfa62-cd6f-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-22T00:00:00+00:00</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0445/compliance/return/4adcfa62-cd6f-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Licensee Public Response - SV34503</title>
+        <link>https://leap.epa.ie/licence-profile/P0445/compliance/return/629ab1f1-bf6f-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-22T00:00:00+00:00</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0445/compliance/return/629ab1f1-bf6f-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Waste Storage Plan</title>
+        <link>https://leap.epa.ie/licence-profile/W0082/compliance/return/660533e3-5575-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-22T00:00:00+00:00</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0082/compliance/return/660533e3-5575-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Licensee Public Response - SV34395</title>
+        <link>https://leap.epa.ie/licence-profile/P0010/compliance/return/6a333243-a7a0-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-22T00:00:00+00:00</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0010/compliance/return/6a333243-a7a0-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Qtr1 2026 Storm Water Diverts <30mins</title>
+        <link>https://leap.epa.ie/licence-profile/P0010/compliance/return/71a366b5-673e-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-09-22T00:00:00+00:00</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0010/compliance/return/71a366b5-673e-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Schedule C: Control &amp; Monitoring: C3.2 Sewer</title>
+        <link>https://leap.epa.ie/licence-profile/P0010/compliance/return/785d3672-1a2d-f111-a37d-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-09-22T00:00:00+00:00</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0010/compliance/return/785d3672-1a2d-f111-a37d-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: P0072-04 Q1+Q2 2026 Emission Monitoring A2-1; A2-2; A2-3</title>
+        <link>https://leap.epa.ie/licence-profile/P0072/compliance/return/7cc17a3e-7469-f111-8ed8-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-09-22T00:00:00+00:00</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0072/compliance/return/7cc17a3e-7469-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: storm water sample as required</title>
+        <link>https://leap.epa.ie/licence-profile/P1000/compliance/return/93bc16b8-ee6b-f111-8ed8-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-09-22T00:00:00+00:00</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1000/compliance/return/93bc16b8-ee6b-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Licensee Public Response - SV35619</title>
+        <link>https://leap.epa.ie/licence-profile/P0856/compliance/return/954b00fe-14ac-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-22T00:00:00+00:00</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0856/compliance/return/954b00fe-14ac-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Q2 2026 SW Results</title>
+        <link>https://leap.epa.ie/licence-profile/P0061/compliance/return/99921eaa-307c-f111-8ed8-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-09-22T00:00:00+00:00</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0061/compliance/return/99921eaa-307c-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: 2025 Groundwater Monitoring Report - update</title>
+        <link>https://leap.epa.ie/licence-profile/W0082/compliance/return/a6c7997f-7d5b-f111-8ed8-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-09-22T00:00:00+00:00</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0082/compliance/return/a6c7997f-7d5b-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Response to SV34503, issue 1.2</title>
+        <link>https://leap.epa.ie/licence-profile/P0445/compliance/return/a7947831-c573-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-22T00:00:00+00:00</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0445/compliance/return/a7947831-c573-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Qtr2 2026 Storm Water Diverts <30mins</title>
+        <link>https://leap.epa.ie/licence-profile/P0010/compliance/return/ae7b1e62-0385-f111-8ed8-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-09-22T00:00:00+00:00</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0010/compliance/return/ae7b1e62-0385-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Planned Shut down GT Borescope and inspection</title>
+        <link>https://leap.epa.ie/licence-profile/P0700/compliance/return/b8c8c145-9291-f111-8ed9-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-22T00:00:00+00:00</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0700/compliance/return/b8c8c145-9291-f111-8ed9-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Licensee Public Response - SV35423</title>
+        <link>https://leap.epa.ie/licence-profile/W0082/compliance/return/bca19592-1997-f111-8ed9-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-22T00:00:00+00:00</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0082/compliance/return/bca19592-1997-f111-8ed9-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: SV34312 Corrective Actions</title>
+        <link>https://leap.epa.ie/licence-profile/P1042/compliance/return/c034eba5-ff90-f111-8ed9-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-22T00:00:00+00:00</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1042/compliance/return/c034eba5-ff90-f111-8ed9-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: STROM WATER LAB REPORT FOR SAMPLE TAKEN IN MAY 26</title>
+        <link>https://leap.epa.ie/licence-profile/P1000/compliance/return/cc9af53d-ef6b-f111-8ed8-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-09-22T00:00:00+00:00</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1000/compliance/return/cc9af53d-ef6b-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Bio Tower 1 and 2 Back into service request</title>
+        <link>https://leap.epa.ie/licence-profile/P1051/compliance/return/ce865c88-7b7f-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-22T00:00:00+00:00</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1051/compliance/return/ce865c88-7b7f-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: 2025 Odour Monitoring Report</title>
+        <link>https://leap.epa.ie/licence-profile/W0082/compliance/return/e6a8bfe9-fffd-f011-a37c-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-09-22T00:00:00+00:00</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0082/compliance/return/e6a8bfe9-fffd-f011-a37c-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: STROM WATER REPORT</title>
+        <link>https://leap.epa.ie/licence-profile/P1000/compliance/return/f38f9be9-ee6b-f111-8ed8-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-09-22T00:00:00+00:00</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1000/compliance/return/f38f9be9-ee6b-f111-8ed8-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
