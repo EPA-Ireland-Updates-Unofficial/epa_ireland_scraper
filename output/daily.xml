@@ -3,36 +3,29 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-09-25.csv)</description>
-    <lastBuildDate>Fri, 25 Sep 2026 04:13:28 +0000</lastBuildDate>
-    <pubDate>Fri, 25 Sep 2026 04:13:28 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-09-26.csv)</description>
+    <lastBuildDate>Sat, 26 Sep 2026 04:05:35 +0000</lastBuildDate>
+    <pubDate>Sat, 26 Sep 2026 04:05:35 +0000</pubDate>
     <item>
-        <title>Requests for Approval and Site Reports: Drum Screen Relocation</title>
-        <link>https://leap.epa.ie/licence-profile/P0595/compliance/return/d1fd5542-5049-f111-8ed8-005056be4ac2</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-09-24T00:00:00+00:00</description>
-        <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0595/compliance/return/d1fd5542-5049-f111-8ed8-005056be4ac2</guid>
+        <title>Monitoring Returns: Bulmers 2026 Q2 groundwater report</title>
+        <link>https://leap.epa.ie/licence-profile/P0443/compliance/return/00ef3077-3287-f111-8ed9-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-09-25T00:00:00+00:00</description>
+        <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0443/compliance/return/00ef3077-3287-f111-8ed9-005056be4ac2</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: SV34615 Site Visit Documentation Request</title>
-        <link>https://leap.epa.ie/licence-profile/D0033/compliance/return/d1385186-bf9f-f111-8ed9-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-09-23T00:00:00+00:00</description>
-        <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0033/compliance/return/d1385186-bf9f-f111-8ed9-005056be4ac2</guid>
+        <title>Requests for Approval and Site Reports: Emergency Preparedness Response Plan</title>
+        <link>https://leap.epa.ie/licence-profile/P1143/compliance/return/04dfb4ca-9ea0-f111-8eda-005056be4ac2</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-09-25T00:00:00+00:00</description>
+        <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1143/compliance/return/04dfb4ca-9ea0-f111-8eda-005056be4ac2</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Response to SV35350</title>
-        <link>https://leap.epa.ie/licence-profile/P0595/compliance/return/52d39e5e-d19f-f111-8ed9-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-09-22T00:00:00+00:00</description>
-        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0595/compliance/return/52d39e5e-d19f-f111-8ed9-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: EPA Site Visit Report SV34389</title>
-        <link>https://leap.epa.ie/licence-profile/P0792/compliance/return/712d943a-ab9f-f111-8ed9-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-09-22T00:00:00+00:00</description>
-        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0792/compliance/return/712d943a-ab9f-f111-8ed9-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Q4 Ploughing commencement notice</title>
+        <link>https://leap.epa.ie/licence-profile/S0012/compliance/return/23c35372-fab8-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-25T00:00:00+00:00</description>
+        <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0012/compliance/return/23c35372-fab8-f111-8eda-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
