@@ -3,29 +3,15 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-09-26.csv)</description>
-    <lastBuildDate>Sun, 27 Sep 2026 04:04:30 +0000</lastBuildDate>
-    <pubDate>Sun, 27 Sep 2026 04:04:30 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-09-28.csv)</description>
+    <lastBuildDate>Mon, 28 Sep 2026 04:01:36 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Sep 2026 04:01:36 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: Bulmers 2026 Q2 groundwater report</title>
-        <link>https://leap.epa.ie/licence-profile/P0443/compliance/return/00ef3077-3287-f111-8ed9-005056be4ac2</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-09-25T00:00:00+00:00</description>
-        <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0443/compliance/return/00ef3077-3287-f111-8ed9-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Requests for Approval and Site Reports: Emergency Preparedness Response Plan</title>
-        <link>https://leap.epa.ie/licence-profile/P1143/compliance/return/04dfb4ca-9ea0-f111-8eda-005056be4ac2</link>
+        <title>Requests for Approval and Site Reports: Leitrim County Council a requesting approval for the design of the manhole/sump to be constrcted at</title>
+        <link>https://leap.epa.ie/licence-profile/W0065/compliance/return/727ef347-d5a2-f111-8eda-005056be4ac2</link>
         <description>Type: Requests for Approval and Site Reports<br>Date: 2026-09-25T00:00:00+00:00</description>
         <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1143/compliance/return/04dfb4ca-9ea0-f111-8eda-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Q4 Ploughing commencement notice</title>
-        <link>https://leap.epa.ie/licence-profile/S0012/compliance/return/23c35372-fab8-f111-8eda-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-09-25T00:00:00+00:00</description>
-        <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0012/compliance/return/23c35372-fab8-f111-8eda-005056be4ac2</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0065/compliance/return/727ef347-d5a2-f111-8eda-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
