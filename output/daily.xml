@@ -3,29 +3,50 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-09-30.csv)</description>
-    <lastBuildDate>Wed, 30 Sep 2026 04:03:30 +0000</lastBuildDate>
-    <pubDate>Wed, 30 Sep 2026 04:03:30 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-10-01.csv)</description>
+    <lastBuildDate>Thu, 01 Oct 2026 04:08:50 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Oct 2026 04:08:50 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Waste Storage Plan</title>
-        <link>https://leap.epa.ie/licence-profile/P1199/compliance/return/065362ac-658a-f111-8ed9-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-09-29T00:00:00+00:00</description>
-        <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1199/compliance/return/065362ac-658a-f111-8ed9-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Update on the commencement day</title>
+        <link>https://leap.epa.ie/licence-profile/P1033/compliance/return/0c06c022-428b-f111-8ed9-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-30T00:00:00+00:00</description>
+        <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1033/compliance/return/0c06c022-428b-f111-8ed9-005056be4ac2</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Commencement Notice</title>
-        <link>https://leap.epa.ie/licence-profile/P1199/compliance/return/73c46e74-c673-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-09-29T00:00:00+00:00</description>
-        <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1199/compliance/return/73c46e74-c673-f111-8ed8-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Response to bund inspection results</title>
+        <link>https://leap.epa.ie/licence-profile/P0608/compliance/return/9aedcf59-01a2-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-30T00:00:00+00:00</description>
+        <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0608/compliance/return/9aedcf59-01a2-f111-8eda-005056be4ac2</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV34424</title>
-        <link>https://leap.epa.ie/licence-profile/P0831/compliance/return/bf529452-49bb-f111-8eda-005056be4ac2</link>
+        <title>Site Updates/Notifications: Update on Commencement Date</title>
+        <link>https://leap.epa.ie/licence-profile/P1033/compliance/return/9c3c9f50-6ca1-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-30T00:00:00+00:00</description>
+        <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1033/compliance/return/9c3c9f50-6ca1-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Ambient Dust Reports Jan - Jun 2026</title>
+        <link>https://leap.epa.ie/licence-profile/P0027/compliance/return/aff9178f-959c-f111-8ed9-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-09-30T00:00:00+00:00</description>
+        <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0027/compliance/return/aff9178f-959c-f111-8ed9-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Response SV32729</title>
+        <link>https://leap.epa.ie/licence-profile/P0040/compliance/return/f1d9e305-579d-f111-8ed9-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-09-30T00:00:00+00:00</description>
+        <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0040/compliance/return/f1d9e305-579d-f111-8ed9-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Site Visit Response to SV35500</title>
+        <link>https://leap.epa.ie/licence-profile/W0081/compliance/return/0ce1447e-52a5-f111-8eda-005056be4ac2</link>
         <description>Type: Site Updates/Notifications<br>Date: 2026-09-29T00:00:00+00:00</description>
         <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0831/compliance/return/bf529452-49bb-f111-8eda-005056be4ac2</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0081/compliance/return/0ce1447e-52a5-f111-8eda-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
