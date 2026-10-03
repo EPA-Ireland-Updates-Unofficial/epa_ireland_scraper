@@ -3,43 +3,50 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-10-02.csv)</description>
-    <lastBuildDate>Fri, 02 Oct 2026 04:03:23 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Oct 2026 04:03:23 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-10-03.csv)</description>
+    <lastBuildDate>Sat, 03 Oct 2026 04:02:21 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Oct 2026 04:02:21 +0000</pubDate>
     <item>
-        <title>Requests for Approval and Site Reports: Bund Integrity Test Report 2026</title>
-        <link>https://leap.epa.ie/licence-profile/W0044/compliance/return/8e8e5847-24a1-f111-8eda-005056be4ac2</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-10-01T00:00:00+00:00</description>
-        <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0044/compliance/return/8e8e5847-24a1-f111-8eda-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Licensee Public Response - SV34587</title>
+        <link>https://leap.epa.ie/licence-profile/P1214/compliance/return/1b3c64a2-1bbc-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-10-02T00:00:00+00:00</description>
+        <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1214/compliance/return/1b3c64a2-1bbc-f111-8eda-005056be4ac2</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Q2 2026 Emissions to Air Stack Testing Reports</title>
-        <link>https://leap.epa.ie/licence-profile/W0232/compliance/return/af75f682-be9f-f111-8ed9-005056be4ac2</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-10-01T00:00:00+00:00</description>
-        <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0232/compliance/return/af75f682-be9f-f111-8ed9-005056be4ac2</guid>
+        <title>Site Updates/Notifications: W0293-01 - Waste Acceptance Procedure</title>
+        <link>https://leap.epa.ie/licence-profile/W0293/compliance/return/46ac55bc-f71e-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-10-02T00:00:00+00:00</description>
+        <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0293/compliance/return/46ac55bc-f71e-f111-a37d-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV33104</title>
-        <link>https://leap.epa.ie/licence-profile/P0966/compliance/return/ee5ee98e-15bc-f111-8eda-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-10-01T00:00:00+00:00</description>
-        <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0966/compliance/return/ee5ee98e-15bc-f111-8eda-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Licensee Public Response - SV34458</title>
+        <link>https://leap.epa.ie/licence-profile/W0053/compliance/return/b3b105db-d381-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-10-02T00:00:00+00:00</description>
+        <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0053/compliance/return/b3b105db-d381-f111-8ed8-005056be4ac2</guid>
     </item>
     <item>
-        <title>Requests for Approval and Site Reports: 2026 Noise Monitoring Location Change Request</title>
-        <link>https://leap.epa.ie/licence-profile/W0004/compliance/return/fa98353b-14a6-f111-8eda-005056be4ac2</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-10-01T00:00:00+00:00</description>
-        <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0004/compliance/return/fa98353b-14a6-f111-8eda-005056be4ac2</guid>
+        <title>Monitoring Returns: 2025_ground water monitoring report</title>
+        <link>https://leap.epa.ie/licence-profile/W0053/compliance/return/eea7ade5-c4fd-f011-a37c-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-10-02T00:00:00+00:00</description>
+        <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0053/compliance/return/eea7ade5-c4fd-f011-a37c-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Follow up to the site visit on 25th August 2026</title>
-        <link>https://leap.epa.ie/licence-profile/W0183/compliance/return/efeabe8f-f1a5-f111-8eda-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-09-29T00:00:00+00:00</description>
-        <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0183/compliance/return/efeabe8f-f1a5-f111-8eda-005056be4ac2</guid>
+        <title>Monitoring Returns: 2025_Surfacewater Monitoring Report</title>
+        <link>https://leap.epa.ie/licence-profile/W0053/compliance/return/ef5cd05c-c5fd-f011-a37c-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-10-02T00:00:00+00:00</description>
+        <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0053/compliance/return/ef5cd05c-c5fd-f011-a37c-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: GW well survey</title>
+        <link>https://leap.epa.ie/licence-profile/W0293/compliance/return/ff8a8e10-b023-f111-a37d-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-10-02T00:00:00+00:00</description>
+        <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0293/compliance/return/ff8a8e10-b023-f111-a37d-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
