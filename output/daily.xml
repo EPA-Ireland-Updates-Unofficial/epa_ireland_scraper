@@ -3,50 +3,15 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-10-03.csv)</description>
-    <lastBuildDate>Sat, 03 Oct 2026 04:02:21 +0000</lastBuildDate>
-    <pubDate>Sat, 03 Oct 2026 04:02:21 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-10-04.csv)</description>
+    <lastBuildDate>Sun, 04 Oct 2026 04:03:53 +0000</lastBuildDate>
+    <pubDate>Sun, 04 Oct 2026 04:03:53 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV34587</title>
-        <link>https://leap.epa.ie/licence-profile/P1214/compliance/return/1b3c64a2-1bbc-f111-8eda-005056be4ac2</link>
+        <title>Site Updates/Notifications: Licensee Public Response - SV34361</title>
+        <link>https://leap.epa.ie/licence-profile/P0052/compliance/return/b1ec6901-23bb-f111-8eda-005056be4ac2</link>
         <description>Type: Site Updates/Notifications<br>Date: 2026-10-02T00:00:00+00:00</description>
         <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1214/compliance/return/1b3c64a2-1bbc-f111-8eda-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: W0293-01 - Waste Acceptance Procedure</title>
-        <link>https://leap.epa.ie/licence-profile/W0293/compliance/return/46ac55bc-f71e-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-10-02T00:00:00+00:00</description>
-        <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0293/compliance/return/46ac55bc-f71e-f111-a37d-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV34458</title>
-        <link>https://leap.epa.ie/licence-profile/W0053/compliance/return/b3b105db-d381-f111-8ed8-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-10-02T00:00:00+00:00</description>
-        <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0053/compliance/return/b3b105db-d381-f111-8ed8-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: 2025_ground water monitoring report</title>
-        <link>https://leap.epa.ie/licence-profile/W0053/compliance/return/eea7ade5-c4fd-f011-a37c-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-10-02T00:00:00+00:00</description>
-        <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0053/compliance/return/eea7ade5-c4fd-f011-a37c-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: 2025_Surfacewater Monitoring Report</title>
-        <link>https://leap.epa.ie/licence-profile/W0053/compliance/return/ef5cd05c-c5fd-f011-a37c-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-10-02T00:00:00+00:00</description>
-        <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0053/compliance/return/ef5cd05c-c5fd-f011-a37c-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: GW well survey</title>
-        <link>https://leap.epa.ie/licence-profile/W0293/compliance/return/ff8a8e10-b023-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-10-02T00:00:00+00:00</description>
-        <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0293/compliance/return/ff8a8e10-b023-f111-a37d-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0052/compliance/return/b1ec6901-23bb-f111-8eda-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
