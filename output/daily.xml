@@ -3,15 +3,29 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-10-04.csv)</description>
-    <lastBuildDate>Mon, 05 Oct 2026 04:07:02 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Oct 2026 04:07:02 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-10-06.csv)</description>
+    <lastBuildDate>Tue, 06 Oct 2026 04:08:37 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Oct 2026 04:08:37 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV34361</title>
-        <link>https://leap.epa.ie/licence-profile/P0052/compliance/return/b1ec6901-23bb-f111-8eda-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-10-02T00:00:00+00:00</description>
-        <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0052/compliance/return/b1ec6901-23bb-f111-8eda-005056be4ac2</guid>
+        <title>Requests for Approval and Site Reports: Boundary change on site</title>
+        <link>https://leap.epa.ie/licence-profile/P1197/compliance/return/297518b2-db79-f111-8ed8-005056be4ac2</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-10-05T00:00:00+00:00</description>
+        <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1197/compliance/return/297518b2-db79-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Quarterly Monitoring Report Q2 2026 - Groundwater results</title>
+        <link>https://leap.epa.ie/licence-profile/P0035/compliance/return/2baa1a55-cc7e-f111-8ed8-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-10-05T00:00:00+00:00</description>
+        <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0035/compliance/return/2baa1a55-cc7e-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: Firewater Retention Report</title>
+        <link>https://leap.epa.ie/licence-profile/P0739/compliance/return/85250a9b-8786-f111-8ed9-005056be4ac2</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-10-05T00:00:00+00:00</description>
+        <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0739/compliance/return/85250a9b-8786-f111-8ed9-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
