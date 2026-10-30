@@ -3,15 +3,36 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-10-29.csv)</description>
-    <lastBuildDate>Thu, 29 Oct 2026 04:11:52 +0000</lastBuildDate>
-    <pubDate>Thu, 29 Oct 2026 04:11:52 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-10-30.csv)</description>
+    <lastBuildDate>Fri, 30 Oct 2026 03:59:21 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Oct 2026 03:59:21 +0000</pubDate>
     <item>
-        <title>Requests for Approval and Site Reports: Condition C.3.2. Monitoring of Emissions to Sewer – No Evaporative Cooling Water Effluent at Site P-</title>
-        <link>https://leap.epa.ie/licence-profile/P1171/compliance/return/3be90293-3bbb-f111-8eda-005056be4ac2</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-10-28T00:00:00+00:00</description>
-        <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1171/compliance/return/3be90293-3bbb-f111-8eda-005056be4ac2</guid>
+        <title>EPA Initiated Correspondence: </title>
+        <link>https://leap.epa.ie/licence-profile/P0017/compliance/epa-correspondence/54a6eb24-49bb-f111-8eda-005056be4ac2</link>
+        <description>Type: EPA Initiated Correspondence<br>Date: 2026-10-30T00:00:00+00:00</description>
+        <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0017/compliance/epa-correspondence/54a6eb24-49bb-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>EPA Initiated Correspondence: </title>
+        <link>https://leap.epa.ie/licence-profile/P0052/compliance/epa-correspondence/5fc78a01-4cbb-f111-8eda-005056be4ac2</link>
+        <description>Type: EPA Initiated Correspondence<br>Date: 2026-10-30T00:00:00+00:00</description>
+        <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0052/compliance/epa-correspondence/5fc78a01-4cbb-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: R2 2026 Flare Emissions Reports for Scotch Corner Landfill W0020-02</title>
+        <link>https://leap.epa.ie/licence-profile/W0020/compliance/return/375cdf05-21a2-f111-8eda-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-10-29T00:00:00+00:00</description>
+        <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0020/compliance/return/375cdf05-21a2-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: 2025 Annual Surface Water Report</title>
+        <link>https://leap.epa.ie/licence-profile/W0070/compliance/return/8c50caa3-f5fd-f011-a37c-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-10-29T00:00:00+00:00</description>
+        <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0070/compliance/return/8c50caa3-f5fd-f011-a37c-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
