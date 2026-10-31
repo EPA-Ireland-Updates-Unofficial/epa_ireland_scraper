@@ -3,36 +3,22 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-10-30.csv)</description>
-    <lastBuildDate>Fri, 30 Oct 2026 03:59:21 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Oct 2026 03:59:21 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-10-31.csv)</description>
+    <lastBuildDate>Sat, 31 Oct 2026 03:54:47 +0000</lastBuildDate>
+    <pubDate>Sat, 31 Oct 2026 03:54:47 +0000</pubDate>
     <item>
-        <title>EPA Initiated Correspondence: </title>
-        <link>https://leap.epa.ie/licence-profile/P0017/compliance/epa-correspondence/54a6eb24-49bb-f111-8eda-005056be4ac2</link>
-        <description>Type: EPA Initiated Correspondence<br>Date: 2026-10-30T00:00:00+00:00</description>
+        <title>Monitoring Returns: Annual Odour Assessment Report 2026</title>
+        <link>https://leap.epa.ie/licence-profile/W0044/compliance/return/7aa8d365-2496-f111-8ed9-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-10-30T00:00:00+00:00</description>
         <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0017/compliance/epa-correspondence/54a6eb24-49bb-f111-8eda-005056be4ac2</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0044/compliance/return/7aa8d365-2496-f111-8ed9-005056be4ac2</guid>
     </item>
     <item>
-        <title>EPA Initiated Correspondence: </title>
-        <link>https://leap.epa.ie/licence-profile/P0052/compliance/epa-correspondence/5fc78a01-4cbb-f111-8eda-005056be4ac2</link>
-        <description>Type: EPA Initiated Correspondence<br>Date: 2026-10-30T00:00:00+00:00</description>
-        <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0052/compliance/epa-correspondence/5fc78a01-4cbb-f111-8eda-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: R2 2026 Flare Emissions Reports for Scotch Corner Landfill W0020-02</title>
-        <link>https://leap.epa.ie/licence-profile/W0020/compliance/return/375cdf05-21a2-f111-8eda-005056be4ac2</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-10-29T00:00:00+00:00</description>
+        <title>Site Updates/Notifications: SV34365 Section 3.1 - Response</title>
+        <link>https://leap.epa.ie/licence-profile/W0036/compliance/return/e856819c-ddbc-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-10-29T00:00:00+00:00</description>
         <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0020/compliance/return/375cdf05-21a2-f111-8eda-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: 2025 Annual Surface Water Report</title>
-        <link>https://leap.epa.ie/licence-profile/W0070/compliance/return/8c50caa3-f5fd-f011-a37c-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-10-29T00:00:00+00:00</description>
-        <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0070/compliance/return/8c50caa3-f5fd-f011-a37c-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0036/compliance/return/e856819c-ddbc-f111-8eda-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
