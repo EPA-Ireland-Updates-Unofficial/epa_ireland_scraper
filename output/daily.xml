@@ -3,15 +3,99 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-11-01.csv)</description>
-    <lastBuildDate>Mon, 02 Nov 2026 03:54:17 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Nov 2026 03:54:17 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-11-03.csv)</description>
+    <lastBuildDate>Tue, 03 Nov 2026 03:54:12 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Nov 2026 03:54:12 +0000</pubDate>
     <item>
-        <title>Incident: Trigger Level Reached</title>
-        <link>https://leap.epa.ie/licence-profile/W0151/compliance/incident/e44b45da-7dbd-f111-8eda-005056be4ac2</link>
-        <description>Type: Incident<br>Date: 2026-10-30T00:00:00+00:00</description>
-        <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0151/compliance/incident/e44b45da-7dbd-f111-8eda-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Response to Site Visit non compliances and observations</title>
+        <link>https://leap.epa.ie/licence-profile/P0051/compliance/return/075bc88f-917c-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-02T00:00:00+00:00</description>
+        <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0051/compliance/return/075bc88f-917c-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Response to SI Report SV 35660</title>
+        <link>https://leap.epa.ie/licence-profile/P0397/compliance/return/15682da9-d4b5-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-02T00:00:00+00:00</description>
+        <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0397/compliance/return/15682da9-d4b5-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: SV35712 - NC035925: Monitoring</title>
+        <link>https://leap.epa.ie/licence-profile/P1129/compliance/return/4409c79f-45b7-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-02T00:00:00+00:00</description>
+        <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1129/compliance/return/4409c79f-45b7-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: SW Report May 2026</title>
+        <link>https://leap.epa.ie/licence-profile/P1039/compliance/return/72098809-68b6-f111-8eda-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-11-02T00:00:00+00:00</description>
+        <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1039/compliance/return/72098809-68b6-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: SW Report June 2026</title>
+        <link>https://leap.epa.ie/licence-profile/P1039/compliance/return/7e2fef22-68b6-f111-8eda-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-11-02T00:00:00+00:00</description>
+        <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1039/compliance/return/7e2fef22-68b6-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Response NC 035886</title>
+        <link>https://leap.epa.ie/licence-profile/P0175/compliance/return/903c3592-a9b2-f111-8eda-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-11-02T00:00:00+00:00</description>
+        <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0175/compliance/return/903c3592-a9b2-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Licensee Public Response -SV34952</title>
+        <link>https://leap.epa.ie/licence-profile/P1039/compliance/return/92495aa5-a29c-f111-8ed9-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-02T00:00:00+00:00</description>
+        <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1039/compliance/return/92495aa5-a29c-f111-8ed9-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: SW Report July 2026</title>
+        <link>https://leap.epa.ie/licence-profile/P1039/compliance/return/9de9e638-68b6-f111-8eda-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-11-02T00:00:00+00:00</description>
+        <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1039/compliance/return/9de9e638-68b6-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: 2026 Annual Q rating for River Greese beside the facility</title>
+        <link>https://leap.epa.ie/licence-profile/P0810/compliance/return/c4ac274e-dbb5-f111-8eda-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-11-02T00:00:00+00:00</description>
+        <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0810/compliance/return/c4ac274e-dbb5-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Bypass Event Qtr 2 2026</title>
+        <link>https://leap.epa.ie/licence-profile/P0110/compliance/return/d6a771b6-908a-f111-8ed9-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-02T00:00:00+00:00</description>
+        <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0110/compliance/return/d6a771b6-908a-f111-8ed9-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: SW Report August 2026</title>
+        <link>https://leap.epa.ie/licence-profile/P1039/compliance/return/d7ed1c51-68b6-f111-8eda-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-11-02T00:00:00+00:00</description>
+        <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1039/compliance/return/d7ed1c51-68b6-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: SW Report April 2026</title>
+        <link>https://leap.epa.ie/licence-profile/P1039/compliance/return/efde05e9-67b6-f111-8eda-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-11-02T00:00:00+00:00</description>
+        <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1039/compliance/return/efde05e9-67b6-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: SV34440</title>
+        <link>https://leap.epa.ie/licence-profile/P0284/compliance/return/fc485309-4980-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-02T00:00:00+00:00</description>
+        <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0284/compliance/return/fc485309-4980-f111-8ed8-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
