@@ -3,43 +3,43 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-11-05.csv)</description>
-    <lastBuildDate>Thu, 05 Nov 2026 03:52:01 +0000</lastBuildDate>
-    <pubDate>Thu, 05 Nov 2026 03:52:01 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-11-06.csv)</description>
+    <lastBuildDate>Fri, 06 Nov 2026 03:51:29 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Nov 2026 03:51:29 +0000</pubDate>
     <item>
-        <title>Annual Environmental Report: AER 2025</title>
-        <link>https://leap.epa.ie/licence-profile/P1023/compliance/return/39ba6908-36b8-f111-8eda-005056be4ac2</link>
-        <description>Type: Annual Environmental Report<br>Date: 2026-11-04T00:00:00+00:00</description>
-        <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1023/compliance/return/39ba6908-36b8-f111-8eda-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Waste and Materials Storage Plan</title>
+        <link>https://leap.epa.ie/licence-profile/P1136/compliance/return/06a03480-7292-f111-8ed9-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-05T00:00:00+00:00</description>
+        <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1136/compliance/return/06a03480-7292-f111-8ed9-005056be4ac2</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Details of noise prevention measures requested in SV35646</title>
-        <link>https://leap.epa.ie/licence-profile/P0301/compliance/return/8c4f1d37-ecb8-f111-8eda-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-11-04T00:00:00+00:00</description>
-        <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0301/compliance/return/8c4f1d37-ecb8-f111-8eda-005056be4ac2</guid>
+        <title>Requests for Approval and Site Reports: LoW codes / pre-approval of wastes</title>
+        <link>https://leap.epa.ie/licence-profile/W0245/compliance/return/084b1b30-4bea-f011-a37b-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-11-05T00:00:00+00:00</description>
+        <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0245/compliance/return/084b1b30-4bea-f011-a37b-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Monitoring Returns: Tara Mines Monthly TSF Groundwater Report</title>
-        <link>https://leap.epa.ie/licence-profile/P0516/compliance/return/93f4157f-98c0-f111-8eda-005056be4ac2</link>
-        <description>Type: Monitoring Returns<br>Date: 2026-11-04T00:00:00+00:00</description>
-        <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0516/compliance/return/93f4157f-98c0-f111-8eda-005056be4ac2</guid>
+        <title>Requests for Approval and Site Reports: LoW Codes</title>
+        <link>https://leap.epa.ie/licence-profile/W0245/compliance/return/2e564ac2-1164-f111-8ed8-005056be4ac2</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-11-05T00:00:00+00:00</description>
+        <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0245/compliance/return/2e564ac2-1164-f111-8ed8-005056be4ac2</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: P0799-BAT extension request Buffer Storage</title>
-        <link>https://leap.epa.ie/licence-profile/P0799/compliance/return/ce80c1cd-52ab-f011-a377-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-11-04T00:00:00+00:00</description>
-        <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0799/compliance/return/ce80c1cd-52ab-f011-a377-0050568a2d1a</guid>
+        <title>Requests for Approval and Site Reports: LoW Codes</title>
+        <link>https://leap.epa.ie/licence-profile/W0245/compliance/return/d0ef7afc-1a00-f111-a37c-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-11-05T00:00:00+00:00</description>
+        <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0245/compliance/return/d0ef7afc-1a00-f111-a37c-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Incident: Breach of ELV</title>
-        <link>https://leap.epa.ie/licence-profile/P0725/compliance/incident/2ce0d0b7-cec0-f111-8eda-005056be4ac2</link>
-        <description>Type: Incident<br>Date: 2026-11-03T00:00:00+00:00</description>
-        <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0725/compliance/incident/2ce0d0b7-cec0-f111-8eda-005056be4ac2</guid>
+        <title>Requests for Approval and Site Reports: Request for approval for the temporary installation of a process chiller</title>
+        <link>https://leap.epa.ie/licence-profile/P0643/compliance/return/c7c0c309-15c1-f111-8eda-005056be4ac2</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-11-04T00:00:00+00:00</description>
+        <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0643/compliance/return/c7c0c309-15c1-f111-8eda-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
