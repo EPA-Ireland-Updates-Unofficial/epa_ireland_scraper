@@ -3,15 +3,22 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-11-09.csv)</description>
-    <lastBuildDate>Mon, 09 Nov 2026 03:51:45 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Nov 2026 03:51:45 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-11-10.csv)</description>
+    <lastBuildDate>Tue, 10 Nov 2026 03:51:54 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Nov 2026 03:51:54 +0000</pubDate>
     <item>
-        <title>Complaint: P0205-02, 07/10/26, Odour</title>
-        <link>https://leap.epa.ie/licence-profile/P0205/compliance/complaint/38014a22-f5c3-f111-8eda-005056be4ac2</link>
-        <description>Type: Complaint<br>Date: 2026-11-06T00:00:00+00:00</description>
-        <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0205/compliance/complaint/38014a22-f5c3-f111-8eda-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Licensee Public Response - SV34470</title>
+        <link>https://leap.epa.ie/licence-profile/P0571/compliance/return/47a5ca73-b1d3-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-09T00:00:00+00:00</description>
+        <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0571/compliance/return/47a5ca73-b1d3-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Licensee Public Response - SV35820</title>
+        <link>https://leap.epa.ie/licence-profile/P0407/compliance/return/d9552d60-85d4-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-09T00:00:00+00:00</description>
+        <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0407/compliance/return/d9552d60-85d4-f111-8eda-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
