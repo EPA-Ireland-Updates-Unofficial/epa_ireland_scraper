@@ -3,22 +3,29 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-11-10.csv)</description>
-    <lastBuildDate>Wed, 11 Nov 2026 03:51:20 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Nov 2026 03:51:20 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-11-12.csv)</description>
+    <lastBuildDate>Thu, 12 Nov 2026 03:52:22 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2026 03:52:22 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV34470</title>
-        <link>https://leap.epa.ie/licence-profile/P0571/compliance/return/47a5ca73-b1d3-f111-8eda-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-11-09T00:00:00+00:00</description>
-        <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0571/compliance/return/47a5ca73-b1d3-f111-8eda-005056be4ac2</guid>
+        <title>Monitoring Returns: 2025 Annual Leachate Report</title>
+        <link>https://leap.epa.ie/licence-profile/W0109/compliance/return/3d99db7f-29b0-f111-8eda-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-11-11T00:00:00+00:00</description>
+        <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0109/compliance/return/3d99db7f-29b0-f111-8eda-005056be4ac2</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV35820</title>
-        <link>https://leap.epa.ie/licence-profile/P0407/compliance/return/d9552d60-85d4-f111-8eda-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-11-09T00:00:00+00:00</description>
-        <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0407/compliance/return/d9552d60-85d4-f111-8eda-005056be4ac2</guid>
+        <title>Site Updates/Notifications: CONFIDENTIAL</title>
+        <link>https://leap.epa.ie/licence-profile/W0214/compliance/return/9665cdff-30bf-f011-a378-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-11T00:00:00+00:00</description>
+        <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0214/compliance/return/9665cdff-30bf-f011-a378-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: 2026 Environmental Noise Report</title>
+        <link>https://leap.epa.ie/licence-profile/P0973/compliance/return/cfe0d5c2-2b7c-f111-8ed8-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-11-11T00:00:00+00:00</description>
+        <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0973/compliance/return/cfe0d5c2-2b7c-f111-8ed8-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
