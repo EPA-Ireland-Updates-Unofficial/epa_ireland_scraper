@@ -3,43 +3,43 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-11-13.csv)</description>
-    <lastBuildDate>Fri, 13 Nov 2026 03:51:45 +0000</lastBuildDate>
-    <pubDate>Fri, 13 Nov 2026 03:51:45 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-11-14.csv)</description>
+    <lastBuildDate>Sat, 14 Nov 2026 03:51:28 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Nov 2026 03:51:28 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Rosslare Europort 2026 Dredging Campaign</title>
-        <link>https://leap.epa.ie/licence-profile/S0016/compliance/return/38750b03-85de-f111-8eda-005056be4ac2</link>
+        <title>Site Updates/Notifications: Update to LR 108035 Medium Combustion Plant Data Request</title>
+        <link>https://leap.epa.ie/licence-profile/P0015/compliance/return/27c0d291-bac0-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-13T00:00:00+00:00</description>
+        <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0015/compliance/return/27c0d291-bac0-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: Updated Firewater Runoff Risk Assessment - FI</title>
+        <link>https://leap.epa.ie/licence-profile/P0187/compliance/return/4df506f3-5e9d-f111-8ed9-005056be4ac2</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-11-13T00:00:00+00:00</description>
+        <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0187/compliance/return/4df506f3-5e9d-f111-8ed9-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Medium Combustion Plant Return 2026</title>
+        <link>https://leap.epa.ie/licence-profile/W0184/compliance/return/5fb32667-a3bd-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-13T00:00:00+00:00</description>
+        <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0184/compliance/return/5fb32667-a3bd-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: SVR Response</title>
+        <link>https://leap.epa.ie/licence-profile/P0450/compliance/return/bb8a8a55-ffc2-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-13T00:00:00+00:00</description>
+        <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0450/compliance/return/bb8a8a55-ffc2-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: SV34395 - North Firewater Retention Pond Maintenance</title>
+        <link>https://leap.epa.ie/licence-profile/P0010/compliance/return/ec5141bb-e3c7-f111-8eda-005056be4ac2</link>
         <description>Type: Site Updates/Notifications<br>Date: 2026-11-12T00:00:00+00:00</description>
         <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/S0016/compliance/return/38750b03-85de-f111-8eda-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Requests for Approval and Site Reports: Firewater Retention Risk Assessment Balbriggan</title>
-        <link>https://leap.epa.ie/licence-profile/P1014/compliance/return/b2f3dd4c-5dc6-f111-8eda-005056be4ac2</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-11-12T00:00:00+00:00</description>
-        <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1014/compliance/return/b2f3dd4c-5dc6-f111-8eda-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Quarterly Monitoring Report Q3 2026 - Groundwater results</title>
-        <link>https://leap.epa.ie/licence-profile/P0035/compliance/return/89ca2ca1-04c7-f111-8eda-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-11-11T00:00:00+00:00</description>
-        <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0035/compliance/return/89ca2ca1-04c7-f111-8eda-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Incident: HFC fugitive emission from chiller</title>
-        <link>https://leap.epa.ie/licence-profile/P0207/compliance/incident/ba0060cc-f1c6-f111-8eda-005056be4ac2</link>
-        <description>Type: Incident<br>Date: 2026-11-10T00:00:00+00:00</description>
-        <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0207/compliance/incident/ba0060cc-f1c6-f111-8eda-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Site Visit: </title>
-        <link>https://leap.epa.ie/licence-profile/D0072/compliance/sitevisit/eabc4b64-0deb-f011-a32d-0050568a66b2</link>
-        <description>Type: Site Visit<br>Date: 2026-11-10T00:00:00+00:00</description>
-        <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0072/compliance/sitevisit/eabc4b64-0deb-f011-a32d-0050568a66b2</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0010/compliance/return/ec5141bb-e3c7-f111-8eda-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
