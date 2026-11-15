@@ -3,43 +3,22 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-11-14.csv)</description>
-    <lastBuildDate>Sat, 14 Nov 2026 03:51:28 +0000</lastBuildDate>
-    <pubDate>Sat, 14 Nov 2026 03:51:28 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-11-15.csv)</description>
+    <lastBuildDate>Sun, 15 Nov 2026 03:51:52 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Nov 2026 03:51:52 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Update to LR 108035 Medium Combustion Plant Data Request</title>
-        <link>https://leap.epa.ie/licence-profile/P0015/compliance/return/27c0d291-bac0-f111-8eda-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-11-13T00:00:00+00:00</description>
+        <title>Incident: Ambient ELV breach</title>
+        <link>https://leap.epa.ie/licence-profile/P1069/compliance/incident/471ff9e3-94c8-f111-8eda-005056be4ac2</link>
+        <description>Type: Incident<br>Date: 2026-11-13T00:00:00+00:00</description>
         <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0015/compliance/return/27c0d291-bac0-f111-8eda-005056be4ac2</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1069/compliance/incident/471ff9e3-94c8-f111-8eda-005056be4ac2</guid>
     </item>
     <item>
-        <title>Requests for Approval and Site Reports: Updated Firewater Runoff Risk Assessment - FI</title>
-        <link>https://leap.epa.ie/licence-profile/P0187/compliance/return/4df506f3-5e9d-f111-8ed9-005056be4ac2</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-11-13T00:00:00+00:00</description>
-        <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0187/compliance/return/4df506f3-5e9d-f111-8ed9-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Medium Combustion Plant Return 2026</title>
-        <link>https://leap.epa.ie/licence-profile/W0184/compliance/return/5fb32667-a3bd-f111-8eda-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-11-13T00:00:00+00:00</description>
-        <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0184/compliance/return/5fb32667-a3bd-f111-8eda-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: SVR Response</title>
-        <link>https://leap.epa.ie/licence-profile/P0450/compliance/return/bb8a8a55-ffc2-f111-8eda-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-11-13T00:00:00+00:00</description>
-        <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0450/compliance/return/bb8a8a55-ffc2-f111-8eda-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: SV34395 - North Firewater Retention Pond Maintenance</title>
-        <link>https://leap.epa.ie/licence-profile/P0010/compliance/return/ec5141bb-e3c7-f111-8eda-005056be4ac2</link>
+        <title>Site Updates/Notifications: Final CCTV Survey October 2026</title>
+        <link>https://leap.epa.ie/licence-profile/W0279/compliance/return/aa2d2317-8ac8-f111-8eda-005056be4ac2</link>
         <description>Type: Site Updates/Notifications<br>Date: 2026-11-12T00:00:00+00:00</description>
         <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0010/compliance/return/ec5141bb-e3c7-f111-8eda-005056be4ac2</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0279/compliance/return/aa2d2317-8ac8-f111-8eda-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
