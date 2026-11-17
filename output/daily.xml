@@ -3,22 +3,57 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-11-15.csv)</description>
-    <lastBuildDate>Mon, 16 Nov 2026 03:51:37 +0000</lastBuildDate>
-    <pubDate>Mon, 16 Nov 2026 03:51:37 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-11-17.csv)</description>
+    <lastBuildDate>Tue, 17 Nov 2026 03:56:41 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Nov 2026 03:56:41 +0000</pubDate>
     <item>
-        <title>Incident: Ambient ELV breach</title>
-        <link>https://leap.epa.ie/licence-profile/P1069/compliance/incident/471ff9e3-94c8-f111-8eda-005056be4ac2</link>
-        <description>Type: Incident<br>Date: 2026-11-13T00:00:00+00:00</description>
-        <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1069/compliance/incident/471ff9e3-94c8-f111-8eda-005056be4ac2</guid>
+        <title>Site Updates/Notifications: ICW cells receiving leachate</title>
+        <link>https://leap.epa.ie/licence-profile/P0610/compliance/return/191e4ca9-c2c7-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-16T00:00:00+00:00</description>
+        <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0610/compliance/return/191e4ca9-c2c7-f111-8eda-005056be4ac2</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Final CCTV Survey October 2026</title>
-        <link>https://leap.epa.ie/licence-profile/W0279/compliance/return/aa2d2317-8ac8-f111-8eda-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-11-12T00:00:00+00:00</description>
-        <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0279/compliance/return/aa2d2317-8ac8-f111-8eda-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Report on Buffer Capacity Assessment</title>
+        <link>https://leap.epa.ie/licence-profile/P0794/compliance/return/35c821f4-a3c8-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-16T00:00:00+00:00</description>
+        <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0794/compliance/return/35c821f4-a3c8-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Surface Water Testing Q3 2026</title>
+        <link>https://leap.epa.ie/licence-profile/P0608/compliance/return/46f89e36-c9c0-f111-8eda-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-11-16T00:00:00+00:00</description>
+        <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0608/compliance/return/46f89e36-c9c0-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: EPA961 New Process</title>
+        <link>https://leap.epa.ie/licence-profile/P0110/compliance/return/8e92500a-7195-f111-8ed9-005056be4ac2</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-11-16T00:00:00+00:00</description>
+        <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0110/compliance/return/8e92500a-7195-f111-8ed9-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: SV35430 P0804-02, Incident INCI033186</title>
+        <link>https://leap.epa.ie/licence-profile/P0804/compliance/return/8f3f3d79-847f-f111-8ed8-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-16T00:00:00+00:00</description>
+        <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0804/compliance/return/8f3f3d79-847f-f111-8ed8-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: Submission of the Buffer Capacity Assessment</title>
+        <link>https://leap.epa.ie/licence-profile/P0810/compliance/return/a2e9036e-eac6-f111-8eda-005056be4ac2</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-11-16T00:00:00+00:00</description>
+        <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0810/compliance/return/a2e9036e-eac6-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Training records</title>
+        <link>https://leap.epa.ie/licence-profile/P0804/compliance/return/a758984a-a985-f111-8ed9-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-16T00:00:00+00:00</description>
+        <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0804/compliance/return/a758984a-a985-f111-8ed9-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
