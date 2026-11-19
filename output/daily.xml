@@ -3,43 +3,120 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-11-18.csv)</description>
-    <lastBuildDate>Wed, 18 Nov 2026 03:51:52 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Nov 2026 03:51:52 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-11-19.csv)</description>
+    <lastBuildDate>Thu, 19 Nov 2026 03:52:37 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Nov 2026 03:52:37 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Response to SV35596</title>
-        <link>https://leap.epa.ie/licence-profile/P1084/compliance/return/1f53b2d7-0bc3-f111-8eda-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-11-17T00:00:00+00:00</description>
-        <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1084/compliance/return/1f53b2d7-0bc3-f111-8eda-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Dunboyne Biologics pH Trend SE1/SW1</title>
+        <link>https://leap.epa.ie/licence-profile/P1073/compliance/return/10142dfa-88c1-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-18T00:00:00+00:00</description>
+        <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1073/compliance/return/10142dfa-88c1-f111-8eda-005056be4ac2</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Response to SV35596</title>
-        <link>https://leap.epa.ie/licence-profile/P1084/compliance/return/86603d66-0fc3-f111-8eda-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-11-17T00:00:00+00:00</description>
-        <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1084/compliance/return/86603d66-0fc3-f111-8eda-005056be4ac2</guid>
+        <title>Monitoring Returns: Q value report - Basketstown</title>
+        <link>https://leap.epa.ie/licence-profile/W0010/compliance/return/2e1e8938-679b-ef11-a36b-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-11-18T00:00:00+00:00</description>
+        <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0010/compliance/return/2e1e8938-679b-ef11-a36b-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Annual Environmental Report: AER 2025</title>
-        <link>https://leap.epa.ie/licence-profile/D0164/compliance/return/dbcd686d-f696-f111-8ed9-005056be4ac2</link>
-        <description>Type: Annual Environmental Report<br>Date: 2026-11-17T00:00:00+00:00</description>
-        <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0164/compliance/return/dbcd686d-f696-f111-8ed9-005056be4ac2</guid>
+        <title>Monitoring Returns: Water Test results</title>
+        <link>https://leap.epa.ie/licence-profile/P0674/compliance/return/335f8e90-87b5-f111-8eda-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-11-18T00:00:00+00:00</description>
+        <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0674/compliance/return/335f8e90-87b5-f111-8eda-005056be4ac2</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Naul WwTP Phase II Upgrade Works</title>
-        <link>https://leap.epa.ie/licence-profile/D0546/compliance/return/e9680bf8-c4ad-f111-8eda-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-11-17T00:00:00+00:00</description>
-        <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0546/compliance/return/e9680bf8-c4ad-f111-8eda-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Surface water monitoring</title>
+        <link>https://leap.epa.ie/licence-profile/P0363/compliance/return/4c810745-35b7-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-18T00:00:00+00:00</description>
+        <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0363/compliance/return/4c810745-35b7-f111-8eda-005056be4ac2</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Response to SV34513</title>
-        <link>https://leap.epa.ie/licence-profile/P0781/compliance/return/f80744c8-07c3-f111-8eda-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-11-17T00:00:00+00:00</description>
-        <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0781/compliance/return/f80744c8-07c3-f111-8eda-005056be4ac2</guid>
+        <title>Monitoring Returns: 2026 Annual Metals</title>
+        <link>https://leap.epa.ie/licence-profile/P0079/compliance/return/6287f101-c2c0-f111-8eda-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-11-18T00:00:00+00:00</description>
+        <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0079/compliance/return/6287f101-c2c0-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: 3rd Qtr surface water monitoring</title>
+        <link>https://leap.epa.ie/licence-profile/P0363/compliance/return/688156e1-35b7-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-18T00:00:00+00:00</description>
+        <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0363/compliance/return/688156e1-35b7-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Ponsegromab - Environmental Impact Assessment proposal</title>
+        <link>https://leap.epa.ie/licence-profile/P0652/compliance/return/91ff3645-d99b-f111-8ed9-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-11-18T00:00:00+00:00</description>
+        <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0652/compliance/return/91ff3645-d99b-f111-8ed9-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: RMP Monitoring Report 2024</title>
+        <link>https://leap.epa.ie/licence-profile/P0031/compliance/return/b25efcb7-a194-f011-a377-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-18T00:00:00+00:00</description>
+        <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0031/compliance/return/b25efcb7-a194-f011-a377-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Upgrade of Trade Effluent Monitoring Equipment</title>
+        <link>https://leap.epa.ie/licence-profile/P0652/compliance/return/ba0a832c-efa2-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-18T00:00:00+00:00</description>
+        <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0652/compliance/return/ba0a832c-efa2-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: 2026 Bi-Annual VOCs</title>
+        <link>https://leap.epa.ie/licence-profile/P0079/compliance/return/c5e01d33-c1bc-f111-8eda-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-11-18T00:00:00+00:00</description>
+        <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0079/compliance/return/c5e01d33-c1bc-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: EPA Request - Consolidated Site Boundary Map</title>
+        <link>https://leap.epa.ie/licence-profile/P0483/compliance/return/cc79f812-39a8-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-18T00:00:00+00:00</description>
+        <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0483/compliance/return/cc79f812-39a8-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Drains Map Update re: CI002216</title>
+        <link>https://leap.epa.ie/licence-profile/P0079/compliance/return/d1af7a00-cfbc-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-18T00:00:00+00:00</description>
+        <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0079/compliance/return/d1af7a00-cfbc-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: 2nd Qtr Surface water monitoring</title>
+        <link>https://leap.epa.ie/licence-profile/P0363/compliance/return/d8637d6e-35b7-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-18T00:00:00+00:00</description>
+        <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0363/compliance/return/d8637d6e-35b7-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: 2026 Toxicity 1 of 2</title>
+        <link>https://leap.epa.ie/licence-profile/P0079/compliance/return/e675eb03-c0bc-f111-8eda-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-11-18T00:00:00+00:00</description>
+        <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0079/compliance/return/e675eb03-c0bc-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: 2026 Q2 Emissions to sewer</title>
+        <link>https://leap.epa.ie/licence-profile/P0079/compliance/return/edd70301-23bc-f111-8eda-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-11-18T00:00:00+00:00</description>
+        <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0079/compliance/return/edd70301-23bc-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: P1189-01 Stormwater Sampling Proposal</title>
+        <link>https://leap.epa.ie/licence-profile/P1189/compliance/return/f2f559e2-e1c3-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-18T00:00:00+00:00</description>
+        <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1189/compliance/return/f2f559e2-e1c3-f111-8eda-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
