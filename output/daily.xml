@@ -3,43 +3,29 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-11-20.csv)</description>
-    <lastBuildDate>Fri, 20 Nov 2026 03:52:26 +0000</lastBuildDate>
-    <pubDate>Fri, 20 Nov 2026 03:52:26 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-11-21.csv)</description>
+    <lastBuildDate>Sat, 21 Nov 2026 03:52:29 +0000</lastBuildDate>
+    <pubDate>Sat, 21 Nov 2026 03:52:29 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV35747</title>
-        <link>https://leap.epa.ie/licence-profile/W0147/compliance/return/0d352f6e-7ce2-f111-8eda-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-11-19T00:00:00+00:00</description>
-        <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0147/compliance/return/0d352f6e-7ce2-f111-8eda-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Noise Complaint 05.10.26</title>
+        <link>https://leap.epa.ie/licence-profile/P0445/compliance/return/5a823226-33c3-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-20T00:00:00+00:00</description>
+        <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0445/compliance/return/5a823226-33c3-f111-8eda-005056be4ac2</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Waste and Materials Storage Plan - W0240-02</title>
-        <link>https://leap.epa.ie/licence-profile/W0240/compliance/return/4a1c051b-3b9d-f111-8ed9-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-11-19T00:00:00+00:00</description>
-        <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0240/compliance/return/4a1c051b-3b9d-f111-8ed9-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Licensee return answer</title>
+        <link>https://leap.epa.ie/licence-profile/P0188/compliance/return/60209490-68b6-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-20T00:00:00+00:00</description>
+        <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0188/compliance/return/60209490-68b6-f111-8eda-005056be4ac2</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Bioaersol Monitoring SOP</title>
-        <link>https://leap.epa.ie/licence-profile/P1199/compliance/return/69f605e0-0ac7-f111-8eda-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-11-19T00:00:00+00:00</description>
-        <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1199/compliance/return/69f605e0-0ac7-f111-8eda-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Requests for Approval and Site Reports: Request for update to Approval for LR105561</title>
-        <link>https://leap.epa.ie/licence-profile/P1106/compliance/return/092398c3-b9cc-f111-8eda-005056be4ac2</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-11-18T00:00:00+00:00</description>
-        <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1106/compliance/return/092398c3-b9cc-f111-8eda-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Q3 2026 WDF Reporting</title>
-        <link>https://leap.epa.ie/licence-profile/W0018/compliance/return/b30c4c86-8fcc-f111-8eda-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-11-17T00:00:00+00:00</description>
-        <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0018/compliance/return/b30c4c86-8fcc-f111-8eda-005056be4ac2</guid>
+        <title>Site Updates/Notifications: Licensee Public Response - SV35508</title>
+        <link>https://leap.epa.ie/licence-profile/W0147/compliance/return/6719bdad-7ce2-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-20T00:00:00+00:00</description>
+        <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0147/compliance/return/6719bdad-7ce2-f111-8eda-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
