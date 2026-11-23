@@ -3,29 +3,15 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-11-21.csv)</description>
-    <lastBuildDate>Sun, 22 Nov 2026 03:52:24 +0000</lastBuildDate>
-    <pubDate>Sun, 22 Nov 2026 03:52:24 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-11-23.csv)</description>
+    <lastBuildDate>Mon, 23 Nov 2026 04:26:16 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Nov 2026 04:26:16 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Noise Complaint 05.10.26</title>
-        <link>https://leap.epa.ie/licence-profile/P0445/compliance/return/5a823226-33c3-f111-8eda-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-11-20T00:00:00+00:00</description>
+        <title>Incident: Odour ELV exceedance. Resu1t 1,610 Odour result. Date (Q3: 21/07/26)</title>
+        <link>https://leap.epa.ie/licence-profile/W0195/compliance/incident/7e8559a2-02cf-f111-8eda-005056be4ac2</link>
+        <description>Type: Incident<br>Date: 2026-11-20T00:00:00+00:00</description>
         <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0445/compliance/return/5a823226-33c3-f111-8eda-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Licensee return answer</title>
-        <link>https://leap.epa.ie/licence-profile/P0188/compliance/return/60209490-68b6-f111-8eda-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-11-20T00:00:00+00:00</description>
-        <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0188/compliance/return/60209490-68b6-f111-8eda-005056be4ac2</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV35508</title>
-        <link>https://leap.epa.ie/licence-profile/W0147/compliance/return/6719bdad-7ce2-f111-8eda-005056be4ac2</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-11-20T00:00:00+00:00</description>
-        <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0147/compliance/return/6719bdad-7ce2-f111-8eda-005056be4ac2</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0195/compliance/incident/7e8559a2-02cf-f111-8eda-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
