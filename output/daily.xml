@@ -3,15 +3,50 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-11-23.csv)</description>
-    <lastBuildDate>Mon, 23 Nov 2026 04:26:16 +0000</lastBuildDate>
-    <pubDate>Mon, 23 Nov 2026 04:26:16 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-11-24.csv)</description>
+    <lastBuildDate>Tue, 24 Nov 2026 04:26:28 +0000</lastBuildDate>
+    <pubDate>Tue, 24 Nov 2026 04:26:28 +0000</pubDate>
     <item>
-        <title>Incident: Odour ELV exceedance. Resu1t 1,610 Odour result. Date (Q3: 21/07/26)</title>
-        <link>https://leap.epa.ie/licence-profile/W0195/compliance/incident/7e8559a2-02cf-f111-8eda-005056be4ac2</link>
-        <description>Type: Incident<br>Date: 2026-11-20T00:00:00+00:00</description>
-        <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0195/compliance/incident/7e8559a2-02cf-f111-8eda-005056be4ac2</guid>
+        <title>Monitoring Returns: Noise Monitoring Report 2026</title>
+        <link>https://leap.epa.ie/licence-profile/P0826/compliance/return/49ac42f3-aabc-f111-8eda-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-11-23T00:00:00+00:00</description>
+        <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0826/compliance/return/49ac42f3-aabc-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Licensee Public Response - SV35628</title>
+        <link>https://leap.epa.ie/licence-profile/W0065/compliance/return/563df9a5-53e7-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-23T00:00:00+00:00</description>
+        <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0065/compliance/return/563df9a5-53e7-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Bund Integrity Assessment Report 2026</title>
+        <link>https://leap.epa.ie/licence-profile/P0807/compliance/return/83281ec5-3dbb-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-23T00:00:00+00:00</description>
+        <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0807/compliance/return/83281ec5-3dbb-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: 2026 Environmental Noise Survey</title>
+        <link>https://leap.epa.ie/licence-profile/P1168/compliance/return/8c0fc7bc-c3b8-f111-8eda-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-11-23T00:00:00+00:00</description>
+        <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1168/compliance/return/8c0fc7bc-c3b8-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: A2-01 – CEMS AST Reports</title>
+        <link>https://leap.epa.ie/licence-profile/P0487/compliance/return/b5501d56-4ccd-f111-8eda-005056be4ac2</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2026-11-23T00:00:00+00:00</description>
+        <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0487/compliance/return/b5501d56-4ccd-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Monitoring Returns: Bioaerosol Monitoring - August 2026</title>
+        <link>https://leap.epa.ie/licence-profile/W0201/compliance/return/bce29974-f5c2-f111-8eda-005056be4ac2</link>
+        <description>Type: Monitoring Returns<br>Date: 2026-11-23T00:00:00+00:00</description>
+        <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0201/compliance/return/bce29974-f5c2-f111-8eda-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
