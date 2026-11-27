@@ -3,22 +3,50 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2026-11-26.csv)</description>
-    <lastBuildDate>Thu, 26 Nov 2026 04:25:30 +0000</lastBuildDate>
-    <pubDate>Thu, 26 Nov 2026 04:25:30 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2026-11-27.csv)</description>
+    <lastBuildDate>Fri, 27 Nov 2026 03:17:54 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Nov 2026 03:17:54 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Response SV35025</title>
-        <link>https://leap.epa.ie/licence-profile/P0190/compliance/return/00c69402-5a3a-f111-a37d-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2026-11-25T00:00:00+00:00</description>
-        <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0190/compliance/return/00c69402-5a3a-f111-a37d-0050568a2d1a</guid>
+        <title>Requests for Approval and Site Reports: ESB Aghada seeks approval to use AAA Munter Loo for sewage waste removal on BESS sites</title>
+        <link>https://leap.epa.ie/licence-profile/P0561/compliance/return/0ca05948-5bcc-f111-8eda-005056be4ac2</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-11-26T00:00:00+00:00</description>
+        <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0561/compliance/return/0ca05948-5bcc-f111-8eda-005056be4ac2</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: response SV35031</title>
-        <link>https://leap.epa.ie/licence-profile/P0190/compliance/return/6ccaac48-593a-f111-a37d-0050568a2d1a</link>
+        <title>Annual Environmental Report: AER 2024</title>
+        <link>https://leap.epa.ie/licence-profile/P0456/compliance/return/2f394f6b-37b8-f111-8eda-005056be4ac2</link>
+        <description>Type: Annual Environmental Report<br>Date: 2026-11-26T00:00:00+00:00</description>
+        <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0456/compliance/return/2f394f6b-37b8-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: Odour Management Plan</title>
+        <link>https://leap.epa.ie/licence-profile/W0082/compliance/return/3fb9b0f3-1ec7-f111-8eda-005056be4ac2</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-11-26T00:00:00+00:00</description>
+        <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0082/compliance/return/3fb9b0f3-1ec7-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Requests for Approval and Site Reports: Continuous ambient air monitoring – proposed equipment suitability</title>
+        <link>https://leap.epa.ie/licence-profile/P1143/compliance/return/51e414a4-21d2-f111-8eda-005056be4ac2</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2026-11-26T00:00:00+00:00</description>
+        <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1143/compliance/return/51e414a4-21d2-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Annual Environmental Report: AER 2025</title>
+        <link>https://leap.epa.ie/licence-profile/P0456/compliance/return/b041687d-37b8-f111-8eda-005056be4ac2</link>
+        <description>Type: Annual Environmental Report<br>Date: 2026-11-26T00:00:00+00:00</description>
+        <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0456/compliance/return/b041687d-37b8-f111-8eda-005056be4ac2</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Licensee Public Response - SV35843</title>
+        <link>https://leap.epa.ie/licence-profile/W0195/compliance/return/38255d40-f8e8-f111-8eda-005056be4ac2</link>
         <description>Type: Site Updates/Notifications<br>Date: 2026-11-25T00:00:00+00:00</description>
         <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0190/compliance/return/6ccaac48-593a-f111-a37d-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0195/compliance/return/38255d40-f8e8-f111-8eda-005056be4ac2</guid>
     </item>
 </channel>
 </rss>
