@@ -1,0 +1,2 @@
+licence_profile_name,document_type,title,leap_url,document_date,compliance_status,compliance_date,profilenumber,licenceprofileid,document_url
+Euroflex Teoranta - P0969,Requests for Approval and Site Reports,Solvent Reclaim Unit,https://leap.epa.ie/licence-profile/P0969/compliance/return/a0a918db-e9d2-f111-8eda-005056be4ac2,2026-11-26T00:00:00+00:00,Closed,2026-10-28T00:00:00,P0969,b72ba093-7044-e711-91cb-0050568a69e2,https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=a0a918db-e9d2-f111-8eda-005056be4ac2
